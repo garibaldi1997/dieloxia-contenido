@@ -29,6 +29,7 @@ jobs:
         run: |
           git config user.name "dieloxia-bot"
           git config user.email "dieloxia-bot@users.noreply.github.com"
+          python scripts/aprendizajes.py
           python scripts/panel.py
           git add estado/ docs/
           git diff --cached --quiet || (git commit -m "Métricas [skip ci]" && git pull --rebase -q && git push)

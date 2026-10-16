@@ -9,12 +9,28 @@ Sirve para aprender qué contenido funciona mejor y ajustar el plan de cada sema
 import json
 import os
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import publicar as p  # noqa: E402
 
 METRICAS = os.path.join(p.RAIZ, "estado", "metricas.json")
+CRECIMIENTO = os.path.join(p.RAIZ, "estado", "crecimiento.json")
+
+
+def cuenta_metricas(cuenta):
+    """Seguidores de la cuenta hoy (para medir el crecimiento día a día)."""
+    page_id, _, ig_id, _ = cuenta.datos()
+    fila = {}
+    if ig_id:
+        d = cuenta.api("GET", ig_id, fields="followers_count,media_count")
+        fila["ig_seguidores"], fila["ig_publicaciones"] = d.get("followers_count"), d.get("media_count")
+    try:
+        d = cuenta.api("GET", page_id, fields="followers_count,fan_count")
+        fila["fb_seguidores"] = d.get("followers_count") or d.get("fan_count")
+    except p.ErrorMeta:
+        pass
+    return fila
 
 
 def ig_metricas(cuenta, media_id):
@@ -70,6 +86,20 @@ def main():
         salida["publicaciones"][pid] = fila
         print(pid, json.dumps({k: v for k, v in fila.items() if k in ("instagram", "facebook")}, ensure_ascii=False))
     p.guardar(METRICAS, salida)
+
+    crecimiento = p.cargar(CRECIMIENTO, [])
+    hoy = datetime.now(timezone(timedelta(hours=-6))).date().isoformat()  # fecha CDMX
+    for nombre, cuenta in cuentas.items():
+        if not cuenta.token:
+            continue
+        try:
+            fila = {"fecha": hoy, "cuenta": nombre, **cuenta_metricas(cuenta)}
+        except p.ErrorMeta as err:
+            print(f"⚠️ {nombre}: no se pudieron leer los seguidores ({err})")
+            continue
+        crecimiento = [c for c in crecimiento if not (c["fecha"] == hoy and c["cuenta"] == nombre)] + [fila]
+        print("Crecimiento:", json.dumps(fila, ensure_ascii=False))
+    p.guardar(CRECIMIENTO, crecimiento)
     return 0
 
 
