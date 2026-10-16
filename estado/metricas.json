@@ -1,1 +1,27 @@
-{"publicaciones": {}}
+{
+  "actualizado": "2026-10-16T04:12:34+00:00",
+  "publicaciones": {
+    "2026-10-16-prueba-post": {
+      "tipo": "imagen",
+      "fecha": "2026-10-15T20:18:00-06:00",
+      "tema": "Un cliente escribe. Tú estás ocupada. ¿Quién contesta?",
+      "instagram": {
+        "error": "GET 17950540467275089: Error validating access token: Session has expired on Thursday, 15-Oct-26 20:00:00 PDT. The current time is Thursday, 15-Oct-26 21:12:34 PDT."
+      },
+      "facebook": {
+        "error": "GET 122104197357506678: Error validating access token: Session has expired on Thursday, 15-Oct-26 20:00:00 PDT. The current time is Thursday, 15-Oct-26 21:12:34 PDT."
+      }
+    },
+    "2026-10-16-prueba-story": {
+      "tipo": "historia",
+      "fecha": "2026-10-15T20:48:00-06:00",
+      "tema": "",
+      "instagram": {
+        "error": "GET 18130290052825548: Error validating access token: Session has expired on Thursday, 15-Oct-26 20:00:00 PDT. The current time is Thursday, 15-Oct-26 21:12:34 PDT."
+      },
+      "facebook": {
+        "error": "GET 1872877133870342: Error validating access token: Session has expired on Thursday, 15-Oct-26 20:00:00 PDT. The current time is Thursday, 15-Oct-26 21:12:34 PDT."
+      }
+    }
+  }
+}
