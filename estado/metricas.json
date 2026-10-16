@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T04:43:29+00:00",
+  "actualizado": "2026-10-16T17:41:31+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -33,9 +33,72 @@
         "like_count": 0,
         "media_product_type": "STORY",
         "permalink": "https://www.instagram.com/stories/dieloxia/4008908841366592362"
+      }
+    },
+    "2026-10-16-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-10-16T09:00:00-06:00",
+      "tema": "¿Cierras a las 7 y los clientes te siguen escribiendo? 🌙",
+      "instagram": {
+        "id": "18134482309676071",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Dejzox0l5su/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
       },
       "facebook": {
-        "error": "GET 1872877133870342: (#100) Tried accessing nonexisting field (likes)"
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122104736781506678"
+      }
+    },
+    "2026-10-16-reel1": {
+      "tipo": "reel",
+      "fecha": "2026-10-16T10:00:00-06:00",
+      "tema": "Dime que eres dentista sin decirme que tienes 14 chats sin leer 😬",
+      "instagram": {
+        "id": "18188146711413694",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Dej6cCdgZM5/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1356217249722858/"
+      }
+    },
+    "2026-10-16-reel2": {
+      "tipo": "reel",
+      "fecha": "2026-10-16T11:00:00-06:00",
+      "tema": "¿En cuánto contestas el WhatsApp de tu negocio? 🟢🟡🔴",
+      "instagram": {
+        "id": "18111299306177963",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DekBSMUAYI0/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1833495741429433/"
       }
     }
   }
