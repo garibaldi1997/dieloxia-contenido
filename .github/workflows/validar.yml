@@ -1,0 +1,16 @@
+name: Validar calendario
+
+on:
+  push:
+    paths: ["calendario.json", "cuentas.json", "scripts/**"]
+  pull_request:
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: python scripts/publicar.py --validar
