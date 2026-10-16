@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "2026-10-16-prueba-post",
+    "cuenta": "dieloxia",
+    "fecha": "2026-10-15T20:18:00-06:00",
+    "tipo": "imagen",
+    "redes": [
+      "instagram",
+      "facebook"
+    ],
+    "imagenes": [
+      "2026-10-16/Dieloxia_2026-10-16_prueba_post.jpg"
+    ],
+    "texto": "Un cliente escribe. Tú estás ocupada. ¿Quién contesta?\n\nAquí es donde se pierden las ventas: no por falta de interés, sino por tardar en responder.\n\n• Tu asistente con IA contesta al instante\n• Atiende dudas, precios y citas\n• Tú tomas el control en 1 clic\n\nGuárdalo y compártelo con quien venda por WhatsApp.\n\nEscríbenos “BOT” por DM o entra a dieloxia.com\n\n#WhatsAppBusiness #NegociosMexico #SanLuisPotosi #AtencionAlCliente #AsistenteIA"
+  },
+  {
+    "id": "2026-10-16-prueba-story",
+    "cuenta": "dieloxia",
+    "fecha": "2026-10-15T20:48:00-06:00",
+    "tipo": "historia",
+    "redes": [
+      "instagram",
+      "facebook"
+    ],
+    "imagenes": [
+      "2026-10-16/Dieloxia_2026-10-16_prueba_story.jpg"
+    ],
+    "texto": ""
+  }
+]
