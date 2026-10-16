@@ -1,0 +1,36 @@
+name: Integrar contenido a main
+
+# Si una sesión de Claude sube el contenido a una rama claude/... (porque no
+# pudo empujar a main), esta acción la integra a main para que el publicador
+# la vea.
+on:
+  push:
+    branches: ["claude/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: integrar
+  cancel-in-progress: false
+
+jobs:
+  integrar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Integrar rama
+        run: |
+          git config user.name "dieloxia-bot"
+          git config user.email "dieloxia-bot@users.noreply.github.com"
+          git fetch origin "${GITHUB_REF_NAME}"
+          if ! git diff --quiet HEAD "origin/${GITHUB_REF_NAME}" -- calendario.json; then
+            git merge --no-edit "origin/${GITHUB_REF_NAME}" -m "Integrar ${GITHUB_REF_NAME} [skip ci]"
+            python3 scripts/publicar.py --validar
+            git push origin main
+          else
+            echo "La rama no cambia calendario.json: nada que integrar."
+          fi
