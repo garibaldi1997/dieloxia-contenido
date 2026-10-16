@@ -33,6 +33,8 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CALENDARIO = os.path.join(RAIZ, "calendario.json")
 CUENTAS = os.path.join(RAIZ, "cuentas.json")
 PUBLICADOS = os.path.join(RAIZ, "estado", "publicados.json")
+INTENTOS = os.path.join(RAIZ, "estado", "intentos.json")  # intentos fallidos por pieza y red
+MAX_INTENTOS = 3
 VENTANA_ATRASO = timedelta(hours=36)  # no publicar entradas viejas olvidadas
 CUENTA_POR_DEFECTO = "dieloxia"
 
@@ -147,6 +149,25 @@ def ig_publicar(cuenta, ig_id, entrada):
         c = cuenta.api("POST", f"{ig_id}/media", image_url=url_publica(imgs[0]), caption=texto)["id"]
     ig_esperar(cuenta, c)
     return cuenta.api("POST", f"{ig_id}/media_publish", creation_id=c)["id"]
+
+
+def ig_ya_publicado(cuenta, ig_id, entrada):
+    """Busca en las últimas publicaciones de Instagram una con el mismo texto (evita duplicados
+    cuando Meta responde con error pero sí publicó)."""
+    texto = " ".join((entrada.get("texto") or "").split())[:80]
+    if not texto or entrada["tipo"] == "historia":
+        return None
+    desde = datetime.fromisoformat(entrada["fecha"]) - timedelta(minutes=10)
+    try:
+        medios = cuenta.api("GET", f"{ig_id}/media", fields="id,caption,timestamp", limit=25).get("data", [])
+    except ErrorMeta:
+        return None
+    for m in medios:
+        cap = " ".join((m.get("caption") or "").split())[:80]
+        cuando = datetime.strptime(m["timestamp"], "%Y-%m-%dT%H:%M:%S%z")
+        if cap == texto and cuando >= desde:
+            return m["id"]
+    return None
 
 
 # ---------- Facebook ----------
@@ -290,7 +311,27 @@ def main():
                 if red == "instagram":
                     if not ig_id:
                         raise ErrorMeta("sin cuenta de Instagram vinculada")
-                    pid = ig_publicar(cuenta, ig_id, e)
+                    intentos = cargar(INTENTOS, {})
+                    clave = f"{e['id']}|instagram"
+                    pid = ig_ya_publicado(cuenta, ig_id, e)
+                    if pid:
+                        print(f"  ℹ️ ya estaba publicado en Instagram ({pid}); no se repite")
+                    elif intentos.get(clave, 0) >= MAX_INTENTOS:
+                        hecho[red] = {"omitido": f"{MAX_INTENTOS} intentos fallidos; revisar a mano"}
+                        guardar(PUBLICADOS, publicados)
+                        print(f"  ⛔ {MAX_INTENTOS} intentos fallidos: no se reintenta")
+                        continue
+                    else:
+                        intentos[clave] = intentos.get(clave, 0) + 1
+                        guardar(INTENTOS, intentos)
+                        try:
+                            pid = ig_publicar(cuenta, ig_id, e)
+                        except ErrorMeta:
+                            time.sleep(20)  # Meta a veces publica aunque responda con error
+                            pid = ig_ya_publicado(cuenta, ig_id, e)
+                            if not pid:
+                                raise
+                            print(f"  ℹ️ Meta respondió con error, pero sí se publicó ({pid})")
                 else:
                     pid = fb_publicar(cuenta, page_id, e)
                 hecho[red] = {"id": pid, "fecha": ahora.isoformat(timespec="seconds")}
