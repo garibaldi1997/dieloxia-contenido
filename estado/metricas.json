@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T17:41:31+00:00",
+  "actualizado": "2026-10-17T16:39:12+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -14,7 +14,7 @@
         "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 4
+        "views": 7
       },
       "facebook": {
         "reacciones": 0,
@@ -28,11 +28,7 @@
       "fecha": "2026-10-15T20:48:00-06:00",
       "tema": "",
       "instagram": {
-        "id": "18130290052825548",
-        "comments_count": 0,
-        "like_count": 0,
-        "media_product_type": "STORY",
-        "permalink": "https://www.instagram.com/stories/dieloxia/4008908841366592362"
+        "error": "GET 18130290052825548: Unsupported get request. Object with ID '18130290052825548' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"
       }
     },
     "2026-10-16-carrusel": {
@@ -48,7 +44,7 @@
         "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 1
+        "views": 4
       },
       "facebook": {
         "reacciones": 0,
@@ -67,10 +63,10 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Dej6cCdgZM5/",
-        "reach": 1,
+        "reach": 4,
         "saved": 0,
         "shares": 0,
-        "views": 1
+        "views": 9
       },
       "facebook": {
         "reacciones": 0,
@@ -89,16 +85,128 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DekBSMUAYI0/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 1
+        "views": 4
       },
       "facebook": {
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "/reel/1833495741429433/"
+      }
+    },
+    "2026-10-16-reel3": {
+      "tipo": "reel",
+      "fecha": "2026-10-16T12:00:00-06:00",
+      "tema": "“Un bot me quita el control de mi negocio.” ❌ MITO.",
+      "instagram": {
+        "id": "18020851250945401",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DekIKFngvW7/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 8
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1670304904657236/"
+      }
+    },
+    "2026-10-16-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-10-16T13:30:00-06:00",
+      "tema": "9:47 pm. Te escriben. ¿Contestas mañana? 🌙",
+      "instagram": {
+        "id": "17936999850399765",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DekSbv-GPLA/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 9
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122104929363506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-16-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-10-16T15:30:00-06:00",
+      "tema": "Tu WhatsApp un lunes cualquiera 🙃",
+      "instagram": {
+        "id": "18106454354360712",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DekgKZWlQvw/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 3
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122104999113506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-16-post3": {
+      "tipo": "imagen",
+      "fecha": "2026-10-16T17:30:00-06:00",
+      "tema": "Buen Fin 2026: del 13 al 17 de noviembre. ¿Tu WhatsApp aguanta 5 días de mensajes? 🛍️",
+      "instagram": {
+        "id": "17911233684557806",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Dekt5MnifkQ/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122105061975506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-16-story1": {
+      "tipo": "historia",
+      "fecha": "2026-10-16T19:00:00-06:00",
+      "tema": "",
+      "instagram": {
+        "id": "18243861646315442",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "STORY",
+        "permalink": "https://www.instagram.com/stories/dieloxia/4009576721448455194"
+      }
+    },
+    "2026-10-16-story2": {
+      "tipo": "historia",
+      "fecha": "2026-10-16T20:30:00-06:00",
+      "tema": "",
+      "instagram": {
+        "id": "17989037913114387",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "STORY",
+        "permalink": "https://www.instagram.com/stories/dieloxia/4009622021558216725"
       }
     }
   }
