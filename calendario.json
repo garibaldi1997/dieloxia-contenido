@@ -155,5 +155,55 @@
       "2026-10-16/Dieloxia_2026-10-16_story2.jpg"
     ],
     "texto": ""
+  },
+  {
+    "id": "2026-10-18-carrusel",
+    "cuenta": "dieloxia",
+    "fecha": "2026-10-18T16:00:00-06:00",
+    "tipo": "carrusel",
+    "redes": [
+      "instagram",
+      "facebook"
+    ],
+    "imagenes": [
+      "2026-10-18/Dieloxia_2026-10-18_carrusel_slide1.jpg",
+      "2026-10-18/Dieloxia_2026-10-18_carrusel_slide2.jpg",
+      "2026-10-18/Dieloxia_2026-10-18_carrusel_slide3.jpg",
+      "2026-10-18/Dieloxia_2026-10-18_carrusel_slide4.jpg",
+      "2026-10-18/Dieloxia_2026-10-18_carrusel_slide5.jpg",
+      "2026-10-18/Dieloxia_2026-10-18_carrusel_slide6.jpg",
+      "2026-10-18/Dieloxia_2026-10-18_carrusel_slide7.jpg",
+      "2026-10-18/Dieloxia_2026-10-18_carrusel_slide8.jpg"
+    ],
+    "texto": "6 funciones GRATIS de WhatsApp Business que casi nadie usa 👀\n\nYa vienen en tu app y te ahorran horas cada semana:\n\n1️⃣ Mensaje de bienvenida\n2️⃣ Mensaje de ausencia (fuera de horario)\n3️⃣ Respuestas rápidas con “/”\n4️⃣ Etiquetas para ordenar tus chats\n5️⃣ Catálogo con fotos y precios\n6️⃣ Horario y dirección en tu perfil\n\nEn cada slide te dejamos dónde activarla.\n\nGuárdalo para configurarlo hoy y mándaselo a quien contesta el WhatsApp de tu negocio 📲\n\n#WhatsAppBusiness #NegociosMexico #SanLuisPotosi #AtencionAlCliente #Emprendedores #TipsWhatsApp",
+    "texto_linkedin": "La mayoría de los negocios usa WhatsApp Business como si fuera WhatsApp normal.\n\nY se pierden 6 funciones gratuitas que ya vienen en la app:\n\n• Mensaje de bienvenida para el primer contacto\n• Mensaje de ausencia fuera de horario\n• Respuestas rápidas con “/” para precios, ubicación y pagos\n• Etiquetas para saber quién falta de pagar o recoger\n• Catálogo con foto y precio\n• Horario y dirección visibles en el perfil\n\nActivarlas toma menos de una hora y ordena la atención desde el primer día. Cuando el volumen crece y el mensaje fijo ya no alcanza, ahí entra un asistente con IA, siempre con control humano.\n\n¿Cuál de estas ya usa tu equipo?\n\nMás ideas en instagram.com/dieloxia · dieloxia.com\n\n#WhatsAppBusiness #AtencionAlCliente #PyMEs #Mexico"
+  },
+  {
+    "id": "2026-10-18-post1",
+    "cuenta": "dieloxia",
+    "fecha": "2026-10-18T18:30:00-06:00",
+    "tipo": "imagen",
+    "redes": [
+      "instagram",
+      "facebook"
+    ],
+    "imagenes": [
+      "2026-10-18/Dieloxia_2026-10-18_post1.jpg"
+    ],
+    "texto": "Un cliente te escribe en domingo. ¿En cuánto le contestas? 🤔\n\nA) En menos de 5 minutos ⚡\nB) En algún momento del día ⏳\nC) Hasta el lunes 😴\n\nSin juicios: todos hemos sido C alguna vez. Lo importante es que el cliente no se quede con la duda (un mensaje de ausencia ya ayuda).\n\nContesta A, B o C en comentarios, te leo 👇\n\n#WhatsAppBusiness #NegociosMexico #SanLuisPotosi #AtencionAlCliente #Emprendedores"
+  },
+  {
+    "id": "2026-10-18-story1",
+    "cuenta": "dieloxia",
+    "fecha": "2026-10-18T20:30:00-06:00",
+    "tipo": "historia",
+    "redes": [
+      "instagram",
+      "facebook"
+    ],
+    "imagenes": [
+      "2026-10-18/Dieloxia_2026-10-18_story1.jpg"
+    ],
+    "texto": ""
   }
 ]
