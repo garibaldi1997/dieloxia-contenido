@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T16:39:12+00:00",
+  "actualizado": "2026-10-18T16:52:38+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -190,11 +190,7 @@
       "fecha": "2026-10-16T19:00:00-06:00",
       "tema": "",
       "instagram": {
-        "id": "18243861646315442",
-        "comments_count": 0,
-        "like_count": 0,
-        "media_product_type": "STORY",
-        "permalink": "https://www.instagram.com/stories/dieloxia/4009576721448455194"
+        "error": "GET 18243861646315442: Unsupported get request. Object with ID '18243861646315442' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"
       }
     },
     "2026-10-16-story2": {
@@ -202,11 +198,7 @@
       "fecha": "2026-10-16T20:30:00-06:00",
       "tema": "",
       "instagram": {
-        "id": "17989037913114387",
-        "comments_count": 0,
-        "like_count": 0,
-        "media_product_type": "STORY",
-        "permalink": "https://www.instagram.com/stories/dieloxia/4009622021558216725"
+        "error": "GET 17989037913114387: Unsupported get request. Object with ID '17989037913114387' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"
       }
     }
   }
