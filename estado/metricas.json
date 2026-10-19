@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T16:52:38+00:00",
+  "actualizado": "2026-10-19T19:28:05+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -88,7 +88,7 @@
         "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 4
+        "views": 6
       },
       "facebook": {
         "reacciones": 0,
@@ -110,7 +110,7 @@
         "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 8
+        "views": 10
       },
       "facebook": {
         "reacciones": 0,
@@ -132,7 +132,7 @@
         "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 9
+        "views": 10
       },
       "facebook": {
         "reacciones": 0,
@@ -154,7 +154,7 @@
         "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 3
+        "views": 4
       },
       "facebook": {
         "reacciones": 0,
@@ -176,7 +176,7 @@
         "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 2
+        "views": 3
       },
       "facebook": {
         "reacciones": 0,
@@ -199,6 +199,150 @@
       "tema": "",
       "instagram": {
         "error": "GET 17989037913114387: Unsupported get request. Object with ID '17989037913114387' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"
+      }
+    },
+    "2026-10-18-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-10-18T16:00:00-06:00",
+      "tema": "6 funciones GRATIS de WhatsApp Business que casi nadie usa 👀",
+      "instagram": {
+        "id": "18121119221010438",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DeptPwSFt7o/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 3
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122106881319506678"
+      }
+    },
+    "2026-10-18-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-10-18T18:30:00-06:00",
+      "tema": "Un cliente te escribe en domingo. ¿En cuánto le contestas? 🤔",
+      "instagram": {
+        "id": "18022751777929766",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Dep-Wy2FbWC/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 3
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122106945219506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-18-story1": {
+      "tipo": "historia",
+      "fecha": "2026-10-18T20:30:00-06:00",
+      "tema": "",
+      "instagram": {
+        "id": "18115611920102209",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "STORY",
+        "permalink": "https://www.instagram.com/stories/dieloxia/4011071576342900763"
+      }
+    },
+    "2026-10-19-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-10-19T09:00:00-06:00",
+      "tema": "Buen Fin 2026: del 13 al 17 de noviembre. ¿Tu WhatsApp está listo? 🛍️",
+      "instagram": {
+        "id": "18064146719792938",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DeriDRkFwVQ/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122107515207506678"
+      }
+    },
+    "2026-10-19-reel1": {
+      "tipo": "reel",
+      "fecha": "2026-10-19T10:30:00-06:00",
+      "tema": "¿Qué pasa cuando una clienta te escribe a las 9 pm y nadie contesta? 🌙",
+      "instagram": {
+        "id": "17954874180037050",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DersTGNCpe8/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 5
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1054531320952306/"
+      }
+    },
+    "2026-10-19-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-10-19T12:00:00-06:00",
+      "tema": "El cliente que no recibe respuesta… le escribe al siguiente. 📲",
+      "instagram": {
+        "id": "18140260711532623",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Der2hqjF9yB/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122107675419506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-19-reel-historia-dentista": {
+      "tipo": "reel",
+      "fecha": "2026-10-19T13:00:00-06:00",
+      "tema": "Estás con un paciente… y el WhatsApp no para 📲",
+      "instagram": {
+        "id": "18117797786050634",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Der9Z7pjQmL/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 6
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1449937217059103/"
       }
     }
   }

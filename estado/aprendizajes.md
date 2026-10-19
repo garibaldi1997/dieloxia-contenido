@@ -1,13 +1,13 @@
 # Aprendizajes automáticos
-_Actualizado: 18/10/2026 10:52 CDMX · 8 posts con más de 24 h (historias excluidas)._
+_Actualizado: 19/10/2026 13:28 CDMX · 8 posts con más de 24 h (historias excluidas)._
 
 ## Seguidores
-- **dieloxia** (2026-10-18): Instagram 2 (+0 desde 2026-10-15), Facebook 0 (+0)
+- **dieloxia** (2026-10-19): Instagram 2 (+0 desde 2026-10-15), Facebook 0 (+0)
 
 ## Mejores 3 (repetir el patrón: formato, tipo de gancho, hora)
 - **Dime que eres dentista sin decirme que tienes 14 chats sin leer 😬** · reel · viernes 10:00 · alcance 4, vistas 9, guardados 0, compartidos 0, comentarios 0
 - **Un cliente escribe. Tú estás ocupada. ¿Quién contesta?** · imagen · jueves 20:00 · alcance 2, vistas 7, guardados 0, compartidos 0, comentarios 0
-- **¿En cuánto contestas el WhatsApp de tu negocio? 🟢🟡🔴** · reel · viernes 11:00 · alcance 2, vistas 4, guardados 0, compartidos 0, comentarios 0
+- **¿En cuánto contestas el WhatsApp de tu negocio? 🟢🟡🔴** · reel · viernes 11:00 · alcance 2, vistas 6, guardados 0, compartidos 0, comentarios 0
 
 ## Peores 3 (no repetir ese gancho/formato/hora tal cual)
 - **Tu WhatsApp un lunes cualquiera 🙃** · imagen · viernes 15:00 · alcance 2, puntaje 0
