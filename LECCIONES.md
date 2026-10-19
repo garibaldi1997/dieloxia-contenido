@@ -16,3 +16,11 @@ Garibaldi: "A todos los post le pones Escríbenos BOT. Esto no es muy atractivo.
 - En historias: "Responde esta historia", "Ver el reel en el perfil", "Vota en los comentarios del post" o solo el logo con dieloxia.com.
 - En reels: el cierre invita a guardar, comentar o ver el siguiente video, no a escribir una palabra clave.
 - Primero valor y luego venta: la mayoría de las piezas no deben vender.
+
+## 2026-10-19 · Nunca el logo en la parte superior
+Garibaldi: "Siempre pones el logo en la parte superior, eso se ve feo."
+
+- PROHIBIDO poner el logo arriba (encabezado, esquina superior o barra superior) en posts, carruseles, historias y reels.
+- En el feed: logo pequeño abajo, o solo en la última lámina.
+- En reels: sin logo durante el video; el logo va solo en el cierre.
+- En historias: logo pequeño abajo, respetando la zona segura inferior.
