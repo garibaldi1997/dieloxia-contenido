@@ -34,3 +34,9 @@ Garibaldi compartió un reel de la competencia como referencia: "así son los re
 - Música original suave + sonido en cada notificación + whoosh en el rebobinado; la música baja cuando habla la voz.
 - Difumina nombres bordados, gafetes o marcas reales que aparezcan en las fotos.
 - Referencia hecha: `2026-10-19/Dieloxia_2026-10-19_reel_historia_dentista.mp4`.
+
+## 2026-10-19 · Varía el tipo de negocio en cada reel con historia
+Garibaldi: "variable los videos para todo tipo de negocio".
+- Cada reel con historia es de un giro distinto; no repitas giro en 7 días. Rotación sugerida: consultorio dental, estética/barbería, taller mecánico, taquería/restaurante, veterinaria, boutique de ropa, inmobiliaria, gimnasio, escuela/academia, ferretería, florería, hotel/hostal, abogado/contador, laboratorio clínico, tienda de celulares, pastelería.
+- Ajusta el guion al dolor real del giro (citas, cotizaciones, pedidos, apartados, horarios, precios) y usa fotos de la misma sesión para el protagonista.
+- Herramientas listas en `plantillas/reel_historia/` (render, música y ejemplo).

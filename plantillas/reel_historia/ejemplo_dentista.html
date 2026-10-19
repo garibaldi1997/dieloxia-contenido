@@ -1,0 +1,101 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1920px;overflow:hidden;font-family:'Inter',sans-serif;background:#0d1b1e;-webkit-font-smoothing:antialiased}
+.sc{position:absolute;inset:0;overflow:hidden;opacity:0}
+.sc img.bg{position:absolute;left:0;top:0;width:1080px;height:1920px;object-fit:cover;transform-origin:50% 40%}
+.clock{position:absolute;top:240px;left:50%;transform:translateX(-50%);background:rgba(13,27,30,.78);color:#fff;font-weight:700;font-size:40px;padding:14px 30px;border-radius:99px;display:flex;gap:14px;align-items:center;z-index:20;backdrop-filter:blur(6px)}
+.clock svg{width:38px;height:38px}
+.cap{position:absolute;left:70px;right:70px;top:1300px;text-align:center;font-weight:800;font-size:66px;line-height:1.12;color:#fff;letter-spacing:-.01em;z-index:30;text-shadow:0 4px 18px rgba(0,0,0,.65),0 0 2px #000;-webkit-text-stroke:7px #0d1b1e;paint-order:stroke fill}
+.cap span.on{color:#2fd4b4}
+.notif{position:absolute;left:60px;right:60px;background:rgba(255,255,255,.96);border-radius:34px;padding:24px 28px;display:flex;gap:22px;align-items:center;box-shadow:0 18px 40px rgba(0,0,0,.25);z-index:15}
+.wa{width:72px;height:72px;border-radius:20px;background:#25d366;display:grid;place-items:center;flex-shrink:0}
+.notif b{font-size:32px;color:#0d1b1e}.notif p{font-size:30px;color:#3b4a47;margin-top:4px}
+.notif small{position:absolute;right:28px;top:22px;font-size:24px;color:#8a9592}
+.phone{position:absolute;left:250px;top:430px;width:580px;height:1160px;border-radius:80px;background:linear-gradient(170deg,#24414a,#0d1b1e);box-shadow:0 40px 90px rgba(0,0,0,.5),0 0 0 14px #111;overflow:hidden;z-index:12}
+.phone .t{color:#fff;text-align:center;font-size:150px;font-weight:300;margin-top:150px;letter-spacing:-4px}
+.phone .d{color:#fff;opacity:.8;text-align:center;font-size:30px}
+.mini{margin:14px 26px;background:rgba(255,255,255,.88);border-radius:26px;padding:18px 20px;display:flex;gap:16px;align-items:center}
+.mini .wa{width:50px;height:50px;border-radius:14px}
+.mini b{font-size:26px;color:#0d1b1e}.mini p{font-size:24px;color:#3b4a47}
+.list{position:absolute;inset:0;background:#fff;z-index:10}
+.list h1{font-size:64px;font-weight:800;color:#0d1b1e;margin:340px 0 0 60px}
+.row{display:flex;gap:26px;align-items:center;padding:30px 60px;border-bottom:1px solid #eef0ef;transition:none}
+.av{width:100px;height:100px;border-radius:50%;display:grid;place-items:center;font-weight:800;font-size:40px;color:#fff;flex-shrink:0}
+.row .tx{flex:1;min-width:0}.row b{font-size:36px;color:#0d1b1e}.row p{font-size:30px;color:#5b6663;margin-top:6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.row .r{text-align:right;font-size:24px;color:#8a9592}
+.badge{display:inline-block;margin-top:10px;background:#25d366;color:#fff;font-weight:800;font-size:24px;border-radius:99px;min-width:42px;padding:4px 12px;text-align:center}
+.tag{display:inline-block;margin-top:8px;font-weight:700;font-size:22px;border-radius:99px;padding:6px 14px;background:#e8f7ef;color:#06402b}
+.bub{position:absolute;max-width:780px;font-size:34px;line-height:1.3;padding:22px 28px;border-radius:28px;box-shadow:0 12px 30px rgba(0,0,0,.22);z-index:16}
+.bub.in{left:60px;background:#fff;color:#0d1b1e;border-top-left-radius:8px}
+.bub.out{right:60px;background:#d9fdd3;color:#0d1b1e;border-top-right-radius:8px}
+.bub small{display:block;text-align:right;font-size:22px;color:#667;margin-top:6px}
+.ai{position:absolute;right:60px;font-size:24px;font-weight:800;color:#06402b;background:#2fd4b4;border-radius:99px;padding:8px 18px;z-index:17}
+.glitch{position:absolute;inset:0;z-index:40;pointer-events:none}
+.end{position:absolute;inset:0;background:radial-gradient(ellipse 80% 55% at 50% 45%,#0b5a3c 0%,#06402b 55%,#0d1b1e 100%);z-index:50;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:#fff;opacity:0}
+</style></head><body>
+<div id="root"></div>
+<script>
+const SPEED = window.SPEED || 1;   // la voz se aceleró: t_video * SPEED = t_voz
+const W = window.WORDS || [];
+const P = window.PH || {};
+const ICON = `<svg viewBox="0 0 24 24" width="40" height="40"><path fill="#fff" d="M12 3a9 9 0 0 0-7.8 13.5L3 21l4.6-1.2A9 9 0 1 0 12 3z"/></svg>`;
+const CLK = `<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="#fff" stroke-width="2.2"/><path d="M12 7v5l3 2" stroke="#fff" stroke-width="2.2" fill="none" stroke-linecap="round"/></svg>`;
+const N = (who, msg, top, extra = '') => `<div class="notif" style="top:${top}px;${extra}"><div class="wa">${ICON}</div><div><b>${who}</b><p>${msg}</p></div><small>ahora</small></div>`;
+const MSGS = [['Mariana', 'Hola, ¿tienen cita mañana?', '10:02 am', '#e57373'], ['Luis', '¿Cuánto cuesta una limpieza?', '10:15 am', '#64b5f6'], ['Ana', '¿Abren el sábado?', '10:40 am', '#ffb74d'], ['Jorge', '¿Me agendas para el jueves?', '11:05 am', '#9575cd'], ['Fer', '¿Tienen espacio hoy en la tarde?', '11:30 am', '#4db6ac']];
+const RESP = ['¡Claro! Mañana a las 10:00 ✅', 'Te pasé precios y horarios ✅', 'Sí, sábado de 9 a 2 😊', 'Listo, jueves 5:00 pm ✅', 'Hoy a las 6:00 pm, ¿te queda? ✅'];
+const ease = x => 1 - Math.pow(1 - Math.min(Math.max(x, 0), 1), 3);
+const cl = (x, a, b) => Math.min(Math.max(x, a), b);
+const fade = (v, a, b, f = .25) => cl(Math.min((v - a) / f, (b - v) / f), 0, 1);
+const pop = (v, a) => { const k = ease((v - a) / .35); return `opacity:${k};transform:translateY(${(1 - k) * -60}px) scale(${.9 + .1 * k})`; };
+const bg = (src, v, a, b, pos = '50% 40%', z0 = 1.04, z1 = 1.16) => `<img class="bg" src="${src}" style="object-position:${pos};transform:scale(${z0 + (z1 - z0) * cl((v - a) / (b - a), 0, 1)})">`;
+function clock(txt) { return `<div class="clock">${CLK}${txt}</div>`; }
+function caption(v) {
+  // grupos de ~4 palabras, el grupo vigente se muestra con la palabra actual resaltada
+  let gi = -1; const groups = []; let g = [];
+  W.forEach((w, i) => { g.push(i); const end = /[.,…:]$/.test(w.raw || '') || g.length >= 4; if (end || i === W.length - 1) { groups.push(g); g = []; } });
+  for (let k = 0; k < groups.length; k++) { const s = W[groups[k][0]].t; const e = k + 1 < groups.length ? W[groups[k + 1][0]].t : 99; if (v >= s - .05 && v < e) gi = k; }
+  if (gi < 0) return '';
+  return `<div class="cap">${groups[gi].map(i => `<span class="${v >= W[i].t - .03 ? 'on' : ''}">${W[i].w}</span>`).join(' ')}</div>`;
+}
+function chatList(v, mode) {
+  return `<div class="list"><h1>Chats</h1>${MSGS.map(([n, m, h, c], i) => {
+    let p = m, extra = `<div class="badge">1</div>`, bgc = '#fff';
+    if (mode === 'lost' && (i === 1 || i === 4) && v > 13.6 + i * .15) { p = i === 1 ? 'Gracias, ya agendé en otro lado' : 'Ya encontré lugar, gracias'; bgc = '#fde8ea'; extra = ''; }
+    if (mode === 'ok' && v > 21.2 + i * .45) { p = '✓✓ ' + RESP[i]; extra = `<div class="tag">${i === 1 ? 'Respondido' : 'Cita agendada'}</div>`; bgc = i === Math.floor((v - 21.2) / .45) ? '#f1fbf5' : '#fff'; }
+    return `<div class="row" style="background:${bgc}"><div class="av" style="background:${c}">${n[0]}</div><div class="tx"><b>${n}</b><p>${p}</p></div><div class="r">${h}<br>${extra}</div></div>`;
+  }).join('')}</div>`;
+}
+function render(t) {
+  const v = t * SPEED; let h = '';
+  // 1 · consulta + primera notificación
+  if (v < 4.9) h += `<div class="sc" style="opacity:${fade(v, -1, 4.9)}">${bg(P.b, v, 0, 4.9, '45% 30%')}${clock('10:02 am')}${v > 2.5 ? N('Mariana', 'Hola, ¿tienen cita mañana?', 420, pop(v, 2.5)) : ''}</div>`;
+  // 2 · el teléfono no para
+  if (v > 4.5 && v < 9.6) { const k = v < 6.2 ? 1 : v < 7.8 ? 2 : 3; const hora = ['10:15', '10:40', '11:05'][k - 1];
+    h += `<div class="sc" style="opacity:${fade(v, 4.5, 9.6)}">${bg(P.c, v, 4.5, 9.6, '50% 40%', 1.1, 1.2)}<div style="position:absolute;inset:0;background:rgba(13,27,30,.45);backdrop-filter:blur(10px)"></div>${clock(hora + ' am')}
+    <div class="phone"><div class="t">${hora}</div><div class="d">lunes, 19 de octubre</div><div style="margin-top:60px">${MSGS.slice(0, k + 1).reverse().map(([n, m], i) => `<div class="mini" style="${i === 0 ? pop(v, [4.7, 6.3, 7.85][k - 1]) : ''}"><div class="wa">${ICON}</div><div><b>${n}</b><p>${m}</p></div></div>`).join('')}</div></div></div>`; }
+  // 3 · manos ocupadas
+  if (v > 9.2 && v < 12.2) h += `<div class="sc" style="opacity:${fade(v, 9.2, 12.2)}">${bg(P.j, v, 9.2, 12.2, '55% 35%', 1.15, 1.04)}${clock('11:30 am')}${N('Fer', '¿Tienen espacio hoy en la tarde?', 420, pop(v, 9.6))}</div>`;
+  // 4 · cuando por fin contestas
+  if (v > 11.9 && v < 16.1) h += `<div class="sc" style="opacity:${fade(v, 11.9, 16.1)}">${chatList(v, 'lost')}${clock('1:05 pm')}</div>`;
+  // 5 · rebobinar
+  if (v > 15.7 && v < 16.9) { const g = fade(v, 15.7, 16.9, .2); h += `<div class="sc" style="opacity:1">${bg(P.b, v, 15.7, 16.9, '45% 30%', 1.25, 1.04)}<div class="glitch" style="background:repeating-linear-gradient(0deg,rgba(255,255,255,.08) 0 3px,transparent 3px 9px);mix-blend-mode:screen"></div>
+    <div style="position:absolute;inset:0;background:rgba(47,212,180,${.25 * g});mix-blend-mode:screen;transform:translateX(${Math.sin(v * 90) * 14}px)"></div>
+    <div style="position:absolute;left:0;right:0;top:760px;text-align:center;font-size:200px;color:#fff;opacity:${g};text-shadow:0 0 40px #2fd4b4">⏪</div>${clock('10:02 am')}</div>`; }
+  // 6 · ahora con Dieloxia
+  if (v > 16.6 && v < 21.4) h += `<div class="sc" style="opacity:${fade(v, 16.6, 21.4)}">${bg(P.b, v, 16.6, 21.4, '45% 30%', 1.04, 1.14)}${clock('10:02 am')}
+    <div class="bub in" style="top:420px;${pop(v, 16.8)}">Hola, ¿tienen cita mañana?<small>10:02</small></div>
+    ${v > 18.4 ? `<div class="ai" style="top:590px;${pop(v, 18.4)}">⚡ Asistente con IA</div><div class="bub out" style="top:650px;${pop(v, 18.5)}">¡Claro! 😊 Mañana tengo 10:00 o 12:30, ¿cuál te queda?<small>10:02 ✓✓</small></div>` : ''}</div>`;
+  // 7 · todo contestado
+  if (v > 21.0 && v < 25.6) h += `<div class="sc" style="opacity:${fade(v, 21.0, 25.6)}">${chatList(v, 'ok')}${clock(['10:02', '10:15', '10:40', '11:05', '11:30'][cl(Math.floor((v - 21.2) / .45), 0, 4)] + ' am')}</div>`;
+  // 8 · tú terminas tu consulta
+  if (v > 25.3 && v < 31.0) h += `<div class="sc" style="opacity:${fade(v, 25.3, 31.0)}">${bg(P.i, v, 25.3, 31, '50% 35%', 1.04, 1.12)}${clock('12:00 pm')}
+    ${v > 27.7 ? `<div class="notif" style="top:420px;${pop(v, 27.7)}"><div class="wa" style="background:#06402b">🖐️</div><div><b>Tomar el control</b><p>Pasas al chat humano en 1 clic</p></div></div>` : ''}</div>`;
+  // 9 · cierre
+  if (v > 30.6) { const k = ease((v - 30.6) / .4); h += `<div class="end" style="opacity:${k}"><img src="${P.logo}" style="width:240px;height:240px;transform:scale(${.8 + .2 * k})">
+    <div style="font-size:84px;font-weight:800;letter-spacing:-.02em;line-height:1.05;margin-top:50px;padding:0 90px">Que ningún mensaje <span style="color:#2fd4b4">se quede sin respuesta.</span></div>
+    <div style="font-size:44px;font-weight:700;margin-top:50px;background:#fff;color:#06402b;border-radius:99px;padding:24px 44px">📌 Guárdalo si te pasa</div>
+    <div style="font-size:40px;font-weight:700;margin-top:34px;color:#2fd4b4">dieloxia.com</div></div>`; }
+  h += caption(v);
+  document.getElementById('root').innerHTML = h;
+}
+</script></body></html>
