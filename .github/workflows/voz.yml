@@ -1,0 +1,32 @@
+name: Generar voz de reels
+
+# Convierte voz/*.txt en narración MP3 + tiempos por palabra (para subtítulos).
+on:
+  push:
+    branches: [main]
+    paths: ["voz/*.txt"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: voz
+  cancel-in-progress: false
+
+jobs:
+  voz:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install "edge-tts>=7"
+      - run: python scripts/voz.py
+      - name: Guardar
+        run: |
+          git config user.name "dieloxia-bot"
+          git config user.email "dieloxia-bot@users.noreply.github.com"
+          git add voz
+          git diff --cached --quiet || (git commit -m "Voz de reels [skip ci]" && git pull --rebase origin main && git push origin main)
