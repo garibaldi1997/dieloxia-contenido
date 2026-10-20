@@ -170,6 +170,24 @@ def ig_ya_publicado(cuenta, ig_id, entrada):
     return None
 
 
+def fb_ya_publicado(cuenta, page_id, entrada):
+    """Igual que ig_ya_publicado, pero en la página de Facebook (evita repetir si dos corridas coinciden)."""
+    texto = " ".join((entrada.get("texto") or "").split())[:80]
+    if not texto or entrada["tipo"] == "historia":
+        return None
+    desde = datetime.fromisoformat(entrada["fecha"]) - timedelta(minutes=10)
+    try:
+        posts = cuenta.api("GET", f"{page_id}/posts", fields="id,message,created_time", limit=25).get("data", [])
+    except ErrorMeta:
+        return None
+    for m in posts:
+        msg = " ".join((m.get("message") or "").split())[:80]
+        cuando = datetime.strptime(m["created_time"], "%Y-%m-%dT%H:%M:%S%z")
+        if msg == texto and cuando >= desde:
+            return m["id"]
+    return None
+
+
 # ---------- Facebook ----------
 def fb_publicar(cuenta, page_id, entrada):
     tipo, imgs, texto = entrada["tipo"], entrada.get("imagenes", []), entrada.get("texto", "")
@@ -333,7 +351,11 @@ def main():
                                 raise
                             print(f"  ℹ️ Meta respondió con error, pero sí se publicó ({pid})")
                 else:
-                    pid = fb_publicar(cuenta, page_id, e)
+                    pid = fb_ya_publicado(cuenta, page_id, e)
+                    if pid:
+                        print(f"  ℹ️ ya estaba publicado en Facebook ({pid}); no se repite")
+                    else:
+                        pid = fb_publicar(cuenta, page_id, e)
                 hecho[red] = {"id": pid, "fecha": ahora.isoformat(timespec="seconds")}
                 print(f"  ✅ publicado ({pid})")
                 guardar(PUBLICADOS, publicados)

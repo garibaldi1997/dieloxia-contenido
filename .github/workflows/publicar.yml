@@ -20,7 +20,14 @@ jobs:
   publicar:
     runs-on: ubuntu-latest
     steps:
+      # Siempre la versión más reciente de main (no la del momento en que se disparó),
+      # para ver lo que otra corrida ya publicó y no repetir publicaciones.
       - uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - name: Versión actual
+        run: echo "SHA=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
 
       - uses: actions/setup-python@v6
         with:
@@ -31,8 +38,8 @@ jobs:
           # Un token por cuenta (ver cuentas.json). Al agregar una cuenta, añade su línea aquí.
           META_TOKEN_DIELOXIA: ${{ secrets.META_TOKEN_DIELOXIA }}
           GRAPH_VERSION: ${{ vars.GRAPH_VERSION || 'v26.0' }}
-          RAW_BASE: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.sha }}
-          VIDEO_BASE: https://cdn.jsdelivr.net/gh/${{ github.repository }}@${{ github.sha }}
+          RAW_BASE: https://raw.githubusercontent.com/${{ github.repository }}/${{ env.SHA }}
+          VIDEO_BASE: https://cdn.jsdelivr.net/gh/${{ github.repository }}@${{ env.SHA }}
           DRY_RUN: ${{ inputs.modo == 'simular' && '1' || '0' }}
         run: |
           if [ "${{ inputs.modo }}" = "verificar" ]; then
@@ -50,6 +57,24 @@ jobs:
             python scripts/panel.py
             git add estado/ docs/
             git commit -m "Registro de publicaciones [skip ci]"
-            git pull --rebase -q && git push
+            if ! git pull --rebase -q; then
+              # Otra corrida guardó al mismo tiempo: se combinan ambos registros en vez de fallar.
+              git rebase --abort
+              cp estado/publicados.json /tmp/mio.json
+              git reset -q --hard origin/main 2>/dev/null || true
+              git fetch -q origin main && git reset -q --hard origin/main
+              python3 - <<'PY'
+          import json
+          mio = json.load(open('/tmp/mio.json')); suyo = json.load(open('estado/publicados.json'))
+          for k, redes in mio.items():
+              for red, v in redes.items():
+                  suyo.setdefault(k, {}).setdefault(red, v)
+          json.dump(suyo, open('estado/publicados.json', 'w'), ensure_ascii=False, indent=2)
+          PY
+              python scripts/panel.py
+              git add estado/ docs/
+              git commit -m "Registro de publicaciones (combinado) [skip ci]"
+            fi
+            git push
           fi
 # activado
