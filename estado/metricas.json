@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T19:28:05+00:00",
+  "actualizado": "2026-10-20T18:06:19+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -250,11 +250,7 @@
       "fecha": "2026-10-18T20:30:00-06:00",
       "tema": "",
       "instagram": {
-        "id": "18115611920102209",
-        "comments_count": 0,
-        "like_count": 0,
-        "media_product_type": "STORY",
-        "permalink": "https://www.instagram.com/stories/dieloxia/4011071576342900763"
+        "error": "GET 18115611920102209: Unsupported get request. Object with ID '18115611920102209' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"
       }
     },
     "2026-10-19-carrusel": {
@@ -289,10 +285,10 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DersTGNCpe8/",
-        "reach": 1,
+        "reach": 17,
         "saved": 0,
         "shares": 0,
-        "views": 5
+        "views": 20
       },
       "facebook": {
         "reacciones": 0,
@@ -311,10 +307,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/Der2hqjF9yB/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 1
       },
       "facebook": {
         "reacciones": 0,
@@ -333,7 +329,7 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Der9Z7pjQmL/",
-        "reach": 0,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
         "views": 6
@@ -343,6 +339,184 @@
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "/reel/1449937217059103/"
+      }
+    },
+    "2026-10-19-reel2": {
+      "tipo": "reel",
+      "fecha": "2026-10-19T14:30:00-06:00",
+      "tema": "Estás bajo un coche, con las manos llenas de grasa… y el cliente pregunta cuánto cuesta. 🔧",
+      "instagram": {
+        "id": "17969551970963664",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DesHzqnFDtD/",
+        "reach": 4,
+        "saved": 0,
+        "shares": 0,
+        "views": 5
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1134789549064413/"
+      }
+    },
+    "2026-10-19-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-10-19T16:00:00-06:00",
+      "tema": "“Sí, tengo WhatsApp Business… pero lo contesto cuando puedo.” 🙃",
+      "instagram": {
+        "id": "17889265617622403",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DesR_iZIzOK/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 2
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122107846119506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-19-post3": {
+      "tipo": "imagen",
+      "fecha": "2026-10-19T17:30:00-06:00",
+      "tema": "3 mitos del asistente con IA en WhatsApp 🤖",
+      "instagram": {
+        "id": "18106620097983471",
+        "comments_count": 0,
+        "like_count": 1,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DescSXij22W/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 4
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122107918191506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-19-story1": {
+      "tipo": "historia",
+      "fecha": "2026-10-19T19:30:00-06:00",
+      "tema": "",
+      "instagram": {
+        "id": "18025479575873020",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "STORY",
+        "permalink": "https://www.instagram.com/stories/dieloxia/4011766174610984674"
+      }
+    },
+    "2026-10-19-story2": {
+      "tipo": "historia",
+      "fecha": "2026-10-19T21:00:00-06:00",
+      "tema": "",
+      "instagram": {
+        "id": "18120519937940311",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "STORY",
+        "permalink": "https://www.instagram.com/stories/dieloxia/4011811479954200382"
+      }
+    },
+    "2026-10-20-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-10-20T09:00:00-06:00",
+      "tema": "6 errores al contestar WhatsApp que te cuestan ventas 📲",
+      "instagram": {
+        "id": "17992638060061775",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DeuGyJckew0/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 2
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122108453457506678"
+      }
+    },
+    "2026-10-20-reel1": {
+      "tipo": "reel",
+      "fecha": "2026-10-20T10:00:00-06:00",
+      "tema": "Faltan 24 días para el Buen Fin 🛍️ ¿Tu WhatsApp ya está listo?",
+      "instagram": {
+        "id": "18336816655275896",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DeuNnaID_hb/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 5
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1452024113551249/"
+      }
+    },
+    "2026-10-20-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-10-20T11:00:00-06:00",
+      "tema": "Tu cafetería abre a las 8. Tus clientes ya preguntan desde las 6. ☕",
+      "instagram": {
+        "id": "18210525136365968",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DeuUdg-II-c/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122108503425506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-20-reel-historia-floreria": {
+      "tipo": "reel",
+      "fecha": "2026-10-20T12:00:00-06:00",
+      "tema": "Faltan 12 días para Día de Muertos y tu florería es un caos de cempasúchil 🌼",
+      "instagram": {
+        "id": "18031701662684326",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DeubZ_IjYtU/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1090770240524202/"
       }
     }
   }
