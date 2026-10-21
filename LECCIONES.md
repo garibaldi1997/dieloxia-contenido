@@ -3,6 +3,12 @@
 Reglas obligatorias que salen de la retroalimentación de Garibaldi y de las métricas.
 Las rutinas las leen ANTES de crear contenido. Cada lección nueva se agrega aquí con su fecha.
 
+## 2026-10-21 · Solo el negocio, nunca la persona
+El dueño: "No hables nada de mí nunca, solo hablaremos de los negocios."
+
+- Ningún post, imagen, reel ni voz en off menciona al dueño: sin nombre, sin "soy el doctor…", sin su foto ni su cargo.
+- Los cierres hablan de Dieloxia y de lo que resuelve.
+
 ## 2026-10-16 · No usar "Escríbenos BOT" en todo
 Garibaldi: "A todos los post le pones Escríbenos BOT. Esto no es muy atractivo."
 
