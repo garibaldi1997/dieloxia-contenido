@@ -41,6 +41,13 @@ def ig_metricas(cuenta, media_id):
             datos[m["name"]] = m["values"][0]["value"]
     except p.ErrorMeta:
         pass  # sin permiso de estadísticas: nos quedamos con me gusta y comentarios
+    if datos.get("media_product_type") == "REELS":  # retención: cuánto ven en promedio cada reel
+        try:
+            ins = cuenta.api("GET", f"{media_id}/insights", metric="ig_reels_avg_watch_time,ig_reels_video_view_total_time")
+            for m in ins.get("data", []):
+                datos[m["name"]] = m["values"][0]["value"]  # milisegundos
+        except p.ErrorMeta:
+            pass
     return datos
 
 
