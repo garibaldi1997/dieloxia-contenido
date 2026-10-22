@@ -3,6 +3,13 @@
 Reglas obligatorias que salen de la retroalimentación de Garibaldi y de las métricas.
 Las rutinas las leen ANTES de crear contenido. Cada lección nueva se agrega aquí con su fecha.
 
+## 2026-10-22 · Efectos en todos los reels
+El dueño compartió el video "10 efectos de video con Claude" y pidió usarlos siempre, con su voz.
+
+- Todos los reels usan `plantillas/efectos/efectos.js` con el tema de Dieloxia: `FX.tema({bg:'#0d1b1e', bg2:'#06402b', a:'#00b35c', a2:'#2fd4b4'})`.
+- Mínimo 4 efectos distintos por reel (orbit, frame break, UI world, digital zoom, phone mockup con chat de WhatsApp, headline wall, zoom through, chart grow, doodle boil, glass type), cambio de escena cada 2–4 s, voz natural y subtítulos palabra por palabra.
+- Se combinan con la regla de fotos reales: las fotos van de fondo en escenas con `uiWorld`/`phone` encima. Detalle en `plantillas/efectos/README.md`.
+
 ## 2026-10-21 · Solo el negocio, nunca la persona
 El dueño: "No hables nada de mí nunca, solo hablaremos de los negocios."
 

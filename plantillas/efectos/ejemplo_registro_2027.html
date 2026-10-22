@@ -1,0 +1,58 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1920px;overflow:hidden;background:#0b1330;color:#fff;font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased}
+#root{position:absolute;inset:0}
+</style><script src="efectos.js"></script></head><body><div id="root"></div>
+<script>
+const SPEED = window.SPEED || 1, W = window.WORDS || [], P = window.PH || {};
+const { at, up, pop, T } = FX;
+const LOGO = () => `<img src="${P.logo}" style="width:170px">`;
+function pantalla(v, t0) {
+  const fila = (ic, a, b, s) => `<div style="display:flex;gap:16px;align-items:center;padding:18px 22px;background:#fff;border-radius:22px;margin:0 22px 14px;box-shadow:0 6px 16px rgba(17,28,59,.08);${up(v, s, .35, 30)}"><div style="width:56px;height:56px;border-radius:16px;background:#34B614;display:grid;place-items:center;font-size:28px">${ic}</div><div><div style="font-size:26px;font-weight:800">${a}</div><div style="font-size:20px;color:#5b667a">${b}</div></div></div>`;
+  return `<div style="padding:80px 0 0"><div style="text-align:center;font-size:22px;font-weight:800;letter-spacing:.14em;color:#34B614">CHECKONOFF</div>
+    <div style="text-align:center;font-size:96px;font-weight:900;letter-spacing:-.03em;margin:10px 0 4px">8:02</div><div style="text-align:center;font-size:24px;color:#5b667a;margin-bottom:26px">jueves · turno matutino</div>
+    <div style="margin:0 60px 30px;height:110px;border-radius:60px;background:${v > t0 + .9 ? '#34B614' : '#111C3B'};color:#fff;display:grid;place-items:center;font-size:32px;white-space:nowrap;font-weight:900;transform:scale(${v > t0 + .9 && v < t0 + 1.1 ? .94 : 1})">${v > t0 + .9 ? '✓ Entrada registrada' : 'Registrar entrada'}</div>
+    ${fila('⏱️', 'Hora: 8:02 am', 'Sello del servidor', t0 + 1.1)}${fila('📍', 'Ubicación verificada', 'Dentro de la sucursal', at(W, 'ubicación'))}${fila('📸', 'Foto de entrada', 'Guardada en el registro', at(W, 'foto'))}</div>`;
+}
+function render(t) {
+  const v = t * SPEED;
+  const S = { si: at(W, 'si'), ten: at(W, 'tienes'), sin: at(W, 'sin'), con: at(W, 'con'), desde: at(W, 'desde', 1), pre: at(W, 'pre-'), gua: at(W, 'guárdalo') };
+  let h = FX.css() + FX.fondo(v, { brillo: v > S.con ? 1.2 : .8 });
+  // 1 · Glass type: 2027
+  if (v < S.si + .1) h += FX.kicker(v, .1, 'DESDE EL 1 DE ENERO', 470) + FX.glassType(v, .25, S.si + .1, '2027', { y: 560, size: 300 })
+    + `<div class="fx-ab fx-big" style="left:60px;right:60px;top:930px;text-align:center;font-size:76px;${up(v, at(W, 'registrar'), .4)}">Registro <span style="color:${T.a2}">electrónico</span></div>`
+    + `<div class="fx-ab" style="left:0;right:0;top:1080px;text-align:center"><span style="display:inline-block;background:${T.r};font-weight:900;font-size:60px;padding:12px 34px;border-radius:18px;${pop(v, at(W, 'obligatorio'), .35)}">OBLIGATORIO</span></div>`;
+  // 2 · Headline wall: llega la STPS
+  if (v > S.si - .1 && v < S.ten + .1) h += FX.headlineWall(v, S.si, S.ten + .1, ['Inspección STPS', 'Art. 132 fr. XXXIV', 'Registro de jornada', '¿Llegan mañana?'], { y: 560, size: 54, paso: .3 });
+  // 3 · Doodle boil: la pregunta
+  if (v > S.ten - .1 && v < S.sin + .1) h += FX.doodle(v, S.ten, S.sin + .1, '¿Y la prueba?', { y: 860, size: 120, rx: 420, ry: 210 });
+  // 4 · Digital zoom: la multa
+  if (v > S.sin - .1 && v < S.con + .1) h += FX.kicker(v, S.sin, 'MULTA MÁXIMA · 5,000 UMA', 600) + FX.digitalZoom(v, S.sin + .2, S.con + .1, 586550, { pre: '$', y: 700, size: 140, dur: 1.4 })
+    + `<div class="fx-ab" style="left:0;right:0;top:1150px;text-align:center;font-size:30px;color:${T.s};${up(v, S.sin + .8, .4, 20)}">Art. 994 de la Ley Federal del Trabajo</div>`;
+  h += FX.zoomThrough(v, S.con, { dur: .8 });
+  // 5 · Orbit: CheckONOFF al centro
+  if (v > S.con - .1 && v < S.desde + .1) h += FX.orbit(v, S.con, S.desde + .1, LOGO(), ['⏱️', '📍', '📸', '📱', '✅', '📊'], { y: 860, r: 360 })
+    + `<div class="fx-ab fx-big" style="left:0;right:0;top:1180px;text-align:center;font-size:84px;${up(v, S.con + .3, .4)}">CheckONOFF</div>`;
+  // 6 · Phone mockup + UI world
+  if (v > S.desde - .1 && v < S.pre + .1) {
+    h += FX.phone(v, S.desde, S.pre + .1, vv => pantalla(vv, S.desde), { x: 300, y: 330 });
+    h += FX.uiWorld(v, S.desde + .6, S.pre + .1, [
+      { x: 30, y: 420, w: 300, html: `<div style="font-size:24px;color:${T.s}">Hora</div><div style="font-size:44px;font-weight:900">8:02 am</div>` },
+      { x: 760, y: 640, w: 290, html: `<div style="font-size:24px;color:${T.s}">Ubicación</div><div style="font-size:36px;font-weight:900;color:${T.a2}">✓ Verificada</div>` },
+      { x: 40, y: 980, w: 300, html: `<div style="font-size:24px;color:${T.s}">Foto</div><div style="font-size:36px;font-weight:900">📸 Guardada</div>` }]);
+  }
+  // 7 · Chart grow: la pre-nómina
+  if (v > S.pre - .1 && v < S.gua + .1) h += FX.kicker(v, S.pre, 'PRE-NÓMINA EN 1 CLIC', 420) + FX.chartGrow(v, S.pre, S.gua + .1, [['Ventas', 38], ['Almacén', 52], ['Caja', 24], ['Admin', 31]], { y: 520, h: 640, suf: ' h extra', titulo: 'Quincena calculada' });
+  // 8 · Frame break + cierre
+  if (v > S.gua - .1) {
+    const icono = `<div style="width:300px;height:300px;border-radius:70px;background:#fff;display:grid;place-items:center;box-shadow:0 0 80px ${T.a}99"><img src="${P.logo}" style="width:220px"></div>`;
+    h += FX.frameBreak(v, S.gua - .1, 999, icono, { x: 240, y: 680, w: 600, h: 200 })
+      + `<div class="fx-ab fx-big" style="left:0;right:0;top:960px;text-align:center;font-size:80px;${up(v, S.gua + .2, .4)}">Guárdalo <span style="color:${T.a2}">·</span> compártelo</div>
+         <div class="fx-ab" style="left:0;right:0;top:1090px;text-align:center;font-size:40px;font-weight:700;color:${T.s};${up(v, at(W, 'equipo'), .4, 30)}">con tu equipo de RRHH</div>
+         <div class="fx-ab" style="left:0;right:0;top:1230px;text-align:center;font-size:52px;font-weight:900;${up(v, S.gua + 1.2, .5, 30)}">checkonoff.mx</div>`;
+  }
+  if (v < S.gua - .1) h += FX.subtitulos(v, W);
+  h += FX.grano(v);
+  document.getElementById('root').innerHTML = h;
+}
+</script></body></html>
