@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T18:06:19+00:00",
+  "actualizado": "2026-10-22T18:09:44+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -66,7 +66,9 @@
         "reach": 4,
         "saved": 0,
         "shares": 0,
-        "views": 9
+        "views": 9,
+        "ig_reels_avg_watch_time": 4443,
+        "ig_reels_video_view_total_time": 31103
       },
       "facebook": {
         "reacciones": 0,
@@ -88,7 +90,9 @@
         "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 6
+        "views": 6,
+        "ig_reels_avg_watch_time": 4225,
+        "ig_reels_video_view_total_time": 29578
       },
       "facebook": {
         "reacciones": 0,
@@ -110,7 +114,9 @@
         "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 10
+        "views": 10,
+        "ig_reels_avg_watch_time": 12017,
+        "ig_reels_video_view_total_time": 60086
       },
       "facebook": {
         "reacciones": 0,
@@ -288,7 +294,9 @@
         "reach": 17,
         "saved": 0,
         "shares": 0,
-        "views": 20
+        "views": 21,
+        "ig_reels_avg_watch_time": 3395,
+        "ig_reels_video_view_total_time": 57716
       },
       "facebook": {
         "reacciones": 0,
@@ -310,7 +318,7 @@
         "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 1
+        "views": 5
       },
       "facebook": {
         "reacciones": 0,
@@ -332,7 +340,9 @@
         "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 6
+        "views": 8,
+        "ig_reels_avg_watch_time": 15825,
+        "ig_reels_video_view_total_time": 79126
       },
       "facebook": {
         "reacciones": 0,
@@ -354,7 +364,9 @@
         "reach": 4,
         "saved": 0,
         "shares": 0,
-        "views": 5
+        "views": 6,
+        "ig_reels_avg_watch_time": 4196,
+        "ig_reels_video_view_total_time": 29377
       },
       "facebook": {
         "reacciones": 0,
@@ -412,11 +424,7 @@
       "fecha": "2026-10-19T19:30:00-06:00",
       "tema": "",
       "instagram": {
-        "id": "18025479575873020",
-        "comments_count": 0,
-        "like_count": 0,
-        "media_product_type": "STORY",
-        "permalink": "https://www.instagram.com/stories/dieloxia/4011766174610984674"
+        "error": "GET 18025479575873020: Unsupported get request. Object with ID '18025479575873020' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"
       }
     },
     "2026-10-19-story2": {
@@ -424,11 +432,7 @@
       "fecha": "2026-10-19T21:00:00-06:00",
       "tema": "",
       "instagram": {
-        "id": "18120519937940311",
-        "comments_count": 0,
-        "like_count": 0,
-        "media_product_type": "STORY",
-        "permalink": "https://www.instagram.com/stories/dieloxia/4011811479954200382"
+        "error": "GET 18120519937940311: Unsupported get request. Object with ID '18120519937940311' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"
       }
     },
     "2026-10-20-carrusel": {
@@ -466,7 +470,9 @@
         "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 5
+        "views": 6,
+        "ig_reels_avg_watch_time": 10104,
+        "ig_reels_video_view_total_time": 30313
       },
       "facebook": {
         "reacciones": 0,
@@ -507,16 +513,378 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DeubZ_IjYtU/",
-        "reach": 0,
+        "reach": 4,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 8,
+        "ig_reels_avg_watch_time": 9028,
+        "ig_reels_video_view_total_time": 63197
       },
       "facebook": {
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "/reel/1090770240524202/"
+      }
+    },
+    "2026-10-20-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-10-20T15:00:00-06:00",
+      "tema": "Traductor de clientes por WhatsApp 🔁",
+      "instagram": {
+        "id": "18129300625701208",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Deuv7NpmXIF/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 4
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122108587575506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-20-post3": {
+      "tipo": "imagen",
+      "fecha": "2026-10-20T17:00:00-06:00",
+      "tema": "Ferretería, 5:40 pm 🔧",
+      "instagram": {
+        "id": "18066278213716596",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Deu9qCzCUJe/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122108615289506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-20-reel2": {
+      "tipo": "reel",
+      "fecha": "2026-10-20T18:00:00-06:00",
+      "tema": "POV: tienes una veterinaria 🐶 y a las 11:48 pm te escriben: “Mi perrito no quiere comer, ¿",
+      "instagram": {
+        "id": "18118216882996510",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DevEhZGFJJW/",
+        "reach": 4,
+        "saved": 0,
+        "shares": 0,
+        "views": 6,
+        "ig_reels_avg_watch_time": 4607,
+        "ig_reels_video_view_total_time": 32250
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2878060295902204/"
+      }
+    },
+    "2026-10-20-story1": {
+      "tipo": "historia",
+      "fecha": "2026-10-20T20:00:00-06:00",
+      "tema": "",
+      "instagram": {
+        "error": "GET 18130876210834362: Unsupported get request. Object with ID '18130876210834362' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"
+      }
+    },
+    "2026-10-20-story2": {
+      "tipo": "historia",
+      "fecha": "2026-10-20T21:30:00-06:00",
+      "tema": "",
+      "instagram": {
+        "error": "GET 17901503343656046: Unsupported get request. Object with ID '17901503343656046' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"
+      }
+    },
+    "2026-10-21-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-10-21T09:00:00-06:00",
+      "tema": "¿Cuánto cuesta? 🤔 Es la pregunta que más pierde ventas… por cómo se contesta.",
+      "instagram": {
+        "id": "18014996597754768",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DewrlWHDTFz/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122108930643506678"
+      }
+    },
+    "2026-10-21-reel1": {
+      "tipo": "reel",
+      "fecha": "2026-10-21T10:00:00-06:00",
+      "tema": "Alguien pregunta por tu departamento a las 10 pm 🏠 Tú dormías… y el cliente ya preguntó en",
+      "instagram": {
+        "id": "18193305685397649",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DewyaEnE6L1/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 6,
+        "ig_reels_avg_watch_time": 7070,
+        "ig_reels_video_view_total_time": 42421
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2634533736994995/"
+      }
+    },
+    "2026-10-21-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-10-21T11:00:00-06:00",
+      "tema": "Está frente a tu producto. Y te está escribiendo 📲",
+      "instagram": {
+        "id": "18636998467037518",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Dew5QZqHWgf/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122108978871506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-21-reel-historia-pasteleria": {
+      "tipo": "reel",
+      "fecha": "2026-10-21T12:00:00-06:00",
+      "tema": "Es temporada de pan de muerto y tu pastelería no para 🥖🧡",
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1568861894992027/"
+      },
+      "instagram": {
+        "id": "18071721836496997",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DexB8Tegb4V/",
+        "reach": 5,
+        "saved": 0,
+        "shares": 0,
+        "views": 11,
+        "ig_reels_avg_watch_time": 18273,
+        "ig_reels_video_view_total_time": 164465
+      }
+    },
+    "2026-10-21-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-10-21T15:00:00-06:00",
+      "tema": "Tu aviso de Día de Muertos para WhatsApp 🧡🕯️",
+      "instagram": {
+        "id": "18176343730454096",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DexUuX9ATG5/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 7
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122109075489506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-21-post3": {
+      "tipo": "imagen",
+      "fecha": "2026-10-21T17:00:00-06:00",
+      "tema": "Lunes, 7:10 am. Estás entrenando a tu gente 🏋️ y llegan 6 mensajes de personas que quieren",
+      "instagram": {
+        "id": "18040597556842030",
+        "comments_count": 0,
+        "like_count": 1,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DexicrPHxp9/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122109105633506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-21-reel2": {
+      "tipo": "reel",
+      "fecha": "2026-10-21T18:00:00-06:00",
+      "tema": "¿Contestar WhatsApp a las 11 pm es parte de tu trabajo? 🌙",
+      "instagram": {
+        "id": "18115510439105164",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DexpUtjjRHi/",
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "views": 7,
+        "ig_reels_avg_watch_time": 4148,
+        "ig_reels_video_view_total_time": 29041
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1821294242225984/"
+      }
+    },
+    "2026-10-21-story1": {
+      "tipo": "historia",
+      "fecha": "2026-10-21T20:00:00-06:00",
+      "tema": "",
+      "instagram": {
+        "id": "18208335463372982",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "STORY",
+        "permalink": "https://www.instagram.com/stories/dieloxia/4013230832764798578"
+      }
+    },
+    "2026-10-21-story2": {
+      "tipo": "historia",
+      "fecha": "2026-10-21T21:30:00-06:00",
+      "tema": "",
+      "instagram": {
+        "id": "17922206697447199",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "STORY",
+        "permalink": "https://www.instagram.com/stories/dieloxia/4013276128084585128"
+      }
+    },
+    "2026-10-22-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-10-22T09:00:00-06:00",
+      "tema": "Antes de abrir tu negocio, revisa esto en tu WhatsApp ☀️ ¿Cuántos de estos cinco pasos hac",
+      "instagram": {
+        "id": "18121198534972872",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DezQabMl4_F/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 6
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122109462111506678"
+      }
+    },
+    "2026-10-22-reel1": {
+      "tipo": "reel",
+      "fecha": "2026-10-22T10:00:00-06:00",
+      "tema": "Son las 2 de la tarde y tu fonda está llena 🍲 Entran tres mensajes y nadie contesta…",
+      "instagram": {
+        "id": "18128067242481361",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DezXV8zEVud/",
+        "reach": 14,
+        "saved": 0,
+        "shares": 1,
+        "views": 22,
+        "ig_reels_avg_watch_time": 13695,
+        "ig_reels_video_view_total_time": 191743
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/4627110100907264/"
+      }
+    },
+    "2026-10-22-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-10-22T11:00:00-06:00",
+      "tema": "Mito: contestar con inteligencia artificial suena a robot 🤖",
+      "instagram": {
+        "id": "17869618851661558",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DezeDcQDUiS/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 4
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122109504303506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-22-reel-historia-taller": {
+      "tipo": "reel",
+      "fecha": "2026-10-22T12:00:00-06:00",
+      "tema": "Es lunes por la mañana y tu taller no tiene un segundo libre 🔧",
+      "instagram": {
+        "id": "18200226091382710",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Dezk7osDGUd/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1794878965054753/"
       }
     }
   }
