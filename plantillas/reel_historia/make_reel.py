@@ -6,7 +6,10 @@ from playwright.sync_api import sync_playwright
 D, VOZ, SPEED, LOGO = pathlib.Path(sys.argv[1]).resolve(), pathlib.Path(sys.argv[2]), float(sys.argv[3]), pathlib.Path(sys.argv[4])
 probes = [float(x) for x in sys.argv[5:]]
 FPS = 30
-words = json.load(open(VOZ.with_suffix('.json')))
+words = []
+for w in json.load(open(VOZ.with_suffix('.json'))):  # Edge a veces junta varias palabras ("1 de enero") en un solo tiempo
+    ps = w['w'].split() or [w['w']]
+    words += [{'t': w['t'] + w['d'] * i / len(ps), 'd': w['d'] / len(ps), 'w': x} for i, x in enumerate(ps)]
 toks = [t for l in VOZ.with_suffix('.txt').read_text().splitlines() if not l.startswith('#voz') for t in l.split()]
 toks = [t for t in toks if re.search(r'\w', t)]
 assert len(toks) == len(words), (len(toks), len(words))
