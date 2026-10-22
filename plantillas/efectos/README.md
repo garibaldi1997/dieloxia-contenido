@@ -18,7 +18,7 @@
 Reglas:
 - Cada reel usa **al menos 4 efectos distintos** y cambia de escena cada 2–4 s, sincronizado con la voz (`FX.at(W, 'palabra')`).
 - Gancho en el segundo 0 con `glassType`, `digitalZoom` o `headlineWall`. Subtítulos con `FX.subtitulos` y `FX.grano` al final.
-- Voz natural (repo privado garibaldi-voz). Nunca hablar del dueño. Nunca logo arriba: el logo va al centro en `orbit`/`frameBreak` o en el cierre.
+- Voz de Edge alternando mujer (es-MX-DaliaNeural) y hombre (es-MX-JorgeNeural); nunca la voz del dueño. Nunca hablar del dueño. Nunca logo arriba: el logo va al centro en `orbit`/`frameBreak` o en el cierre.
 - Colores: CheckONOFF es el tema por defecto. Dieloxia: `FX.tema({bg:'#0d1b1e', bg2:'#06402b', a:'#00b35c', a2:'#2fd4b4'})`.
 
 Cómo armar uno: copia `ejemplo_registro_2027.html` como `reel.html` en una carpeta con `efectos.js`, `voz.mp3` y `voz.json`, ajusta las escenas y corre `plantillas/reel_historia/make_reel.py <carpeta> <carpeta>/voz 1.0 <logo.png>` (con `bed.py` para música y sonidos).
