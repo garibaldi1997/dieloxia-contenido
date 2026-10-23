@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T05:34:03+00:00",
+  "actualizado": "2026-10-23T17:57:08+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -819,12 +819,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DezXV8zEVud/",
-        "reach": 54,
+        "reach": 69,
         "saved": 0,
         "shares": 1,
-        "views": 62,
-        "ig_reels_avg_watch_time": 4455,
-        "ig_reels_video_view_total_time": 253975
+        "views": 77,
+        "ig_reels_avg_watch_time": 4738,
+        "ig_reels_video_view_total_time": 345881
       },
       "facebook": {
         "reacciones": 0,
@@ -869,8 +869,8 @@
         "saved": 0,
         "shares": 0,
         "views": 9,
-        "ig_reels_avg_watch_time": 3567,
-        "ig_reels_video_view_total_time": 17835
+        "ig_reels_avg_watch_time": 6844,
+        "ig_reels_video_view_total_time": 41064
       },
       "facebook": {
         "reacciones": 0,
@@ -937,8 +937,8 @@
         "saved": 0,
         "shares": 0,
         "views": 8,
-        "ig_reels_avg_watch_time": 33151,
-        "ig_reels_video_view_total_time": 66302
+        "ig_reels_avg_watch_time": 31625,
+        "ig_reels_video_view_total_time": 94877
       },
       "facebook": {
         "reacciones": 0,
@@ -969,6 +969,74 @@
         "like_count": 0,
         "media_product_type": "STORY",
         "permalink": "https://www.instagram.com/stories/dieloxia/4014000921843819943"
+      }
+    },
+    "2026-10-23-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-10-23T09:00:00-06:00",
+      "tema": "Preguntó el precio… y desapareció 👻 ¿Te ha pasado?",
+      "instagram": {
+        "id": "18031852544912142",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/De11OedoNgO/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122109915387506678"
+      }
+    },
+    "2026-10-23-reel1": {
+      "tipo": "reel",
+      "fecha": "2026-10-23T10:00:00-06:00",
+      "tema": "Top 5 de mensajes que tu negocio recibe y nadie contesta 📱 ¿Cuántos te suenan?",
+      "instagram": {
+        "id": "18118544956951117",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De17_GJG_Zm/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1267718025543552/"
+      }
+    },
+    "2026-10-23-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-10-23T11:00:00-06:00",
+      "tema": "Guarda tu número y te escribe cuando ya decidió 📲",
+      "instagram": {
+        "id": "18125406916972466",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/De2C1rtGE76/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122109956265506678&set=a.122093668107506678&type=3"
       }
     }
   }
