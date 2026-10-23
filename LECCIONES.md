@@ -7,6 +7,13 @@ Las rutinas las leen ANTES de crear contenido. Cada lección nueva se agrega aqu
 - El mejor post de ayer fue el reel de las 10:00 (fonda, voz de hombre, cierre "Mándaselo a quien…"): alcance 54, 62 vistas y el primer compartido. Los carruseles y posts de imagen siguen en alcance 1–2.
 - Aplicar: el reel de las 10:00 con una lista/pregunta clara y cierre de compartir; los reels con estructura de lista numerada o pregunta directa; no depender de posts de imagen para alcance (sirven como apoyo).
 
+## 2026-10-23 · Fotos: nunca repetir
+El dueño: "Veo que hay fotos que repites; nadie debe ser el mismo, o al menos un personaje ocasional."
+
+- Ninguna foto se repite (ni en Dieloxia ni respecto a lo ya publicado). La misma persona o sesión de fotos solo vuelve como personaje ocasional, máximo 1 vez cada 30 días.
+- Antes de usar cada foto de Unsplash: `python scripts/fotos.py revisar foto.jpg --fotografo "<autor>"` (detecta la misma foto aunque cambie el nombre o el recorte) y revisa también los unsplash_ids de content_log.json. Al usarla: `python scripts/fotos.py usar foto.jpg <id-pieza> --unsplash <id> --fotografo "<autor>"`. Registro en `estado/fotos_usadas.json`, que se sube con cada commit.
+- Busca con términos variados (giro + ciudad + edad + situación) y elige personas distintas a las de los últimos días.
+
 ## 2026-10-23 · Público: los negocios; más reels con historia; sin historias
 El dueño: "Todo el contenido va dirigido a las empresas, no a los empleados." Métricas al 23/10: los reels traen 108 de 157 de alcance (el mejor: "Son las 2 de la tarde y tu fonda está llena", 54); imágenes y carruseles ~1; historias 0.
 
