@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-22T18:09:44+00:00",
+  "actualizado": "2026-10-23T05:34:03+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -776,11 +776,7 @@
       "fecha": "2026-10-21T20:00:00-06:00",
       "tema": "",
       "instagram": {
-        "id": "18208335463372982",
-        "comments_count": 0,
-        "like_count": 0,
-        "media_product_type": "STORY",
-        "permalink": "https://www.instagram.com/stories/dieloxia/4013230832764798578"
+        "error": "GET 18208335463372982: Unsupported get request. Object with ID '18208335463372982' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"
       }
     },
     "2026-10-21-story2": {
@@ -788,11 +784,7 @@
       "fecha": "2026-10-21T21:30:00-06:00",
       "tema": "",
       "instagram": {
-        "id": "17922206697447199",
-        "comments_count": 0,
-        "like_count": 0,
-        "media_product_type": "STORY",
-        "permalink": "https://www.instagram.com/stories/dieloxia/4013276128084585128"
+        "error": "GET 17922206697447199: Unsupported get request. Object with ID '17922206697447199' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"
       }
     },
     "2026-10-22-carrusel": {
@@ -808,7 +800,7 @@
         "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 6
+        "views": 7
       },
       "facebook": {
         "reacciones": 0,
@@ -827,12 +819,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DezXV8zEVud/",
-        "reach": 14,
+        "reach": 54,
         "saved": 0,
         "shares": 1,
-        "views": 22,
-        "ig_reels_avg_watch_time": 13695,
-        "ig_reels_video_view_total_time": 191743
+        "views": 62,
+        "ig_reels_avg_watch_time": 4455,
+        "ig_reels_video_view_total_time": 253975
       },
       "facebook": {
         "reacciones": 0,
@@ -854,7 +846,7 @@
         "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 4
+        "views": 5
       },
       "facebook": {
         "reacciones": 0,
@@ -873,18 +865,110 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Dezk7osDGUd/",
-        "reach": 0,
+        "reach": 3,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 9,
+        "ig_reels_avg_watch_time": 3567,
+        "ig_reels_video_view_total_time": 17835
       },
       "facebook": {
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "/reel/1794878965054753/"
+      }
+    },
+    "2026-10-22-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-10-22T15:00:00-06:00",
+      "tema": "Tu asistente de WhatsApp no se distrae 💬",
+      "instagram": {
+        "id": "17951577024292757",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Dez5hCKDLk6/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 4
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122109584679506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-22-post3": {
+      "tipo": "imagen",
+      "fecha": "2026-10-22T17:00:00-06:00",
+      "tema": "Tu cliente no se va por el precio. Se va por el silencio 🤫",
+      "instagram": {
+        "id": "18043391654834183",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/De0HQGBDNib/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 3
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122109612063506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-22-reel2": {
+      "tipo": "reel",
+      "fecha": "2026-10-22T18:00:00-06:00",
+      "tema": "Haz la cuenta de lo que cuesta no contestar a tiempo 💸",
+      "instagram": {
+        "id": "18437371789176200",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De0OJm9DJC6/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 8,
+        "ig_reels_avg_watch_time": 33151,
+        "ig_reels_video_view_total_time": 66302
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1062211060134571/"
+      }
+    },
+    "2026-10-22-story1": {
+      "tipo": "historia",
+      "fecha": "2026-10-22T20:00:00-06:00",
+      "tema": "",
+      "instagram": {
+        "id": "18411487159088190",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "STORY",
+        "permalink": "https://www.instagram.com/stories/dieloxia/4013955631296249536"
+      }
+    },
+    "2026-10-22-story2": {
+      "tipo": "historia",
+      "fecha": "2026-10-22T21:30:00-06:00",
+      "tema": "",
+      "instagram": {
+        "id": "18187510960417993",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "STORY",
+        "permalink": "https://www.instagram.com/stories/dieloxia/4014000921843819943"
       }
     }
   }

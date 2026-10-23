@@ -1,5 +1,5 @@
 # Aprendizajes automáticos
-_Actualizado: 22/10/2026 12:10 CDMX · 28 posts con más de 24 h (historias excluidas)._
+_Actualizado: 22/10/2026 23:35 CDMX · 31 posts con más de 24 h (historias excluidas)._
 
 ## Seguidores
 - **dieloxia** (2026-10-22): Instagram 2 (+0 desde 2026-10-15), Facebook 0 (+0)
@@ -17,23 +17,23 @@ _Actualizado: 22/10/2026 12:10 CDMX · 28 posts con más de 24 h (historias excl
 ### Por formato
 | | posts | alcance prom. | puntaje prom. |
 |---|---|---|---|
-| reel | 11 | 4 | 0.0 |
-| imagen | 12 | 1 | 0.1 |
+| reel | 12 | 4 | 0.0 |
+| imagen | 14 | 1 | 0.1 |
 | carrusel | 5 | 1 | 0.0 |
 
 ### Por horario
 | | posts | alcance prom. | puntaje prom. |
 |---|---|---|---|
 | mañana (6–11) | 11 | 3 | 0.0 |
-| mediodía (12–15) | 9 | 3 | 0.0 |
+| mediodía (12–15) | 10 | 2 | 0.0 |
 | noche (20–5) | 1 | 2 | 0.0 |
-| tarde (16–19) | 7 | 2 | 0.1 |
+| tarde (16–19) | 9 | 2 | 0.2 |
 
 ### Por día
 | | posts | alcance prom. | puntaje prom. |
 |---|---|---|---|
 | lunes | 7 | 4 | 0.1 |
-| miércoles | 4 | 2 | 0.0 |
+| miércoles | 7 | 2 | 0.1 |
 | viernes | 7 | 2 | 0.0 |
 | martes | 7 | 2 | 0.0 |
 | jueves | 1 | 2 | 0.0 |
