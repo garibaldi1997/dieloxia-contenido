@@ -3,6 +3,10 @@
 Reglas obligatorias que salen de la retroalimentación de Garibaldi y de las métricas.
 Las rutinas las leen ANTES de crear contenido. Cada lección nueva se agrega aquí con su fecha.
 
+## 2026-10-23 · Qué funcionó según las métricas
+- El mejor post de ayer fue el reel de las 10:00 (fonda, voz de hombre, cierre "Mándaselo a quien…"): alcance 54, 62 vistas y el primer compartido. Los carruseles y posts de imagen siguen en alcance 1–2.
+- Aplicar: el reel de las 10:00 con una lista/pregunta clara y cierre de compartir; los reels con estructura de lista numerada o pregunta directa; no depender de posts de imagen para alcance (sirven como apoyo).
+
 ## 2026-10-22 · Voz: nunca la del dueño, alternar mujer y hombre
 El dueño: "Ya no uses mi voz, se escucha feo. Usa mejor cualquier otra, variable entre hombre y mujer."
 
