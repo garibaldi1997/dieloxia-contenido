@@ -12,6 +12,7 @@ El dueño: "Veo que hay fotos que repites; nadie debe ser el mismo, o al menos u
 
 - Ninguna foto se repite (ni en Dieloxia ni respecto a lo ya publicado). La misma persona o sesión de fotos solo vuelve como personaje ocasional, máximo 1 vez cada 30 días.
 - Antes de usar cada foto de Unsplash: `python scripts/fotos.py revisar foto.jpg --fotografo "<autor>"` (detecta la misma foto aunque cambie el nombre o el recorte) y revisa también los unsplash_ids de content_log.json. Al usarla: `python scripts/fotos.py usar foto.jpg <id-pieza> --unsplash <id> --fotografo "<autor>"`. Registro en `estado/fotos_usadas.json`, que se sube con cada commit.
+- El script no reconoce a la misma persona en OTRA foto: compara visualmente (hoja de contacto + Read) con las fotos de los últimos 30 días y evita dos fotos del mismo fotógrafo en 30 días.
 - Busca con términos variados (giro + ciudad + edad + situación) y elige personas distintas a las de los últimos días.
 
 ## 2026-10-23 · Público: los negocios; más reels con historia; sin historias
