@@ -7,6 +7,13 @@ Las rutinas las leen ANTES de crear contenido. Cada lección nueva se agrega aqu
 - El mejor post de ayer fue el reel de las 10:00 (fonda, voz de hombre, cierre "Mándaselo a quien…"): alcance 54, 62 vistas y el primer compartido. Los carruseles y posts de imagen siguen en alcance 1–2.
 - Aplicar: el reel de las 10:00 con una lista/pregunta clara y cierre de compartir; los reels con estructura de lista numerada o pregunta directa; no depender de posts de imagen para alcance (sirven como apoyo).
 
+## 2026-10-23 · Público: los negocios; más reels con historia; sin historias
+El dueño: "Todo el contenido va dirigido a las empresas, no a los empleados." Métricas al 23/10: los reels traen 108 de 157 de alcance (el mejor: "Son las 2 de la tarde y tu fonda está llena", 54); imágenes y carruseles ~1; historias 0.
+
+- Todo se dirige al DUEÑO o encargado del negocio (cómo vende más, pierde menos clientes, ahorra tiempo); nunca a sus clientes ni a sus empleados.
+- Cuota diaria nueva: 4 REELS (al menos 2 con historia de un giro concreto, con la hora y el problema en el primer segundo, estilo "Son las 2 de la tarde y tu fonda está llena") + 1 CARRUSEL + 2 POSTS de imagen. HISTORIAS PAUSADAS hasta 100 seguidores.
+- Los reels van en las franjas con más alcance (mañana 10:00 y mediodía 12:00 rinden más hasta hoy).
+
 ## 2026-10-22 · Voz: nunca la del dueño, alternar mujer y hombre
 El dueño: "Ya no uses mi voz, se escucha feo. Usa mejor cualquier otra, variable entre hombre y mujer."
 
