@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T17:57:08+00:00",
+  "actualizado": "2026-10-24T16:56:26+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -952,11 +952,7 @@
       "fecha": "2026-10-22T20:00:00-06:00",
       "tema": "",
       "instagram": {
-        "id": "18411487159088190",
-        "comments_count": 0,
-        "like_count": 0,
-        "media_product_type": "STORY",
-        "permalink": "https://www.instagram.com/stories/dieloxia/4013955631296249536"
+        "error": "GET 18411487159088190: Unsupported get request. Object with ID '18411487159088190' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"
       }
     },
     "2026-10-22-story2": {
@@ -964,11 +960,7 @@
       "fecha": "2026-10-22T21:30:00-06:00",
       "tema": "",
       "instagram": {
-        "id": "18187510960417993",
-        "comments_count": 0,
-        "like_count": 0,
-        "media_product_type": "STORY",
-        "permalink": "https://www.instagram.com/stories/dieloxia/4014000921843819943"
+        "error": "GET 18187510960417993: Unsupported get request. Object with ID '18187510960417993' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"
       }
     },
     "2026-10-23-carrusel": {
@@ -981,10 +973,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/De11OedoNgO/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 2
       },
       "facebook": {
         "reacciones": 0,
@@ -1003,12 +995,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/De17_GJG_Zm/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 2,
+        "ig_reels_avg_watch_time": 7137,
+        "ig_reels_video_view_total_time": 7137
       },
       "facebook": {
         "reacciones": 0,
@@ -1027,16 +1019,154 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/De2C1rtGE76/",
-        "reach": 0,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 3
       },
       "facebook": {
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "https://www.facebook.com/photo.php?fbid=122109956265506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-23-reel-historia-barberia": {
+      "tipo": "reel",
+      "fecha": "2026-10-23T12:00:00-06:00",
+      "tema": "Es viernes por la tarde y tu barbería no tiene un hueco libre ✂️",
+      "instagram": {
+        "id": "18169762810475969",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De2Jx8kiiBV/",
+        "reach": 9,
+        "saved": 0,
+        "shares": 0,
+        "views": 11,
+        "ig_reels_avg_watch_time": 5623,
+        "ig_reels_video_view_total_time": 56235
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/936739619279527/"
+      }
+    },
+    "2026-10-23-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-10-23T15:00:00-06:00",
+      "tema": "Mientras tú trabajas, tu WhatsApp responde 💬",
+      "instagram": {
+        "id": "18118928980778005",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/De2eTp8EqWx/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122110040403506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-23-post3": {
+      "tipo": "imagen",
+      "fecha": "2026-10-23T17:00:00-06:00",
+      "tema": "Tu local, a toda hora del día 🌸",
+      "instagram": {
+        "id": "18115607063031399",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/De2sCUbjDkA/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122110067529506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-23-reel2": {
+      "tipo": "reel",
+      "fecha": "2026-10-23T18:00:00-06:00",
+      "tema": "Mientras tú dormías, tu asistente no 🌙",
+      "instagram": {
+        "id": "18193738594398218",
+        "comments_count": 0,
+        "like_count": 2,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De2y6SfiRkl/",
+        "reach": 125,
+        "saved": 1,
+        "shares": 0,
+        "views": 135,
+        "ig_reels_avg_watch_time": 6646,
+        "ig_reels_video_view_total_time": 837466
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2135416167105115/"
+      }
+    },
+    "2026-10-24-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-10-24T09:00:00-06:00",
+      "tema": "¿Cuántas ventas se te van por WhatsApp sin que te des cuenta? 📲",
+      "instagram": {
+        "id": "18126237233475050",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/De4Z_9Ilzh-/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122110368099506678"
+      }
+    },
+    "2026-10-24-reel-historia-gimnasio": {
+      "tipo": "reel",
+      "fecha": "2026-10-24T10:00:00-06:00",
+      "tema": "Es sábado por la mañana y tu gimnasio está lleno 🏋️",
+      "instagram": {
+        "id": "18453486928125969",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De4gyJzlWe9/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2,
+        "ig_reels_avg_watch_time": 19879,
+        "ig_reels_video_view_total_time": 19879
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1780355683188611/"
       }
     }
   }
