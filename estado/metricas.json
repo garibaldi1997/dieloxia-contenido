@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-24T16:56:26+00:00",
+  "actualizado": "2026-10-25T17:13:00+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -1041,12 +1041,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/De2Jx8kiiBV/",
-        "reach": 9,
+        "reach": 10,
         "saved": 0,
         "shares": 0,
-        "views": 11,
-        "ig_reels_avg_watch_time": 5623,
-        "ig_reels_video_view_total_time": 56235
+        "views": 12,
+        "ig_reels_avg_watch_time": 5231,
+        "ig_reels_video_view_total_time": 57548
       },
       "facebook": {
         "reacciones": 0,
@@ -1109,12 +1109,12 @@
         "like_count": 2,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/De2y6SfiRkl/",
-        "reach": 125,
+        "reach": 126,
         "saved": 1,
         "shares": 0,
-        "views": 135,
-        "ig_reels_avg_watch_time": 6646,
-        "ig_reels_video_view_total_time": 837466
+        "views": 136,
+        "ig_reels_avg_watch_time": 6615,
+        "ig_reels_video_view_total_time": 840118
       },
       "facebook": {
         "reacciones": 0,
@@ -1152,21 +1152,205 @@
       "instagram": {
         "id": "18453486928125969",
         "comments_count": 0,
-        "like_count": 0,
+        "like_count": 1,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/De4gyJzlWe9/",
-        "reach": 1,
+        "reach": 119,
         "saved": 0,
         "shares": 0,
-        "views": 2,
-        "ig_reels_avg_watch_time": 19879,
-        "ig_reels_video_view_total_time": 19879
+        "views": 131,
+        "ig_reels_avg_watch_time": 3526,
+        "ig_reels_video_view_total_time": 437309
       },
       "facebook": {
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "/reel/1780355683188611/"
+      }
+    },
+    "2026-10-24-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-10-24T11:00:00-06:00",
+      "tema": "¿Cuánto tardas en contestar un WhatsApp de un cliente? 📱",
+      "instagram": {
+        "id": "18060028598799492",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/De4no8ll4gR/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122110422891506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-24-reel-historia-boutique": {
+      "tipo": "reel",
+      "fecha": "2026-10-24T12:00:00-06:00",
+      "tema": "Son las seis de la tarde y tu boutique está llena de clientas 👗",
+      "instagram": {
+        "id": "18179477062432075",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De4uhh3Amo-/",
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "views": 5,
+        "ig_reels_avg_watch_time": 1655,
+        "ig_reels_video_view_total_time": 6620
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1020705211058417/"
+      }
+    },
+    "2026-10-24-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-10-24T15:00:00-06:00",
+      "tema": "Misma pregunta, otra respuesta 💬",
+      "instagram": {
+        "id": "17884671186529392",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/De5DGtpl9VX/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 3
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122110492785506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-24-reel3": {
+      "tipo": "reel",
+      "fecha": "2026-10-24T16:00:00-06:00",
+      "tema": "Se acerca el Buen Fin. ¿Tu WhatsApp está listo? 🛍️",
+      "instagram": {
+        "id": "17910525114474229",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De5J-4cnL3N/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2,
+        "ig_reels_avg_watch_time": 3067,
+        "ig_reels_video_view_total_time": 6134
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1424991472946031/"
+      }
+    },
+    "2026-10-24-reel4": {
+      "tipo": "reel",
+      "fecha": "2026-10-24T18:00:00-06:00",
+      "tema": "¿Cuánto cuesta un mensaje sin contestar? 💸",
+      "instagram": {
+        "id": "18132731335706561",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De5XuC5gl0s/",
+        "reach": 10,
+        "saved": 0,
+        "shares": 0,
+        "views": 11,
+        "ig_reels_avg_watch_time": 2795,
+        "ig_reels_video_view_total_time": 27959
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2166055630988197/"
+      }
+    },
+    "2026-10-25-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-10-25T09:00:00-06:00",
+      "tema": "¿Tu WhatsApp Business ya está bien configurado? 📲",
+      "instagram": {
+        "id": "17872849716645067",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/De6-x_hjW2h/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122110765059506678"
+      }
+    },
+    "2026-10-25-reel-historia-fisio": {
+      "tipo": "reel",
+      "fecha": "2026-10-25T10:00:00-06:00",
+      "tema": "Es lunes a las 9 de la mañana y tu consultorio de fisioterapia está lleno 🩺",
+      "instagram": {
+        "id": "17921276592243073",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De7FqT2AdSx/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2380377036033635/"
+      }
+    },
+    "2026-10-25-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-10-25T11:00:00-06:00",
+      "tema": "El domingo también venden. ¿Quién les contesta? 📱",
+      "instagram": {
+        "id": "18081115892710479",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/De7McbRmLOf/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122110807875506678&set=a.122093668107506678&type=3"
       }
     }
   }
