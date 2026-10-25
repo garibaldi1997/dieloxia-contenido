@@ -79,3 +79,7 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - Cada reel con historia es de un giro distinto; no repitas giro en 7 días. Rotación sugerida: consultorio dental, estética/barbería, taller mecánico, taquería/restaurante, veterinaria, boutique de ropa, inmobiliaria, gimnasio, escuela/academia, ferretería, florería, hotel/hostal, abogado/contador, laboratorio clínico, tienda de celulares, pastelería.
 - Ajusta el guion al dolor real del giro (citas, cotizaciones, pedidos, apartados, horarios, precios) y usa fotos de la misma sesión para el protagonista.
 - Herramientas listas en `plantillas/reel_historia/` (render, música y ejemplo).
+
+## 2026-10-25 · Pantallas con marca en las fotos
+- Si una foto de Unsplash muestra una app o marca de terceros en la pantalla del celular (p. ej. "Copilot"), difumínala con un recorte `clip-path` + `backdrop-filter:blur` sobre la pantalla antes de usarla. En reels, las fotos de fondo van con velo oscuro y desenfoque donde hay pantallas.
+- Los reels con historia se arman con `plantillas/efectos/efectos.js` + los ayudantes de `plantillas/reel_historia/rlib.js` (foto con Ken Burns, notificaciones, chat, lista de chats, cierre con logo) y subtítulos a `y:1330` para respetar la zona segura inferior.

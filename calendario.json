@@ -941,5 +941,109 @@
       "instagram",
       "facebook"
     ]
+  },
+  {
+    "id": "2026-10-25-carrusel",
+    "cuenta": "dieloxia",
+    "fecha": "2026-10-25T09:00:00-06:00",
+    "tipo": "carrusel",
+    "redes": [
+      "instagram",
+      "facebook"
+    ],
+    "imagenes": [
+      "2026-10-25/Dieloxia_2026-10-25_carrusel_slide1.jpg",
+      "2026-10-25/Dieloxia_2026-10-25_carrusel_slide2.jpg",
+      "2026-10-25/Dieloxia_2026-10-25_carrusel_slide3.jpg",
+      "2026-10-25/Dieloxia_2026-10-25_carrusel_slide4.jpg",
+      "2026-10-25/Dieloxia_2026-10-25_carrusel_slide5.jpg",
+      "2026-10-25/Dieloxia_2026-10-25_carrusel_slide6.jpg",
+      "2026-10-25/Dieloxia_2026-10-25_carrusel_slide7.jpg",
+      "2026-10-25/Dieloxia_2026-10-25_carrusel_slide8.jpg"
+    ],
+    "texto": "¿Tu WhatsApp Business ya está bien configurado? 📲\n\nNo hace falta una herramienta nueva: con 6 ajustes que tardas 10 minutos en hacer, tus clientes entienden mejor, te escriben más y tú repites menos.\n\nPerfil completo, mensaje de ausencia, bienvenida, respuestas rápidas, etiquetas y catálogo. Desliza y marca cuáles ya tienes.\n\nMándaselo a quien tenga un negocio y conteste WhatsApp 📲\n\n#WhatsAppBusiness #NegociosMexico #AtencionAlCliente #SanLuisPotosi #Emprendedores",
+    "texto_linkedin": "Muchos negocios pierden ventas no por falta de clientes, sino por un WhatsApp Business a medio configurar.\n\nEstos 6 ajustes toman 10 minutos:\n• Perfil completo (horario, dirección, descripción)\n• Mensaje de ausencia\n• Mensaje de bienvenida\n• Respuestas rápidas para lo que más preguntan\n• Etiquetas para ordenar clientes\n• Catálogo con precios\n\nCon esto tu negocio responde mejor incluso cuando no estás frente al teléfono.\n\n¿Cuál de los seis te falta? Más ideas en instagram.com/dieloxia · dieloxia.com\n\n#WhatsAppBusiness #AtencionAlCliente #Pymes #NegociosMexico"
+  },
+  {
+    "id": "2026-10-25-reel-historia-fisio",
+    "cuenta": "dieloxia",
+    "fecha": "2026-10-25T10:00:00-06:00",
+    "tipo": "reel",
+    "redes": [
+      "instagram",
+      "facebook"
+    ],
+    "imagenes": [],
+    "video": "2026-10-25/Dieloxia_2026-10-25_reel_historia_fisio.mp4",
+    "texto": "Es lunes a las 9 de la mañana y tu consultorio de fisioterapia está lleno 🩺\n\nEstás con un paciente y el celular no deja de vibrar: ¿hay cita hoy?, ¿cuánto cuesta?, ¿dónde están? Cuando por fin contestas, dos personas ya agendaron en otro consultorio.\n\nCon un asistente de Dieloxia cada mensaje se contesta al instante, agenda la cita y tú tomas el control en 1 clic.\n\n¿Cuántas citas se te pierden un lunes? Cuéntame en los comentarios 👇\n\n#Fisioterapia #NegociosMexico #WhatsAppBusiness #SanLuisPotosi"
+  },
+  {
+    "id": "2026-10-25-post1",
+    "cuenta": "dieloxia",
+    "fecha": "2026-10-25T11:00:00-06:00",
+    "tipo": "imagen",
+    "redes": [
+      "instagram",
+      "facebook"
+    ],
+    "imagenes": [
+      "2026-10-25/Dieloxia_2026-10-25_post1.jpg"
+    ],
+    "texto": "El domingo también venden. ¿Quién les contesta? 📱\n\nMucha gente decide sus compras y reserva citas el fin de semana, justo cuando tu negocio está cerrado o tú estás descansando.\n\nSi nadie responde, el cliente le escribe al siguiente de la lista. Un asistente puede contestar por ti y tú decides cuándo tomar el control.\n\nGuárdalo para revisar cómo atiendes tus fines de semana 📌\n\n#WhatsAppBusiness #AtencionAlCliente #NegociosMexico #SanLuisPotosi"
+  },
+  {
+    "id": "2026-10-25-reel-historia-hotel",
+    "cuenta": "dieloxia",
+    "fecha": "2026-10-25T12:00:00-06:00",
+    "tipo": "reel",
+    "redes": [
+      "instagram",
+      "facebook"
+    ],
+    "imagenes": [],
+    "video": "2026-10-25/Dieloxia_2026-10-25_reel_historia_hotel.mp4",
+    "texto": "Son las 10 de la noche y tu hotel está a punto de cerrar la recepción 🏨\n\nEntra un mensaje: ¿tienen habitación para mañana?, ¿aceptan mascotas? Estás ocupado, queda sin leer, y cuando contestas el huésped ya reservó en otro hotel.\n\nCon un asistente de Dieloxia la disponibilidad, los precios y las políticas se contestan al instante, a cualquier hora, y tú tomas el control en 1 clic.\n\nSígueme para más ideas de atención por WhatsApp 🙌\n\n#Hotel #NegociosMexico #WhatsAppBusiness #SanLuisPotosi",
+    "texto_linkedin": "A las 10 de la noche entra un mensaje a la recepción de un hotel: «¿tienen habitación para mañana? ¿aceptan mascotas?».\n\nSi nadie contesta esa noche, la reserva se va con otro hotel. No es falta de huéspedes: es tiempo de respuesta.\n\nUn asistente de WhatsApp puede dar disponibilidad, precios y políticas al instante y tomar los datos de la reserva, mientras el equipo descansa y puede intervenir en 1 clic.\n\n¿Cuánto tarda hoy tu negocio en contestar fuera de horario? Más ideas en instagram.com/dieloxia · dieloxia.com\n\n#Hoteleria #AtencionAlCliente #WhatsAppBusiness #Pymes"
+  },
+  {
+    "id": "2026-10-25-post2",
+    "cuenta": "dieloxia",
+    "fecha": "2026-10-25T15:00:00-06:00",
+    "tipo": "imagen",
+    "redes": [
+      "instagram",
+      "facebook"
+    ],
+    "imagenes": [
+      "2026-10-25/Dieloxia_2026-10-25_post2.jpg"
+    ],
+    "texto": "Checklist del lunes ✅ 5 preguntas para revisar tu WhatsApp\n\nAntes de empezar la semana, revisa cuánto tardaste en contestar, cuántos mensajes quedaron sin leer, si tu horario está al día, si tienes respuestas rápidas y quién contesta cuando tú no puedes.\n\nSi la última te cuesta trabajo, ahí está tu oportunidad. Mira cómo funciona en dieloxia.com\n\n#WhatsAppBusiness #AtencionAlCliente #NegociosMexico #SanLuisPotosi",
+    "texto_linkedin": "Antes de que empiece la semana, cinco preguntas para cualquier dueño de negocio que vende por WhatsApp:\n\n1. ¿Cuánto tardé en contestar el primer mensaje?\n2. ¿Cuántos mensajes quedaron sin leer el fin de semana?\n3. ¿Mi horario de atención está actualizado?\n4. ¿Tengo respuestas rápidas para lo que más preguntan?\n5. ¿Quién contesta cuando yo no puedo?\n\nLa respuesta a la última suele marcar la diferencia entre una venta y un cliente perdido.\n\n¿Cuál te cuesta más contestar? Más ideas en instagram.com/dieloxia · dieloxia.com\n\n#AtencionAlCliente #WhatsAppBusiness #Pymes #NegociosMexico"
+  },
+  {
+    "id": "2026-10-25-reel-muertos",
+    "cuenta": "dieloxia",
+    "fecha": "2026-10-25T17:00:00-06:00",
+    "tipo": "reel",
+    "redes": [
+      "instagram",
+      "facebook"
+    ],
+    "imagenes": [],
+    "video": "2026-10-25/Dieloxia_2026-10-25_reel_muertos.mp4",
+    "texto": "Faltan 6 días para el Día de Muertos y tu WhatsApp ya debería estar listo 🌼\n\n1️⃣ Tu aviso de horario: qué días abres y a qué hora cierras.\n2️⃣ Una respuesta rápida para pedidos y apartados.\n3️⃣ Quién contesta cuando tú no puedes.\n\nUn cliente que pregunta y no recibe respuesta le escribe a tu competencia. Con Dieloxia tu asistente contesta al instante y tú tomas el control en 1 clic.\n\nComenta PLANTILLA y te mando el aviso de horario listo para copiar 📩\n\n#DiaDeMuertos #NegociosMexico #WhatsAppBusiness #SanLuisPotosi"
+  },
+  {
+    "id": "2026-10-25-reel-domingo",
+    "cuenta": "dieloxia",
+    "fecha": "2026-10-25T19:00:00-06:00",
+    "tipo": "reel",
+    "redes": [
+      "instagram",
+      "facebook"
+    ],
+    "imagenes": [],
+    "video": "2026-10-25/Dieloxia_2026-10-25_reel_domingo.mp4",
+    "texto": "¿Contestar WhatsApp en domingo es parte de tu trabajo? 🤔\n\nHay tres tipos de dueño de negocio:\n1️⃣ El que contesta todo y nunca descansa.\n2️⃣ El que contesta hasta el lunes y pierde la venta.\n3️⃣ El que tiene un asistente que contesta por él y puede tomar el control cuando quiera.\n\n¿Cuál eres tú? Guárdalo y revisa cómo atiendes los fines de semana 📌\n\n#WhatsAppBusiness #NegociosMexico #AtencionAlCliente #SanLuisPotosi"
   }
 ]
