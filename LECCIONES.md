@@ -83,3 +83,8 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 ## 2026-10-25 · Pantallas con marca en las fotos
 - Si una foto de Unsplash muestra una app o marca de terceros en la pantalla del celular (p. ej. "Copilot"), difumínala con un recorte `clip-path` + `backdrop-filter:blur` sobre la pantalla antes de usarla. En reels, las fotos de fondo van con velo oscuro y desenfoque donde hay pantallas.
 - Los reels con historia se arman con `plantillas/efectos/efectos.js` + los ayudantes de `plantillas/reel_historia/rlib.js` (foto con Ken Burns, notificaciones, chat, lista de chats, cierre con logo) y subtítulos a `y:1330` para respetar la zona segura inferior.
+
+## 2026-10-26 · Qué funcionó según las métricas
+- Los mejores reels de la semana siguen siendo los de historia con hora + negocio + problema en el primer segundo: "Mientras tú dormías…" (126 de alcance) y "Es sábado por la mañana y tu gimnasio está lleno" (119). Carruseles y posts de imagen siguen en 1–2.
+- Aplicar: los 4 reels diarios con voz en off y el gancho de hora/cifra en el segundo 0 (hoy: "Es lunes, 8 de la mañana… 37 mensajes sin leer", ferretería 9:00 y veterinaria 4:00); imágenes y carrusel solo como apoyo.
+- Técnico: al anclar escenas con `FX.at(W, 'mito', n)` recuerda que las palabras de 4+ letras comparan por prefijo ("mito" también coincide con "mitos"); cuenta bien la ocurrencia.
