@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-25T17:13:00+00:00",
+  "actualizado": "2026-10-26T19:32:45+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -1247,12 +1247,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/De5J-4cnL3N/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 2,
-        "ig_reels_avg_watch_time": 3067,
-        "ig_reels_video_view_total_time": 6134
+        "views": 4,
+        "ig_reels_avg_watch_time": 2001,
+        "ig_reels_video_view_total_time": 8005
       },
       "facebook": {
         "reacciones": 0,
@@ -1317,12 +1317,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/De7FqT2AdSx/",
-        "reach": 0,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 2,
+        "ig_reels_avg_watch_time": 712,
+        "ig_reels_video_view_total_time": 1424
       },
       "facebook": {
         "reacciones": 0,
@@ -1351,6 +1351,216 @@
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "https://www.facebook.com/photo.php?fbid=122110807875506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-25-reel-historia-hotel": {
+      "tipo": "reel",
+      "fecha": "2026-10-25T12:00:00-06:00",
+      "tema": "Son las 10 de la noche y tu hotel está a punto de cerrar la recepción 🏨",
+      "instagram": {
+        "id": "18137740579643173",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De7TUduDx6V/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 5,
+        "ig_reels_avg_watch_time": 20675,
+        "ig_reels_video_view_total_time": 41351
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/4465127547096745/"
+      }
+    },
+    "2026-10-25-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-10-25T15:00:00-06:00",
+      "tema": "Checklist del lunes ✅ 5 preguntas para revisar tu WhatsApp",
+      "instagram": {
+        "id": "18078139124427812",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/De7n6POIJnW/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122110866135506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-25-reel-muertos": {
+      "tipo": "reel",
+      "fecha": "2026-10-25T17:00:00-06:00",
+      "tema": "Faltan 6 días para el Día de Muertos y tu WhatsApp ya debería estar listo 🌼",
+      "instagram": {
+        "id": "17893046379683939",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De71tXOivg4/",
+        "reach": 36,
+        "saved": 0,
+        "shares": 0,
+        "views": 50,
+        "ig_reels_avg_watch_time": 4236,
+        "ig_reels_video_view_total_time": 165213
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1728940129242124/"
+      }
+    },
+    "2026-10-25-reel-domingo": {
+      "tipo": "reel",
+      "fecha": "2026-10-25T19:00:00-06:00",
+      "tema": "¿Contestar WhatsApp en domingo es parte de tu trabajo? 🤔",
+      "instagram": {
+        "id": "18232778470324135",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De8DZCvCuSn/",
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "views": 3,
+        "ig_reels_avg_watch_time": 5127,
+        "ig_reels_video_view_total_time": 20508
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1399205549944992/"
+      }
+    },
+    "2026-10-26-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-10-26T08:00:00-06:00",
+      "tema": "¿En cuánto contesta tu negocio? 🚦",
+      "instagram": {
+        "id": "18133523968664374",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/De9czMSF5F_/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 3
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122111136573506678"
+      }
+    },
+    "2026-10-26-reel-lunes": {
+      "tipo": "reel",
+      "fecha": "2026-10-26T09:00:00-06:00",
+      "tema": "Es lunes, 8 de la mañana, y tu WhatsApp tiene 37 mensajes sin leer 📱",
+      "instagram": {
+        "id": "18147632215577579",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De9jiMzigk_/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 2169,
+        "ig_reels_video_view_total_time": 4339
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1435780297972879/"
+      }
+    },
+    "2026-10-26-reel-historia-ferreteria": {
+      "tipo": "reel",
+      "fecha": "2026-10-26T10:00:00-06:00",
+      "tema": "Son las 9 de la mañana y tu ferretería está llena de constructores 🧱",
+      "instagram": {
+        "id": "18246731275313928",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De9qZL0lcVi/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1780602183155201/"
+      }
+    },
+    "2026-10-26-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-10-26T11:00:00-06:00",
+      "tema": "Tu negocio cierra a las 7. Tu WhatsApp no. 🌙",
+      "instagram": {
+        "id": "18634127020025336",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/De9xPxyl974/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 6
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122111191911506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-26-reel-historia-veterinaria": {
+      "tipo": "reel",
+      "fecha": "2026-10-26T12:00:00-06:00",
+      "tema": "Son las 4 de la tarde y tu veterinaria está llena de perritos 🐶",
+      "instagram": {
+        "id": "17910658023563867",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De94Kp9DdVO/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2,
+        "ig_reels_avg_watch_time": 2157,
+        "ig_reels_video_view_total_time": 2157
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2884739228615289/"
       }
     }
   }
