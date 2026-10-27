@@ -1,9 +1,2 @@
-#voz es-MX-DaliaNeural +6%
-Faltan doce días para Día de Muertos y tu florería es un caos de cempasúchil.
-Te escriben por WhatsApp: ofrendas, ramos, precios, entregas.
-Y tú, con las manos llenas de flores.
-Cuando por fin contestas… dos clientes ya compraron en otra florería.
-Ahora, con tu asistente de Dieloxia: cada mensaje se contesta al momento.
-Precios, pedidos y horarios de entrega, sin soltar las tijeras.
-Tú terminas el arreglo. Y si quieres, tomas el control en un clic.
-Guárdalo si tu negocio también se llena en temporada.
+#voz es-MX-DaliaNeural +4%
+Son las ocho de la mañana y tu florería huele a cempasúchil. Estás armando arreglos para el Día de Muertos, y el teléfono no para. ¿Tienen cempasúchil? ¿Cuánto cuesta un arreglo? ¿Hacen envíos hoy? Tienes las manos llenas de flores. Cuando por fin contestas, dos clientes ya compraron en otra florería. Ahora, con tu asistente de Dieloxia. Cada pregunta se contesta al instante, con precios, horarios y pedidos anotados. Y si alguien pide algo especial, tomas el control en un clic. Sígueme para más ideas de atención por WhatsApp.

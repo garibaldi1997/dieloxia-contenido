@@ -1,0 +1,2 @@
+#voz es-MX-DaliaNeural +4%
+Tres mensajes que tu negocio debe contestar en menos de un minuto. Uno: ¿cuánto cuesta? Dos: ¿a qué hora abren? Tres: ¿tienen disponible? Si contestas en un minuto, vendes. Si tardas una hora, ya se fue. Con un asistente de WhatsApp esas tres respuestas salen solas, y tú decides cuándo intervenir. ¿Cuál de las tres te llega más? Cuéntame en comentarios.
