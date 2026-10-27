@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T19:32:45+00:00",
+  "actualizado": "2026-10-27T18:57:44+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -1155,7 +1155,7 @@
         "like_count": 1,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/De4gyJzlWe9/",
-        "reach": 119,
+        "reach": 120,
         "saved": 0,
         "shares": 0,
         "views": 131,
@@ -1295,10 +1295,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/De6-x_hjW2h/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 3
       },
       "facebook": {
         "reacciones": 0,
@@ -1341,10 +1341,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/De7McbRmLOf/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 3
       },
       "facebook": {
         "reacciones": 0,
@@ -1433,12 +1433,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/De8DZCvCuSn/",
-        "reach": 3,
+        "reach": 4,
         "saved": 0,
         "shares": 0,
-        "views": 3,
-        "ig_reels_avg_watch_time": 5127,
-        "ig_reels_video_view_total_time": 20508
+        "views": 5,
+        "ig_reels_avg_watch_time": 4580,
+        "ig_reels_video_view_total_time": 22904
       },
       "facebook": {
         "reacciones": 0,
@@ -1507,8 +1507,8 @@
         "saved": 0,
         "shares": 0,
         "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "ig_reels_avg_watch_time": 3169,
+        "ig_reels_video_view_total_time": 3169
       },
       "facebook": {
         "reacciones": 0,
@@ -1549,18 +1549,156 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/De94Kp9DdVO/",
-        "reach": 1,
+        "reach": 5,
         "saved": 0,
         "shares": 0,
-        "views": 2,
-        "ig_reels_avg_watch_time": 2157,
-        "ig_reels_video_view_total_time": 2157
+        "views": 6,
+        "ig_reels_avg_watch_time": 3732,
+        "ig_reels_video_view_total_time": 18663
       },
       "facebook": {
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "/reel/2884739228615289/"
+      }
+    },
+    "2026-10-26-reel-mitos": {
+      "tipo": "reel",
+      "fecha": "2026-10-26T14:00:00-06:00",
+      "tema": "3 mitos sobre tener un asistente de inteligencia artificial en tu WhatsApp 🤖",
+      "instagram": {
+        "id": "18071876222769495",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/De-F4FvCVuN/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 4430,
+        "ig_reels_video_view_total_time": 4430
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1652867203088515/"
+      }
+    },
+    "2026-10-26-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-10-26T16:00:00-06:00",
+      "tema": "Antes vs. ahora, a las 11:42 pm 🌙",
+      "instagram": {
+        "id": "18082017182357242",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/De-Tkz5Dy1a/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122111275227506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-27-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-10-27T09:00:00-06:00",
+      "tema": "Faltan 3 días para la quincena. ¿Tu WhatsApp está listo para vender? 📲",
+      "instagram": {
+        "id": "18141598174618610",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfAIYNPHStk/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122111552733506678"
+      }
+    },
+    "2026-10-27-reel-quincena": {
+      "tipo": "reel",
+      "fecha": "2026-10-27T10:00:00-06:00",
+      "tema": "Faltan 3 días para la quincena y tu WhatsApp va a explotar 💸",
+      "instagram": {
+        "id": "18076435805750066",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfAPmijketp/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/39490316130583082/"
+      }
+    },
+    "2026-10-27-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-10-27T11:00:00-06:00",
+      "tema": "El viernes es quincena y tus clientes ya están decidiendo dónde gastar 💸",
+      "instagram": {
+        "id": "17963688632999395",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfAWGXMD4Ku/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122111589297506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-27-reel-historia-inmobiliaria": {
+      "tipo": "reel",
+      "fecha": "2026-10-27T12:00:00-06:00",
+      "tema": "Son las 11 de la mañana y estás enseñando un departamento 🏠",
+      "instagram": {
+        "id": "18097242680441976",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfAdD6RiL6_/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/3859470860859090/"
       }
     }
   }
