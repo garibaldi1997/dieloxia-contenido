@@ -88,3 +88,9 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - Los mejores reels de la semana siguen siendo los de historia con hora + negocio + problema en el primer segundo: "Mientras tú dormías…" (126 de alcance) y "Es sábado por la mañana y tu gimnasio está lleno" (119). Carruseles y posts de imagen siguen en 1–2.
 - Aplicar: los 4 reels diarios con voz en off y el gancho de hora/cifra en el segundo 0 (hoy: "Es lunes, 8 de la mañana… 37 mensajes sin leer", ferretería 9:00 y veterinaria 4:00); imágenes y carrusel solo como apoyo.
 - Técnico: al anclar escenas con `FX.at(W, 'mito', n)` recuerda que las palabras de 4+ letras comparan por prefijo ("mito" también coincide con "mitos"); cuenta bien la ocurrencia.
+
+## 2026-10-27 · Cuidados técnicos de la rutina
+- Antes de elegir giro o nombre de guion revisa `ls voz/` y `calendario.json`: un guion nuevo con el nombre de uno viejo (p. ej. `historia-floreria`) deja el audio anterior, porque la acción solo genera los `.mp3` que faltan. Usa nombres nuevos (`historia-<giro>`).
+- La acción "Generar voz de reels" solo corre con push a `main` (la rama `claude/…` no la dispara): empuja los guiones `voz/*.txt` a `main` primero y espera ~1 min.
+- En el entorno de nube usa `/usr/bin/python3` (trae Pillow, numpy y edge-tts); instala Playwright para ese Python con `pip install --break-system-packages playwright` (el Chromium ya está en `/opt/pw-browsers/chromium`). Un reel de ~30 s tarda ~5 min en renderizar: lanza los renders en segundo plano y en serie.
+- Con `SPEED 1.2` los reels con voz quedan en ~27–30 s (el guion de ~33 s a velocidad normal).
