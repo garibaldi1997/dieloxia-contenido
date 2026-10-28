@@ -27,7 +27,7 @@ function lista(v, filas) {
 function cierre(v, a, titulo, linea, url = 'dieloxia.com') {
   const icono = `<div style="width:300px;height:300px;border-radius:70px;background:#fff;display:grid;place-items:center;box-shadow:0 0 80px ${T.a}99"><img src="${P.logo}" style="width:220px"></div>`;
   return FX.fondo(v, { brillo: 1.3 }) + FX.frameBreak(v, a, 999, icono, { x: 240, y: 560, w: 600, h: 200 })
-    + `<div class="fx-ab fx-big" style="left:50px;right:50px;top:860px;text-align:center;font-size:76px;${up(v, a + .3, .4)}">${titulo}</div>
+    + `<div class="fx-ab fx-big" style="color:#fff;left:50px;right:50px;top:860px;text-align:center;font-size:76px;${up(v, a + .3, .4)}">${titulo}</div>
        <div class="fx-ab" style="left:60px;right:60px;top:1130px;text-align:center;font-size:42px;font-weight:700;color:${T.s};${up(v, a + .9, .4, 30)}">${linea}</div>
        <div class="fx-ab" style="left:0;right:0;top:1270px;text-align:center;font-size:50px;font-weight:900;color:${T.a2};${up(v, a + 1.3, .5, 30)}">${url}</div>`;
 }

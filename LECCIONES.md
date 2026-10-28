@@ -94,3 +94,9 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - La acción "Generar voz de reels" solo corre con push a `main` (la rama `claude/…` no la dispara): empuja los guiones `voz/*.txt` a `main` primero y espera ~1 min.
 - En el entorno de nube usa `/usr/bin/python3` (trae Pillow, numpy y edge-tts); instala Playwright para ese Python con `pip install --break-system-packages playwright` (el Chromium ya está en `/opt/pw-browsers/chromium`). Un reel de ~30 s tarda ~5 min en renderizar: lanza los renders en segundo plano y en serie.
 - Con `SPEED 1.2` los reels con voz quedan en ~27–30 s (el guion de ~33 s a velocidad normal).
+
+## 2026-10-28 · Cuidados técnicos (cierre y fotos)
+- En `plantillas/reel_historia/rlib.js` el título del cierre no heredaba color y salía NEGRO sobre fondo oscuro (ilegible); ya lleva `color:#fff`. Al armar un cierre propio, revisa siempre un cuadro de los últimos 2 s.
+- `scripts/fotos.py usar` rechaza la 2.ª foto del mismo fotógrafo aunque sea de la MISMA pieza; registra la 2.ª a mano en `estado/fotos_usadas.json` (huella con `fotos.huella`).
+- Para corregir solo el final de un reel sin repetir 8 min de render: copia `make_reel.py` con un `START` de cuadro inicial (los cuadros anteriores en `frames/` se conservan) y vuelve a codificar.
+- Con la voz de Edge, `SPEED 1.2–1.25` deja los guiones de ~35–37 s en ~29–30 s.
