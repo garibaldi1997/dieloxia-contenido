@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T18:57:44+00:00",
+  "actualizado": "2026-10-28T19:06:17+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -1573,12 +1573,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/De-F4FvCVuN/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 1,
-        "ig_reels_avg_watch_time": 4430,
-        "ig_reels_video_view_total_time": 4430
+        "views": 2,
+        "ig_reels_avg_watch_time": 2496,
+        "ig_reels_video_view_total_time": 4993
       },
       "facebook": {
         "reacciones": 0,
@@ -1687,6 +1687,168 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfAdD6RiL6_/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 4746,
+        "ig_reels_video_view_total_time": 9493
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/3859470860859090/"
+      }
+    },
+    "2026-10-27-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-10-27T14:30:00-06:00",
+      "tema": "Qué hace tu asistente de WhatsApp mientras tú atiendes ⚡",
+      "instagram": {
+        "id": "18212097130367392",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfAuE_nGC7t/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122111640543506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-27-reel-historia-academia": {
+      "tipo": "reel",
+      "fecha": "2026-10-27T16:00:00-06:00",
+      "tema": "Son las 6 de la tarde y tu academia de inglés está llena 📚",
+      "instagram": {
+        "id": "18115761266121571",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfA4Y5-CtY9/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 376,
+        "ig_reels_video_view_total_time": 376
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2008418843161058/"
+      }
+    },
+    "2026-10-27-reel-tres-mensajes": {
+      "tipo": "reel",
+      "fecha": "2026-10-27T18:00:00-06:00",
+      "tema": "3 mensajes que tu negocio debe contestar en menos de un minuto ⏱️",
+      "instagram": {
+        "id": "18116632235043677",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfBGIotjVO6/",
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "views": 3,
+        "ig_reels_avg_watch_time": 2304,
+        "ig_reels_video_view_total_time": 9217
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/980054324561793/"
+      }
+    },
+    "2026-10-28-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-10-28T09:00:00-06:00",
+      "tema": "6 mensajes que todo negocio debe tener guardados en WhatsApp 📲",
+      "instagram": {
+        "id": "17970498102172839",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfCtOc1mFXd/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 4
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122111935071506678"
+      }
+    },
+    "2026-10-28-reel-historia-floreria": {
+      "tipo": "reel",
+      "fecha": "2026-10-28T10:00:00-06:00",
+      "tema": "Son las 8 de la mañana y tu florería está llena de cempasúchil 🌼",
+      "instagram": {
+        "id": "17975181591173401",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfC0JF0DCTx/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2,
+        "ig_reels_avg_watch_time": 17216,
+        "ig_reels_video_view_total_time": 17216
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1789173856512924/"
+      }
+    },
+    "2026-10-28-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-10-28T11:00:00-06:00",
+      "tema": "¿Cuántos mensajes tienes sin contestar a esta hora? 🕕",
+      "instagram": {
+        "id": "18200793430385283",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfC68taFBrc/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122111996361506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-28-reel-historia-celulares": {
+      "tipo": "reel",
+      "fecha": "2026-10-28T12:00:00-06:00",
+      "tema": "Son las 5 de la tarde y tu tienda de celulares está llena 📱",
+      "instagram": {
+        "id": "17915414628499165",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfDBwFLDKAB/",
         "reach": 0,
         "saved": 0,
         "shares": 0,
@@ -1698,7 +1860,7 @@
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
-        "permalink": "/reel/3859470860859090/"
+        "permalink": "/reel/2009038523118869/"
       }
     }
   }
