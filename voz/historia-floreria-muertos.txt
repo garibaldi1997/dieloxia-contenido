@@ -1,0 +1,8 @@
+#voz es-MX-JorgeNeural +4%
+Son las ocho de la mañana y tu florería está llena de cempasúchil.
+Te escriben: ¿tienen ramos para el panteón? ¿Cuánto cuesta el arreglo? ¿Hacen entregas hoy?
+Estás armando un pedido y no puedes soltar las flores.
+Para cuando contestas, dos ya compraron en otra florería.
+Ahora, con tu asistente de Dieloxia: responde precios y entregas, y apunta el pedido al momento.
+Tú sigues con tus flores. Y si el pedido es especial, tomas el control en un clic.
+Guárdalo para tu próxima temporada alta.
