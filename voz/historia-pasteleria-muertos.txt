@@ -1,0 +1,8 @@
+#voz es-MX-JorgeNeural +4%
+Son las ocho de la mañana y tu pastelería está llena de pan de muerto.
+Te escriben: ¿ya tienen pan de muerto? ¿Cuánto cuesta la docena? ¿Puedo encargar para el sábado?
+Estás sacando una charola del horno y no puedes soltarla.
+Para cuando contestas, dos ya encargaron en otra pastelería.
+Ahora, con tu asistente de Dieloxia: responde precios y pedidos al instante, y anota cada encargo.
+Tú sigues horneando. Y si el cliente pide algo especial, tomas el control en un clic.
+Guárdalo para tu próxima temporada alta.
