@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T19:06:17+00:00",
+  "actualizado": "2026-10-29T19:12:28+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -1803,12 +1803,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfC0JF0DCTx/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
         "views": 2,
-        "ig_reels_avg_watch_time": 17216,
-        "ig_reels_video_view_total_time": 17216
+        "ig_reels_avg_watch_time": 22725,
+        "ig_reels_video_view_total_time": 45450
       },
       "facebook": {
         "reacciones": 0,
@@ -1849,18 +1849,88 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfDBwFLDKAB/",
-        "reach": 0,
+        "reach": 62,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 78,
+        "ig_reels_avg_watch_time": 7895,
+        "ig_reels_video_view_total_time": 505332
       },
       "facebook": {
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "/reel/2009038523118869/"
+      }
+    },
+    "2026-10-28-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-10-28T14:30:00-06:00",
+      "tema": "\"Ahorita les contesto\" 📱 y cuando contestas, ya compraron en otro lado.",
+      "instagram": {
+        "id": "17870211888661948",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfDS59FD4xY/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122112051975506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-10-28-reel-cinco-senales": {
+      "tipo": "reel",
+      "fecha": "2026-10-28T16:00:00-06:00",
+      "tema": "5 señales de que tu negocio pierde clientes por WhatsApp 🚨",
+      "instagram": {
+        "id": "18124946635903533",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfDdPa1Efqg/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 2,
+        "ig_reels_avg_watch_time": 718,
+        "ig_reels_video_view_total_time": 1436
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1083553134503392/"
+      }
+    },
+    "2026-10-28-reel-descansas": {
+      "tipo": "reel",
+      "fecha": "2026-10-28T18:00:00-06:00",
+      "tema": "¿Qué hace un asistente de WhatsApp mientras tú descansas? 🌙",
+      "instagram": {
+        "id": "18107344943119066",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfDq_jSkh2f/",
+        "reach": 10,
+        "saved": 0,
+        "shares": 0,
+        "views": 14,
+        "ig_reels_avg_watch_time": 1958,
+        "ig_reels_video_view_total_time": 21540
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1631624141776505/"
       }
     }
   }
