@@ -1,8 +1,8 @@
 # Aprendizajes automáticos
-_Actualizado: 29/10/2026 13:14 CDMX · 77 posts con más de 24 h (historias excluidas)._
+_Actualizado: 30/10/2026 12:54 CDMX · 80 posts con más de 24 h (historias excluidas)._
 
 ## Seguidores
-- **dieloxia** (2026-10-29): Instagram 2 (+0 desde 2026-10-15), Facebook 0 (+0)
+- **dieloxia** (2026-10-30): Instagram 2 (+0 desde 2026-10-15), Facebook 0 (+0)
 
 ## Mejores 3 (repetir el patrón: formato, tipo de gancho, hora)
 - **Mientras tú dormías, tu asistente no 🌙** · reel · viernes 18:00 · alcance 126, vistas 136, guardados 1, compartidos 0, comentarios 0
@@ -17,16 +17,16 @@ _Actualizado: 29/10/2026 13:14 CDMX · 77 posts con más de 24 h (historias excl
 ### Por formato
 | | posts | alcance prom. | puntaje prom. |
 |---|---|---|---|
-| reel | 36 | 14 | 0.3 |
-| imagen | 29 | 1 | 0.1 |
+| reel | 38 | 14 | 0.3 |
+| imagen | 30 | 1 | 0.1 |
 | carrusel | 12 | 1 | 0.0 |
 
 ### Por horario
 | | posts | alcance prom. | puntaje prom. |
 |---|---|---|---|
-| tarde (16–19) | 20 | 10 | 0.4 |
+| tarde (16–19) | 22 | 10 | 0.4 |
 | mañana (6–11) | 33 | 7 | 0.2 |
-| mediodía (12–15) | 23 | 5 | 0.0 |
+| mediodía (12–15) | 24 | 5 | 0.0 |
 | noche (20–5) | 1 | 2 | 0.0 |
 
 ### Por día
@@ -35,7 +35,7 @@ _Actualizado: 29/10/2026 13:14 CDMX · 77 posts con más de 24 h (historias excl
 | sábado | 7 | 20 | 0.1 |
 | viernes | 14 | 11 | 0.4 |
 | jueves | 8 | 10 | 0.5 |
-| miércoles | 11 | 7 | 0.1 |
+| miércoles | 14 | 7 | 0.1 |
 | domingo | 9 | 5 | 0.0 |
 | lunes | 14 | 3 | 0.1 |
 | martes | 14 | 2 | 0.0 |

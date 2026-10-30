@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T19:12:28+00:00",
+  "actualizado": "2026-10-30T18:50:10+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -1849,12 +1849,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfDBwFLDKAB/",
-        "reach": 62,
+        "reach": 63,
         "saved": 0,
         "shares": 0,
-        "views": 78,
-        "ig_reels_avg_watch_time": 7895,
-        "ig_reels_video_view_total_time": 505332
+        "views": 79,
+        "ig_reels_avg_watch_time": 7751,
+        "ig_reels_video_view_total_time": 511598
       },
       "facebook": {
         "reacciones": 0,
@@ -1895,12 +1895,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfDdPa1Efqg/",
-        "reach": 2,
+        "reach": 3,
         "saved": 0,
         "shares": 0,
-        "views": 2,
-        "ig_reels_avg_watch_time": 718,
-        "ig_reels_video_view_total_time": 1436
+        "views": 3,
+        "ig_reels_avg_watch_time": 3119,
+        "ig_reels_video_view_total_time": 12477
       },
       "facebook": {
         "reacciones": 0,
@@ -1919,12 +1919,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfDq_jSkh2f/",
-        "reach": 10,
+        "reach": 11,
         "saved": 0,
         "shares": 0,
-        "views": 14,
-        "ig_reels_avg_watch_time": 1958,
-        "ig_reels_video_view_total_time": 21540
+        "views": 15,
+        "ig_reels_avg_watch_time": 4823,
+        "ig_reels_video_view_total_time": 62711
       },
       "facebook": {
         "reacciones": 0,
