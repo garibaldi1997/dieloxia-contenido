@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T18:50:10+00:00",
+  "actualizado": "2026-10-31T17:55:25+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -1827,10 +1827,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfC68taFBrc/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 2
       },
       "facebook": {
         "reacciones": 0,

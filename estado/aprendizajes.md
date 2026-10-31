@@ -1,8 +1,8 @@
 # Aprendizajes automáticos
-_Actualizado: 30/10/2026 12:54 CDMX · 80 posts con más de 24 h (historias excluidas)._
+_Actualizado: 31/10/2026 11:58 CDMX · 80 posts con más de 24 h (historias excluidas)._
 
 ## Seguidores
-- **dieloxia** (2026-10-30): Instagram 2 (+0 desde 2026-10-15), Facebook 0 (+0)
+- **dieloxia** (2026-10-31): Instagram 3 (+1 desde 2026-10-15), Facebook 0 (+0)
 
 ## Mejores 3 (repetir el patrón: formato, tipo de gancho, hora)
 - **Mientras tú dormías, tu asistente no 🌙** · reel · viernes 18:00 · alcance 126, vistas 136, guardados 1, compartidos 0, comentarios 0
@@ -10,9 +10,9 @@ _Actualizado: 30/10/2026 12:54 CDMX · 80 posts con más de 24 h (historias excl
 - **Son las 2 de la tarde y tu fonda está llena 🍲 Entran tres mensajes y nadie contesta…** · reel · jueves 10:00 · alcance 69, vistas 77, guardados 0, compartidos 1, comentarios 0
 
 ## Peores 3 (no repetir ese gancho/formato/hora tal cual)
+- **Son las 9 de la mañana y tu ferretería está llena de constructores 🧱** · reel · lunes 10:00 · alcance 0, puntaje 0
 - **Faltan 3 días para la quincena y tu WhatsApp va a explotar 💸** · reel · martes 10:00 · alcance 0, puntaje 0
 - **Son las 6 de la tarde y tu academia de inglés está llena 📚** · reel · martes 16:00 · alcance 0, puntaje 0
-- **¿Cuántos mensajes tienes sin contestar a esta hora? 🕕** · imagen · miércoles 11:00 · alcance 0, puntaje 0
 
 ### Por formato
 | | posts | alcance prom. | puntaje prom. |
