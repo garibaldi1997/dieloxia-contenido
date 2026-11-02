@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T18:33:18+00:00",
+  "actualizado": "2026-11-02T22:27:49+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -1931,6 +1931,144 @@
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "/reel/1631624141776505/"
+      }
+    },
+    "2026-11-02-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-02T09:00:00-06:00",
+      "tema": "7 días para dejar de perder clientes en WhatsApp 📲 (sin gastar un peso)",
+      "instagram": {
+        "id": "18112030427617733",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfPlLEoDSo4/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 3
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122113880991506678"
+      }
+    },
+    "2026-11-02-reel-historia-taller": {
+      "tipo": "reel",
+      "fecha": "2026-11-02T10:00:00-06:00",
+      "tema": "Son las 8 de la mañana y tu taller ya tiene tres autos en el elevador 🔧",
+      "instagram": {
+        "id": "18115600886585025",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfPr9AgD-V4/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 3,
+        "ig_reels_avg_watch_time": 2309,
+        "ig_reels_video_view_total_time": 6928
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/926948573683202/"
+      }
+    },
+    "2026-11-02-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-02T11:00:00-06:00",
+      "tema": "¿Qué pasa con los mensajes que llegan cuando cierras? 🌙",
+      "instagram": {
+        "id": "18081486707713937",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfPyylvl94T/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122113915743506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-02-reel-historia-panaderia": {
+      "tipo": "reel",
+      "fecha": "2026-11-02T12:00:00-06:00",
+      "tema": "Es 2 de noviembre y tu panadería no da abasto 🍞🕯️",
+      "instagram": {
+        "id": "18134456164666580",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfP5sYNgZUV/",
+        "reach": 56,
+        "saved": 0,
+        "shares": 0,
+        "views": 69,
+        "ig_reels_avg_watch_time": 4411,
+        "ig_reels_video_view_total_time": 260296
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1647459583713486/"
+      }
+    },
+    "2026-11-02-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-02T14:30:00-06:00",
+      "tema": "Si tu hora vale $400 y gastas 2 contestando lo mismo, son $800 al día 🧮",
+      "instagram": {
+        "id": "18036684167667694",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfQK0k7GO8k/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122113988853506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-02-reel-cuenta": {
+      "tipo": "reel",
+      "fecha": "2026-11-02T16:00:00-06:00",
+      "tema": "Haz esta cuenta 🧮",
+      "instagram": {
+        "id": "18031225439879194",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfQVI3lknPe/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2114235723299034/"
       }
     }
   }

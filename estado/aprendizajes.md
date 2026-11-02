@@ -1,8 +1,8 @@
 # Aprendizajes automáticos
-_Actualizado: 01/11/2026 12:35 CDMX · 80 posts con más de 24 h (historias excluidas)._
+_Actualizado: 02/11/2026 16:30 CDMX · 80 posts con más de 24 h (historias excluidas)._
 
 ## Seguidores
-- **dieloxia** (2026-11-01): Instagram 3 (+1 desde 2026-10-15), Facebook 0 (+0)
+- **dieloxia** (2026-11-02): Instagram 3 (+1 desde 2026-10-15), Facebook 0 (+0)
 
 ## Mejores 3 (repetir el patrón: formato, tipo de gancho, hora)
 - **Mientras tú dormías, tu asistente no 🌙** · reel · viernes 18:00 · alcance 126, vistas 136, guardados 1, compartidos 0, comentarios 0
