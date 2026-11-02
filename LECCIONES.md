@@ -100,3 +100,9 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - `scripts/fotos.py usar` rechaza la 2.ª foto del mismo fotógrafo aunque sea de la MISMA pieza; registra la 2.ª a mano en `estado/fotos_usadas.json` (huella con `fotos.huella`).
 - Para corregir solo el final de un reel sin repetir 8 min de render: copia `make_reel.py` con un `START` de cuadro inicial (los cuadros anteriores en `frames/` se conservan) y vuelve a codificar.
 - Con la voz de Edge, `SPEED 1.2–1.25` deja los guiones de ~35–37 s en ~29–30 s.
+
+## 2026-11-02 · Cuidados técnicos (nombres de voz y fotos)
+- Antes de nombrar un guion de voz, revisa `ls voz/ | grep <nombre>`: `reel-cuenta` ya existía y su .txt se sobrescribió (hubo que restaurarlo). Usa nombres nuevos y únicos.
+- `scripts/fotos.py usar` ya detecta fotógrafo repetido en 30 días y fotos idénticas (p. ej. una foto usada en `reel-mitos`): corre `usar` ANTES de renderizar, no después, para no tener que re-renderizar escenas.
+- En el efecto `glassType`, textos de más de ~6 letras con size 230 se cortan en los bordes: usa ≤5 caracteres o baja el tamaño. En `headlineWall` mantén frases cortas (≤18 caracteres con size 62).
+- Los días 29/10–01/11 no hay entradas en calendario.json (la rutina no corrió); hoy se retomó la cuota.
