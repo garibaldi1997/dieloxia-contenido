@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T22:27:49+00:00",
+  "actualizado": "2026-11-03T20:18:39+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -1962,15 +1962,15 @@
       "instagram": {
         "id": "18115600886585025",
         "comments_count": 0,
-        "like_count": 0,
+        "like_count": 1,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfPr9AgD-V4/",
-        "reach": 2,
+        "reach": 4,
         "saved": 0,
         "shares": 0,
-        "views": 3,
-        "ig_reels_avg_watch_time": 2309,
-        "ig_reels_video_view_total_time": 6928
+        "views": 7,
+        "ig_reels_avg_watch_time": 16090,
+        "ig_reels_video_view_total_time": 96540
       },
       "facebook": {
         "reacciones": 0,
@@ -2008,15 +2008,15 @@
       "instagram": {
         "id": "18134456164666580",
         "comments_count": 0,
-        "like_count": 0,
+        "like_count": 1,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfP5sYNgZUV/",
-        "reach": 56,
+        "reach": 101,
         "saved": 0,
         "shares": 0,
-        "views": 69,
-        "ig_reels_avg_watch_time": 4411,
-        "ig_reels_video_view_total_time": 260296
+        "views": 120,
+        "ig_reels_avg_watch_time": 5263,
+        "ig_reels_video_view_total_time": 557971
       },
       "facebook": {
         "reacciones": 0,
@@ -2035,10 +2035,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfQK0k7GO8k/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 2
       },
       "facebook": {
         "reacciones": 0,
@@ -2054,9 +2054,79 @@
       "instagram": {
         "id": "18031225439879194",
         "comments_count": 0,
-        "like_count": 0,
+        "like_count": 1,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfQVI3lknPe/",
+        "reach": 5,
+        "saved": 0,
+        "shares": 0,
+        "views": 5,
+        "ig_reels_avg_watch_time": 1640,
+        "ig_reels_video_view_total_time": 9840
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2114235723299034/"
+      }
+    },
+    "2026-11-02-reel-tres-cosas": {
+      "tipo": "reel",
+      "fecha": "2026-11-02T18:00:00-06:00",
+      "tema": "3 cosas que tu asistente de WhatsApp nunca debe hacer solo 🖐️",
+      "instagram": {
+        "id": "18490116907129204",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfQi3XRDD8F/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 6832,
+        "ig_reels_video_view_total_time": 13664
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1119859337070194/"
+      }
+    },
+    "2026-11-03-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-03T09:00:00-06:00",
+      "tema": "5 mensajes de WhatsApp que debes dejar listos antes del Buen Fin 🛍️",
+      "instagram": {
+        "id": "18062295545580520",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfSJ-oQmvdJ/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 5
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122114260293506678"
+      }
+    },
+    "2026-11-03-reel-historia-optica": {
+      "tipo": "reel",
+      "fecha": "2026-11-03T10:00:00-06:00",
+      "tema": "Son las 4 de la tarde y tu óptica tiene tres clientes probándose armazones 👓",
+      "instagram": {
+        "id": "18123116965820654",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfSQxRkEy-V/",
         "reach": 0,
         "saved": 0,
         "shares": 0,
@@ -2068,7 +2138,53 @@
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
-        "permalink": "/reel/2114235723299034/"
+        "permalink": "/reel/1006280185826677/"
+      }
+    },
+    "2026-11-03-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-03T11:00:00-06:00",
+      "tema": "Sí, el Buen Fin te va a traer ventas… pero ¿quién contesta a las 11 de la noche? 🌙",
+      "instagram": {
+        "id": "17883900948536340",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfSXxFrDfh1/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122114289009506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-03-reel-historia-unas": {
+      "tipo": "reel",
+      "fecha": "2026-11-03T12:00:00-06:00",
+      "tema": "Es martes a las 11 de la mañana y tu salón de uñas está lleno 💅",
+      "instagram": {
+        "id": "18154917544536949",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfSe1WWCslh/",
+        "reach": 5,
+        "saved": 0,
+        "shares": 0,
+        "views": 5,
+        "ig_reels_avg_watch_time": 2734,
+        "ig_reels_video_view_total_time": 13671
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1451580380410432/"
       }
     }
   }
