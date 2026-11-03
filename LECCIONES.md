@@ -106,3 +106,9 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - `scripts/fotos.py usar` ya detecta fotógrafo repetido en 30 días y fotos idénticas (p. ej. una foto usada en `reel-mitos`): corre `usar` ANTES de renderizar, no después, para no tener que re-renderizar escenas.
 - En el efecto `glassType`, textos de más de ~6 letras con size 230 se cortan en los bordes: usa ≤5 caracteres o baja el tamaño. En `headlineWall` mantén frases cortas (≤18 caracteres con size 62).
 - Los días 29/10–01/11 no hay entradas en calendario.json (la rutina no corrió); hoy se retomó la cuota.
+
+## 2026-11-03 · Cuidados técnicos (anclas de voz y render)
+- `FX.at(W, 'palabra')` compara en minúsculas: escribe SIEMPRE la palabra ancla en minúsculas ('dieloxia', no 'Dieloxia') o devuelve 0 y la escena sale mal.
+- Si una palabra ancla no existe en el guion (p. ej. 'sigues'), `at` devuelve 0 y una escena tapa todo el video: revisa un cuadro cada ~5 s con ffmpeg antes de publicar.
+- Cuatro renders en paralelo en 4 núcleos tardan ~25 min; con un solo render un reel de 30 s tarda ~8 min. Lanza los renders apenas existan guion y fotos.
+- El logo oficial vive en la rama claude/fervent-ramanujan-pql9o2 (assets/logo.png).
