@@ -534,5 +534,77 @@
   "fecha": "2026-11-02",
   "unsplash": "z5Zrrui_COc",
   "fotografo": "Yasin Onus"
+ },
+ {
+  "huella": "1315a1c3930e87ce",
+  "archivo": "f1.jpg",
+  "pieza": "2026-11-03-reel-optica",
+  "fecha": "2026-11-03",
+  "unsplash": "rcP7T6MPEIc",
+  "fotografo": "Hush Naidoo"
+ },
+ {
+  "huella": "9b7b479d9db19596",
+  "archivo": "f2.jpg",
+  "pieza": "2026-11-03-reel-optica",
+  "fecha": "2026-11-03",
+  "unsplash": "3PnyVbqkCAU",
+  "fotografo": "Anita Jankovic"
+ },
+ {
+  "huella": "df1e98e93ae2e0e1",
+  "archivo": "f1.jpg",
+  "pieza": "2026-11-03-reel-unas",
+  "fecha": "2026-11-03",
+  "unsplash": "Fr_hnLyqWrk",
+  "fotografo": "Stefan Vibes"
+ },
+ {
+  "huella": "c6d251863232362e",
+  "archivo": "f1.jpg",
+  "pieza": "2026-11-03-reel-buenfin",
+  "fecha": "2026-11-03",
+  "unsplash": "Bjo94tgBWzQ",
+  "fotografo": "Safal Karki"
+ },
+ {
+  "huella": "4ace94a6a6848494",
+  "archivo": "f2.jpg",
+  "pieza": "2026-11-03-reel-buenfin",
+  "fecha": "2026-11-03",
+  "unsplash": "5mCHffAfQeo",
+  "fotografo": "Carlos de Almeida"
+ },
+ {
+  "huella": "640e324c8c380080",
+  "archivo": "f2.jpg",
+  "pieza": "2026-11-03-reel-pregunta",
+  "fecha": "2026-11-03",
+  "unsplash": "wWgPvmK5CZ0",
+  "fotografo": "Rendy Novantino"
+ },
+ {
+  "huella": "ecc62703d3d1f1d0",
+  "archivo": "f1.jpg",
+  "pieza": "2026-11-03-reel-pregunta",
+  "fecha": "2026-11-03",
+  "unsplash": "-C-jTjc0g7I",
+  "fotografo": "matthew reyes"
+ },
+ {
+  "huella": "e7723359270668c0",
+  "archivo": "f2.jpg",
+  "pieza": "2026-11-03-reel-unas",
+  "fecha": "2026-11-03",
+  "unsplash": "0ENfCflxAsM",
+  "fotografo": "Stefan Vibes"
+ },
+ {
+  "huella": "03130f13b3b7e87f",
+  "archivo": "p1.jpg",
+  "pieza": "2026-11-03-post1",
+  "fecha": "2026-11-03",
+  "unsplash": "DMAGxc3icGA",
+  "fotografo": "Ernesto Samaniego"
  }
 ]
