@@ -1,0 +1,7 @@
+#voz es-MX-DaliaNeural +4%
+Pregunta rápida para dueños de negocio: ¿en cuánto tiempo contestas un mensaje nuevo en WhatsApp?
+Si es en menos de cinco minutos, vas bien.
+Si es en una hora, ya perdiste a la mitad de quienes preguntaron.
+Y si es hasta el día siguiente, ese cliente ya compró en otro lado.
+La buena noticia: un asistente puede contestar al instante, y tú decides cuándo intervenir.
+Cuéntame en comentarios: ¿cuánto tardas tú?
