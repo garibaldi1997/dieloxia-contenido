@@ -112,3 +112,10 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - Si una palabra ancla no existe en el guion (p. ej. 'sigues'), `at` devuelve 0 y una escena tapa todo el video: revisa un cuadro cada ~5 s con ffmpeg antes de publicar.
 - Cuatro renders en paralelo en 4 núcleos tardan ~25 min; con un solo render un reel de 30 s tarda ~8 min. Lanza los renders apenas existan guion y fotos.
 - El logo oficial vive en la rama claude/fervent-ramanujan-pql9o2 (assets/logo.png).
+
+## 2026-11-04 · Cuidados técnicos (lista de chats, anclas y pip)
+- `lista()` de `rlib.js` heredaba el color blanco de `.fx` y los nombres de los chats salían invisibles; ya lleva `color:#0d1b1e`. Las tarjetas de `nt()` ahora van con fondo sólido (`#12332f`) para no verse translúcidas sobre el celular. Evita emojis en el título de esas tarjetas.
+- `FX.at(W,'con')` coincide con la PRIMERA "con" del guion (palabras ≤3 letras comparan exacto): ancla con una palabra única ("dieloxia"). `at(W,'contesta')` también coincide con "contestar"; usa el índice `n` y revisa un cuadro por escena antes del render largo. `cuatro` en un guion que empieza con "Cuatro…" necesita n=1.
+- En la nube: `/usr/bin/python3 -m pip install --break-system-packages playwright` (el `pip` suelto es de otro Python). `make_reel.py` pide la ruta ABSOLUTA del logo.
+- Para corregir una escena sin repetir todo el render: renderiza solo el rango de cuadros (copia de make_reel con `F0,F1`) y vuelve a codificar; 120 cuadros tardan ~15 s.
+- El contenedor de la rutina rinde 4 reels de ~30 s en paralelo en ~8 min; `estado/fotos_usadas.json` es el registro real de fotos (content_log.json de Drive quedó sin uso desde el 8/10).

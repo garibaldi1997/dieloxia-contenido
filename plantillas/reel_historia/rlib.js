@@ -13,7 +13,7 @@ function foto(v, a, b, src, o = {}) {
 const chip = (v, a, b, txt, top = 250) => `<div class="fx" style="opacity:${FX.ventana(v, a, b, .2)}"><div class="fx-ab" style="left:0;right:0;top:${top}px;text-align:center"><span style="display:inline-block;background:rgba(13,27,30,.8);backdrop-filter:blur(6px);border:2px solid rgba(255,255,255,.18);border-radius:99px;padding:14px 32px;font-size:40px;font-weight:800;color:#fff">🕒 ${txt}</span></div></div>`;
 const notif = (who, msg) => `<div style="display:flex;gap:18px;align-items:center"><div style="width:64px;height:64px;border-radius:18px;background:#25d366;display:grid;place-items:center;flex:none">${WA}</div><div><div style="font-size:30px;font-weight:800">${who}</div><div style="font-size:28px;color:#dfeee9;margin-top:2px">${msg}</div></div></div>`;
 // una tarjeta de notificación que aparece en el momento a
-const nt = (v, a, b, x, y, w, who, msg) => FX.uiWorld(v, a, b, [{ x, y, w, html: notif(who, msg) }]);
+const nt = (v, a, b, x, y, w, who, msg) => FX.uiWorld(v, a, b, [{ x, y, w, html: `<div style="margin:-24px -28px;padding:24px 28px;background:#12332f;border-radius:30px">${notif(who, msg)}</div>` }]);
 // pantalla de chat de WhatsApp (items [{t,s:'in'|'out',m}])
 function chat(v, nombre, items, tag) {
   return `<div style="position:absolute;inset:0;background:#efeae2"><div style="position:absolute;left:0;right:0;top:0;height:128px;background:#075e54;color:#fff;padding:58px 24px 0;font-size:28px;font-weight:700">${nombre}${tag ? `<span style="float:right;font-size:20px;background:#2fd4b4;color:#06402b;border-radius:99px;padding:6px 14px;margin-top:-4px">${tag}</span>` : ''}</div>
@@ -21,7 +21,7 @@ function chat(v, nombre, items, tag) {
 }
 // lista de chats (filas [{n,m,c,t,badge|ok|lost}]) con cambios por tiempo
 function lista(v, filas) {
-  return `<div style="position:absolute;inset:0;background:#fff"><div style="height:128px;background:#075e54;color:#fff;padding:60px 26px 0;font-size:32px;font-weight:800">WhatsApp Business</div>${filas.map(f => { const lost = f.lostAt && v >= f.lostAt, ok = f.okAt && v >= f.okAt;
+  return `<div style="position:absolute;inset:0;background:#fff;color:#0d1b1e"><div style="height:128px;background:#075e54;color:#fff;padding:60px 26px 0;font-size:32px;font-weight:800">WhatsApp Business</div>${filas.map(f => { const lost = f.lostAt && v >= f.lostAt, ok = f.okAt && v >= f.okAt;
     return `<div style="display:flex;gap:16px;align-items:center;padding:22px 24px;border-bottom:1px solid #eef0ef;background:${lost ? '#fde8ea' : ok ? '#f1fbf5' : '#fff'}"><div style="width:68px;height:68px;border-radius:50%;background:${f.c};color:#fff;font-weight:800;font-size:30px;display:grid;place-items:center;flex:none">${f.n[0]}</div><div style="flex:1;min-width:0"><div style="font-size:26px;font-weight:800">${f.n}</div><div style="font-size:22px;color:#5b6663;margin-top:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${lost ? f.lost : ok ? '✓✓ ' + f.ok : f.m}</div></div>${lost ? '' : ok ? `<div style="font-size:18px;font-weight:800;background:#e8f7ef;color:#06402b;border-radius:99px;padding:5px 10px">${f.tag || 'Respondido'}</div>` : `<div style="background:#25d366;color:#fff;font-weight:800;font-size:20px;border-radius:99px;padding:3px 11px">1</div>`}</div>`; }).join('')}</div>`;
 }
 function cierre(v, a, titulo, linea, url = 'dieloxia.com') {
