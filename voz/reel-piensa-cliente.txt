@@ -1,0 +1,8 @@
+#voz es-MX-DaliaNeural +4%
+Esto piensa tu cliente cuando tardas en contestar.
+¿Seguirán abiertos?
+Mejor le escribo a otro.
+Ya me cansé de esperar.
+Y esa venta, ya no es tuya.
+Con Dieloxia, tu asistente de inteligencia artificial contesta al instante, y tú te quedas con el control.
+Comenta cuánto tardas hoy en contestar. Te leo.
