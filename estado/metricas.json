@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T20:18:39+00:00",
+  "actualizado": "2026-11-04T20:32:47+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -2127,12 +2127,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfSQxRkEy-V/",
-        "reach": 0,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 2,
+        "ig_reels_avg_watch_time": 1406,
+        "ig_reels_video_view_total_time": 2813
       },
       "facebook": {
         "reacciones": 0,
@@ -2151,10 +2151,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfSXxFrDfh1/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 2
       },
       "facebook": {
         "reacciones": 0,
@@ -2173,18 +2173,202 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfSe1WWCslh/",
-        "reach": 5,
+        "reach": 21,
         "saved": 0,
         "shares": 0,
-        "views": 5,
-        "ig_reels_avg_watch_time": 2734,
-        "ig_reels_video_view_total_time": 13671
+        "views": 22,
+        "ig_reels_avg_watch_time": 4283,
+        "ig_reels_video_view_total_time": 81385
       },
       "facebook": {
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "/reel/1451580380410432/"
+      }
+    },
+    "2026-11-03-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-03T14:30:00-06:00",
+      "tema": "¿En cuánto tiempo contesta tu negocio un mensaje nuevo en WhatsApp? ⏱️",
+      "instagram": {
+        "id": "18122254879940572",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfSvw2Dl3f1/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122114340861506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-03-reel-buenfin": {
+      "tipo": "reel",
+      "fecha": "2026-11-03T16:00:00-06:00",
+      "tema": "El Buen Fin llega en 10 días y tu WhatsApp va a explotar 🛍️",
+      "instagram": {
+        "id": "18426840778159435",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfS6NtVnKmi/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 5,
+        "ig_reels_avg_watch_time": 19550,
+        "ig_reels_video_view_total_time": 19550
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1781989466410954/"
+      }
+    },
+    "2026-11-03-reel-pregunta": {
+      "tipo": "reel",
+      "fecha": "2026-11-03T18:00:00-06:00",
+      "tema": "Pregunta rápida para dueños de negocio: ¿en cuánto tiempo contestas un mensaje nuevo en Wh",
+      "instagram": {
+        "id": "18121033180979979",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfTHr8Zga9Z/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 831,
+        "ig_reels_video_view_total_time": 831
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1646521903693060/"
+      }
+    },
+    "2026-11-04-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-04T09:00:00-06:00",
+      "tema": "6 errores al vender por WhatsApp que le cuestan clientes a tu negocio 📲",
+      "instagram": {
+        "id": "17987316149891846",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfUuvJwjgLw/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122114590941506678"
+      }
+    },
+    "2026-11-04-reel-historia-dentista": {
+      "tipo": "reel",
+      "fecha": "2026-11-04T10:00:00-06:00",
+      "tema": "Son las 9 de la mañana y tu consultorio dental ya tiene la sala llena 🦷",
+      "instagram": {
+        "id": "17912301612303873",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfU1l9TlFCa/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1623922061969374/"
+      }
+    },
+    "2026-11-04-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-04T11:00:00-06:00",
+      "tema": "Tu producto puede ser el mejor del barrio. Si no contestas a tiempo, nadie lo sabrá 🌮",
+      "instagram": {
+        "id": "18134045305775503",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfU8bvqDSBW/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122114619339506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-04-reel-historia-taqueria": {
+      "tipo": "reel",
+      "fecha": "2026-11-04T12:00:00-06:00",
+      "tema": "Son las 2 de la tarde y tu taquería no tiene ni una mesa libre 🌮",
+      "instagram": {
+        "id": "18386222458236961",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfVDTz8gSRF/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 3,
+        "ig_reels_avg_watch_time": 939,
+        "ig_reels_video_view_total_time": 939
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1328977259286073/"
+      }
+    },
+    "2026-11-04-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-04T14:30:00-06:00",
+      "tema": "Tu WhatsApp en 4 casillas ✅",
+      "instagram": {
+        "id": "18196796710361311",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfVUd9YDdti/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122114664897506678&set=a.122093668107506678&type=3"
       }
     }
   }
