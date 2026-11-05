@@ -119,3 +119,10 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - En la nube: `/usr/bin/python3 -m pip install --break-system-packages playwright` (el `pip` suelto es de otro Python). `make_reel.py` pide la ruta ABSOLUTA del logo.
 - Para corregir una escena sin repetir todo el render: renderiza solo el rango de cuadros (copia de make_reel con `F0,F1`) y vuelve a codificar; 120 cuadros tardan ~15 s.
 - El contenedor de la rutina rinde 4 reels de ~30 s en paralelo en ~8 min; `estado/fotos_usadas.json` es el registro real de fotos (content_log.json de Drive quedó sin uso desde el 8/10).
+
+## 2026-11-05 · Cuidados técnicos (agentes en paralelo y nombres de voz)
+- Al lanzar un agente por reel, dale un guion nuevo con nombre ÚNICO: `reel-control-humano.txt` ya existía y se sobrescribió (se restauró del historial). Haz `ls voz | grep <nombre>` antes de escribir.
+- La acción de voz puede fallar por conflicto de rebase si dos pushes caen seguidos a `main`: espera a que termine la primera antes del segundo push o dispara `voz.yml` con workflow_dispatch.
+- `fotos.py revisar` rechaza fotos de la misma sesión de un fotógrafo usada en 30 días (veterinaria 26/10): busca la sesión de otro fotógrafo desde el inicio.
+- Un guion de ~36 s necesita SPEED 1.25 para quedar ≤30 s; uno de ~27 s a 1.2 queda en ~23 s.
+- Los agentes de reel no deben correr `fotos.py usar` (carrera en estado/fotos_usadas.json): registra tú todas las fotos al final.
