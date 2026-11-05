@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T20:32:47+00:00",
+  "actualizado": "2026-11-05T20:49:10+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -2243,12 +2243,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfTHr8Zga9Z/",
-        "reach": 1,
+        "reach": 3,
         "saved": 0,
         "shares": 0,
-        "views": 1,
-        "ig_reels_avg_watch_time": 831,
-        "ig_reels_video_view_total_time": 831
+        "views": 3,
+        "ig_reels_avg_watch_time": 824,
+        "ig_reels_video_view_total_time": 2472
       },
       "facebook": {
         "reacciones": 0,
@@ -2267,10 +2267,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfUuvJwjgLw/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 2
       },
       "facebook": {
         "reacciones": 0,
@@ -2289,12 +2289,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfU1l9TlFCa/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 4,
+        "ig_reels_avg_watch_time": 13496,
+        "ig_reels_video_view_total_time": 13496
       },
       "facebook": {
         "reacciones": 0,
@@ -2313,10 +2313,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfU8bvqDSBW/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 1
       },
       "facebook": {
         "reacciones": 0,
@@ -2335,12 +2335,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfVDTz8gSRF/",
-        "reach": 0,
+        "reach": 5,
         "saved": 0,
         "shares": 0,
-        "views": 3,
-        "ig_reels_avg_watch_time": 939,
-        "ig_reels_video_view_total_time": 939
+        "views": 7,
+        "ig_reels_avg_watch_time": 4027,
+        "ig_reels_video_view_total_time": 24165
       },
       "facebook": {
         "reacciones": 0,
@@ -2359,16 +2359,178 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfVUd9YDdti/",
-        "reach": 0,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 2
       },
       "facebook": {
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "https://www.facebook.com/photo.php?fbid=122114664897506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-04-reel-cuatro-respuestas": {
+      "tipo": "reel",
+      "fecha": "2026-11-04T16:00:00-06:00",
+      "tema": "4 respuestas rápidas que todo negocio debería tener listas ⚡",
+      "instagram": {
+        "id": "18101521415538941",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfVeyH3mSBb/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 14470,
+        "ig_reels_video_view_total_time": 14470
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1095736006592054/"
+      }
+    },
+    "2026-11-04-reel-piensa-cliente": {
+      "tipo": "reel",
+      "fecha": "2026-11-04T18:00:00-06:00",
+      "tema": "Esto piensa tu cliente cuando tardas en contestar 👀",
+      "instagram": {
+        "id": "18181966561439733",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfVsgzEAtBz/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 9844,
+        "ig_reels_video_view_total_time": 9844
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2143728789848327/"
+      }
+    },
+    "2026-11-05-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-05T09:00:00-06:00",
+      "tema": "¿Qué le contestas a un cliente nuevo? Aquí van 5 mensajes listos 📲",
+      "instagram": {
+        "id": "18136220635736602",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfXTmm-mA81/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 4
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122114920407506678"
+      }
+    },
+    "2026-11-05-reel-historia-veterinaria": {
+      "tipo": "reel",
+      "fecha": "2026-11-05T10:00:00-06:00",
+      "tema": "Son las 5 de la tarde y tu veterinaria está llena 🐶",
+      "instagram": {
+        "id": "18136653748708150",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfXaYCUkm-U/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/reel/2202462277375586/"
+      }
+    },
+    "2026-11-05-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-05T11:00:00-06:00",
+      "tema": "¿Cuántos mensajes dejaste en visto esta semana? 👀",
+      "instagram": {
+        "id": "18062749139800487",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfXhQThl9EP/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122114946303506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-05-reel-cuanto-cuesta": {
+      "tipo": "reel",
+      "fecha": "2026-11-05T12:00:00-06:00",
+      "tema": "¿Cuánto te cuesta un mensaje sin contestar? Haz la cuenta 🧮",
+      "instagram": {
+        "id": "17927227737220671",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfXoI1MlXio/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 893,
+        "ig_reels_video_view_total_time": 893
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/4554672248081180/"
+      }
+    },
+    "2026-11-05-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-05T14:30:00-06:00",
+      "tema": "Sin asistente vs. con asistente ⚡",
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122115003483506678&set=a.122093668107506678&type=3"
+      },
+      "instagram": {
+        "id": "18196419382400120",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfX69DklR7e/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
       }
     }
   }
