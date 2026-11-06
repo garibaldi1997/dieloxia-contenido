@@ -126,3 +126,9 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - `fotos.py revisar` rechaza fotos de la misma sesión de un fotógrafo usada en 30 días (veterinaria 26/10): busca la sesión de otro fotógrafo desde el inicio.
 - Un guion de ~36 s necesita SPEED 1.25 para quedar ≤30 s; uno de ~27 s a 1.2 queda en ~23 s.
 - Los agentes de reel no deben correr `fotos.py usar` (carrera en estado/fotos_usadas.json): registra tú todas las fotos al final.
+
+## 2026-11-06 · Cuidados técnicos (fotos y agentes)
+- `scripts/fotos.py` fallaba con `ValueError` si una entrada de `estado/fotos_usadas.json` tenía `huella` vacía (registros manuales); ya se ignora la huella vacía.
+- Con `/usr/bin/python3` instala `edge-tts` solo si hay DNS a speech.platform.bing.com; en la nube no hay: la voz se genera empujando `voz/*.txt` a `main` (la acción tarda ~1 min).
+- Dos agentes buscando fotos a la vez funcionaron bien con consultas distintas; el registro de fotos lo hace la sesión principal al final con `fotos.huella`. Los reels con guion de ~38 s necesitan SPEED 1.3–1.35 para quedar ≤30 s.
+- Las búsquedas de Unsplash devuelven pocas personas latinas: la foto del post se eligió por fotógrafo libre en 30 días; prueba con «Mexico» + giro.
