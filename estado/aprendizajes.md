@@ -1,8 +1,8 @@
 # Aprendizajes automáticos
-_Actualizado: 05/11/2026 14:51 CDMX · 99 posts con más de 24 h (historias excluidas)._
+_Actualizado: 06/11/2026 14:07 CDMX · 105 posts con más de 24 h (historias excluidas)._
 
 ## Seguidores
-- **dieloxia** (2026-11-05): Instagram 4 (+2 desde 2026-10-15), Facebook 0 (+0)
+- **dieloxia** (2026-11-06): Instagram 4 (+2 desde 2026-10-15), Facebook 0 (+0)
 
 ## Mejores 3 (repetir el patrón: formato, tipo de gancho, hora)
 - **Mientras tú dormías, tu asistente no 🌙** · reel · viernes 18:00 · alcance 126, vistas 136, guardados 1, compartidos 0, comentarios 0
@@ -17,16 +17,16 @@ _Actualizado: 05/11/2026 14:51 CDMX · 99 posts con más de 24 h (historias excl
 ### Por formato
 | | posts | alcance prom. | puntaje prom. |
 |---|---|---|---|
-| reel | 48 | 14 | 0.3 |
-| imagen | 36 | 1 | 0.1 |
-| carrusel | 15 | 1 | 0.0 |
+| reel | 52 | 13 | 0.3 |
+| imagen | 37 | 1 | 0.1 |
+| carrusel | 16 | 1 | 0.0 |
 
 ### Por horario
 | | posts | alcance prom. | puntaje prom. |
 |---|---|---|---|
-| tarde (16–19) | 26 | 9 | 0.3 |
-| mediodía (12–15) | 30 | 8 | 0.0 |
-| mañana (6–11) | 42 | 6 | 0.1 |
+| mediodía (12–15) | 31 | 8 | 0.0 |
+| tarde (16–19) | 28 | 8 | 0.3 |
+| mañana (6–11) | 45 | 6 | 0.1 |
 | noche (20–5) | 1 | 2 | 0.0 |
 
 ### Por día
@@ -34,14 +34,14 @@ _Actualizado: 05/11/2026 14:51 CDMX · 99 posts con más de 24 h (historias excl
 |---|---|---|---|
 | sábado | 7 | 20 | 0.1 |
 | viernes | 14 | 11 | 0.4 |
-| jueves | 8 | 10 | 0.5 |
 | lunes | 21 | 7 | 0.2 |
-| miércoles | 19 | 6 | 0.1 |
+| jueves | 12 | 7 | 0.3 |
 | domingo | 9 | 5 | 0.0 |
+| miércoles | 21 | 5 | 0.0 |
 | martes | 21 | 3 | 0.0 |
 
 ## Reglas para el siguiente post
 1. Formato con más alcance hasta hoy: **reel**. Dale más espacio en el calendario.
-2. Horario con más alcance: **tarde (16–19)**. Programa ahí lo más importante.
+2. Horario con más alcance: **mediodía (12–15)**. Programa ahí lo más importante.
 3. Reescribe con un gancho DISTINTO los temas de los 3 peores; repite la estructura de los 3 mejores con otro tema.
 4. Si un post tiene alcance pero 0 guardados/compartidos, el gancho funciona pero falta valor: agrega plantilla, checklist o dato útil.

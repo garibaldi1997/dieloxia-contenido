@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T20:49:10+00:00",
+  "actualizado": "2026-11-06T20:04:56+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -2451,12 +2451,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfXaYCUkm-U/",
-        "reach": 0,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 2,
+        "ig_reels_avg_watch_time": 1089,
+        "ig_reels_video_view_total_time": 2178
       },
       "facebook": {
         "reacciones": 0,
@@ -2478,7 +2478,7 @@
         "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 1
+        "views": 5
       },
       "facebook": {
         "reacciones": 0,
@@ -2527,10 +2527,150 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfX69DklR7e/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 5
+      }
+    },
+    "2026-11-05-reel-historia-boutique": {
+      "tipo": "reel",
+      "fecha": "2026-11-05T16:00:00-06:00",
+      "tema": "Faltan 8 días para el Buen Fin y tu boutique ya recibe mensajes 🛍️",
+      "instagram": {
+        "id": "18001919612817874",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfYDjzbDM57/",
+        "reach": 4,
+        "saved": 0,
+        "shares": 0,
+        "views": 4,
+        "ig_reels_avg_watch_time": 911,
+        "ig_reels_video_view_total_time": 3645
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1787238532322389/"
+      }
+    },
+    "2026-11-05-reel-control-humano": {
+      "tipo": "reel",
+      "fecha": "2026-11-05T18:00:00-06:00",
+      "tema": "¿Y si el asistente dice algo que no debe? 🤔",
+      "instagram": {
+        "id": "18613364755066419",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfYRTY-HFQd/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1113532104641664/"
+      }
+    },
+    "2026-11-06-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-06T09:00:00-06:00",
+      "tema": "Tu WhatsApp en fin de semana: 5 pasos para no perder ventas 📲",
+      "instagram": {
+        "id": "18204460288330802",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfZ4X7ZkXAp/",
         "reach": 0,
         "saved": 0,
         "shares": 0,
         "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122115251781506678"
+      }
+    },
+    "2026-11-06-reel-historia-inmobiliaria": {
+      "tipo": "reel",
+      "fecha": "2026-11-06T10:00:00-06:00",
+      "tema": "Son las 11 de la mañana y tu inmobiliaria tiene tres visitas de casas hoy 🏠",
+      "instagram": {
+        "id": "17971471283962756",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfZ_LykCi9S/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2,
+        "ig_reels_avg_watch_time": 2152,
+        "ig_reels_video_view_total_time": 4304
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2601340786944742/"
+      }
+    },
+    "2026-11-06-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-06T11:00:00-06:00",
+      "tema": "Tu cliente del fin de semana también te escribe ☕📱",
+      "instagram": {
+        "id": "17955980676036811",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfaGEBAHKbQ/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122115281349506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-06-reel-tres-preguntas": {
+      "tipo": "reel",
+      "fecha": "2026-11-06T12:00:00-06:00",
+      "tema": "3 preguntas para saber si tu negocio pierde clientes por WhatsApp ✅❌",
+      "instagram": {
+        "id": "18112335707362253",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfaM6-vDVSz/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1652461722933667/"
       }
     }
   }
