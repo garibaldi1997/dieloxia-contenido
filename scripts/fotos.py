@@ -28,7 +28,7 @@ def cargar():
 def revisar(ruta, fotografo=None, unsplash=None):
     h, hoy, prob = int(huella(ruta), 16), datetime.date.today(), []
     for r in cargar():
-        if bin(h ^ int(r["huella"], 16)).count("1") <= UMBRAL or (unsplash and r.get("unsplash") == unsplash):
+        if (r.get("huella") and bin(h ^ int(r["huella"], 16)).count("1") <= UMBRAL) or (unsplash and r.get("unsplash") == unsplash):
             prob.append(f"ya se usó en {r['pieza']} ({r['fecha']})")
         elif fotografo and r.get("fotografo", "").lower() == fotografo.lower() and (hoy - datetime.date.fromisoformat(r["fecha"])).days < DIAS_SESION:
             prob.append(f"misma sesión/fotógrafo ({fotografo}) en {r['pieza']} ({r['fecha']}); espera {DIAS_SESION} días")
