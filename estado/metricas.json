@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T20:04:56+00:00",
+  "actualizado": "2026-11-07T18:17:47+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -2591,10 +2591,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfZ4X7ZkXAp/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 1
       },
       "facebook": {
         "reacciones": 0,
@@ -2659,6 +2659,76 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfaM6-vDVSz/",
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "views": 5,
+        "ig_reels_avg_watch_time": 1822,
+        "ig_reels_video_view_total_time": 9110
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1652461722933667/"
+      }
+    },
+    "2026-11-06-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-06T14:30:00-06:00",
+      "tema": "Tu asistente contesta. Tú decides 🤝",
+      "instagram": {
+        "id": "18098214320391914",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfaeC2MAXTH/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122115332841506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-06-reel-historia-hotel": {
+      "tipo": "reel",
+      "fecha": "2026-11-06T16:00:00-06:00",
+      "tema": "Es viernes a las 4 de la tarde y tu hotel espera a los huéspedes del fin de semana 🏨",
+      "instagram": {
+        "id": "18116543156134643",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfaoYuwlAs_/",
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "views": 6,
+        "ig_reels_avg_watch_time": 1528,
+        "ig_reels_video_view_total_time": 6114
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1871159300980338/"
+      }
+    },
+    "2026-11-06-reel-viernes-ocho": {
+      "tipo": "reel",
+      "fecha": "2026-11-06T18:00:00-06:00",
+      "tema": "POV: es viernes, ocho de la noche, y cierras tu negocio 🌙",
+      "instagram": {
+        "id": "18138452953637672",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Dfa2G01mVlI/",
         "reach": 0,
         "saved": 0,
         "shares": 0,
@@ -2670,7 +2740,99 @@
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
-        "permalink": "/reel/1652461722933667/"
+        "permalink": "/reel/1615996236674285/"
+      }
+    },
+    "2026-11-07-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-07T09:00:00-06:00",
+      "tema": "Los 5 números de tu WhatsApp que deberías revisar cada lunes 📊",
+      "instagram": {
+        "id": "18099298970390446",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfcdIf6G5sd/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 3
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122115586695506678"
+      }
+    },
+    "2026-11-07-reel-historia-nutricion": {
+      "tipo": "reel",
+      "fecha": "2026-11-07T10:00:00-06:00",
+      "tema": "Es sábado a las 9 de la mañana y tu consultorio de nutrición ya tiene la agenda llena 🥗",
+      "instagram": {
+        "id": "18102358160070473",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfckCg0gLDq/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 1043,
+        "ig_reels_video_view_total_time": 1043
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1442209084050860/"
+      }
+    },
+    "2026-11-07-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-07T11:00:00-06:00",
+      "tema": "¿Cuántos clientes nuevos te escribieron esta semana? 🤔",
+      "instagram": {
+        "id": "18082343522457757",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Dfcq0J3mJ3W/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122115611601506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-07-reel-historia-floreria": {
+      "tipo": "reel",
+      "fecha": "2026-11-07T12:00:00-06:00",
+      "tema": "Son las 12 del día de un sábado y tu florería tiene tres arreglos por entregar 💐",
+      "instagram": {
+        "id": "17915497317285069",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfcxsT4jVdv/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2123326768276787/"
       }
     }
   }
