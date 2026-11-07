@@ -132,3 +132,9 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - Con `/usr/bin/python3` instala `edge-tts` solo si hay DNS a speech.platform.bing.com; en la nube no hay: la voz se genera empujando `voz/*.txt` a `main` (la acción tarda ~1 min).
 - Dos agentes buscando fotos a la vez funcionaron bien con consultas distintas; el registro de fotos lo hace la sesión principal al final con `fotos.huella`. Los reels con guion de ~38 s necesitan SPEED 1.3–1.35 para quedar ≤30 s.
 - Las búsquedas de Unsplash devuelven pocas personas latinas: la foto del post se eligió por fotógrafo libre en 30 días; prueba con «Mexico» + giro.
+
+## 2026-11-07 · Cuidados técnicos (fotógrafo repetido y tarjetas sobre rostros)
+- `fotos.py revisar` solo se acuerda de lo ya registrado: dos piezas del MISMO día pueden usar al mismo fotógrafo si nadie registra entre una y otra (post y reel con Rodrigo Rodrigues). Antes de elegir la foto del post, revisa los fotógrafos que usaron los agentes de reel.
+- Las tarjetas de `uiWorld` ("Tomar el control") tapaban los ojos de la foto de fondo: colócalas en y≥1000 cuando el rostro ocupa el centro.
+- Para re-renderizar un rango de cuadros: copia `make_reel.py` con `ts = range(F0, F1)` y nombra `f{i+F0:04d}.jpg`; luego re-codifica con el ffmpeg del final del script (en la nube Playwright de `/usr/bin/python3` requiere `executable_path='/opt/pw-browsers/chromium'`).
+- Las búsquedas de Unsplash devuelven ~15k tokens con per_page=12: usa per_page≤4.
