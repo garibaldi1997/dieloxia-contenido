@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T18:17:47+00:00",
+  "actualizado": "2026-11-08T18:29:56+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -2821,10 +2821,172 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfcxsT4jVdv/",
+        "reach": 29,
+        "saved": 0,
+        "shares": 0,
+        "views": 32,
+        "ig_reels_avg_watch_time": 3707,
+        "ig_reels_video_view_total_time": 107506
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2123326768276787/"
+      }
+    },
+    "2026-11-07-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-07T14:30:00-06:00",
+      "tema": "Mito: “mis clientes prefieren llamar” 📞",
+      "instagram": {
+        "id": "18123749611943406",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfdC2HckWvV/",
         "reach": 0,
         "saved": 0,
         "shares": 0,
-        "views": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122115664269506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-07-reel-buenfin-seis-dias": {
+      "tipo": "reel",
+      "fecha": "2026-11-07T16:00:00-06:00",
+      "tema": "Faltan 6 días para el Buen Fin y tu WhatsApp va a explotar 🛍️",
+      "instagram": {
+        "id": "18156923560578046",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfdNMxDGzwO/",
+        "reach": 7,
+        "saved": 0,
+        "shares": 0,
+        "views": 6,
+        "ig_reels_avg_watch_time": 1407,
+        "ig_reels_video_view_total_time": 8445
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1604661621704682/"
+      }
+    },
+    "2026-11-07-reel-lista-domingo": {
+      "tipo": "reel",
+      "fecha": "2026-11-07T18:00:00-06:00",
+      "tema": "Domingo por la noche: 3 minutos para que tu lunes no arranque con cien mensajes 🌙",
+      "instagram": {
+        "id": "18205512937390759",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Dfda5iqHMNR/",
+        "reach": 4,
+        "saved": 0,
+        "shares": 0,
+        "views": 5,
+        "ig_reels_avg_watch_time": 2548,
+        "ig_reels_video_view_total_time": 10194
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1697393441981322/"
+      }
+    },
+    "2026-11-08-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-08T09:00:00-06:00",
+      "tema": "¿A qué hora te escriben más tus clientes? ⏰",
+      "instagram": {
+        "id": "18125362498730830",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DffB8RqD_Ug/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122115922833506678"
+      }
+    },
+    "2026-11-08-reel-historia-barberia": {
+      "tipo": "reel",
+      "fecha": "2026-11-08T10:00:00-06:00",
+      "tema": "Es domingo, 9 de la mañana y tu barbería ya tiene fila 💈",
+      "instagram": {
+        "id": "18121702180951979",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DffIwobjFzK/",
+        "reach": 32,
+        "saved": 0,
+        "shares": 0,
+        "views": 34,
+        "ig_reels_avg_watch_time": 3416,
+        "ig_reels_video_view_total_time": 102487
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1410415835490212/"
+      }
+    },
+    "2026-11-08-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-08T11:00:00-06:00",
+      "tema": "¿Cuántos mensajes llegaron a tu WhatsApp mientras atendías el mostrador? 🛒",
+      "instagram": {
+        "id": "18128487238872658",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DffPnn4DysV/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122115948957506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-08-reel-historia-celulares": {
+      "tipo": "reel",
+      "fecha": "2026-11-08T12:00:00-06:00",
+      "tema": "Faltan 5 días para el Buen Fin y tu tienda de celulares ya es un caos 📱",
+      "instagram": {
+        "id": "18669313246052584",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DffWfwEDw-2/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
         "ig_reels_avg_watch_time": 0,
         "ig_reels_video_view_total_time": 0
       },
@@ -2832,7 +2994,7 @@
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
-        "permalink": "/reel/2123326768276787/"
+        "permalink": "/reel/951466954487762/"
       }
     }
   }
