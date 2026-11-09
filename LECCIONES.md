@@ -138,3 +138,8 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - Las tarjetas de `uiWorld` ("Tomar el control") tapaban los ojos de la foto de fondo: colócalas en y≥1000 cuando el rostro ocupa el centro.
 - Para re-renderizar un rango de cuadros: copia `make_reel.py` con `ts = range(F0, F1)` y nombra `f{i+F0:04d}.jpg`; luego re-codifica con el ffmpeg del final del script (en la nube Playwright de `/usr/bin/python3` requiere `executable_path='/opt/pw-browsers/chromium'`).
 - Las búsquedas de Unsplash devuelven ~15k tokens con per_page=12: usa per_page≤4.
+
+## 2026-11-09 · Cuidados técnicos (fotos entre agentes y búsqueda)
+- Dos agentes de reel del mismo día eligieron la MISMA foto (tienda de Anaclara Vardiero) y el post eligió otra que luego usó un reel (Reza Madani): `fotos.py revisar` no lo detecta hasta que alguien registra. Pide a cada agente que anote el id Unsplash elegido en un archivo común (`scratchpad/w/fotos_hoy.txt`) y que lo consulte antes de bajar fotos; el post se elige DESPUÉS de los reels.
+- Las búsquedas de Unsplash con per_page 3–4 cuestan ~8k tokens y devuelven pocos mexicanos; los términos "market stall"/"Mexico City" dan fotos de otros países (rechaza las de rótulos en inglés). Mejor: giro concreto + "México" (p. ej. memelera, abarrotes, florería).
+- Si no hay foto adecuada, el post va tipográfico y se anota en el resumen; los reels llevan las fotos.
