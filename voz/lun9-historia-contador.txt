@@ -1,0 +1,2 @@
+#voz es-MX-JorgeNeural +4%
+Es lunes, 12 del día, y tu despacho contable no para. Un cliente pregunta qué documentos necesita para su declaración. Otro quiere saber cuánto cuesta facturar al mes. Tú estás en una junta. Cuando sales, hay treinta y un mensajes y dos clientes ya buscaron otro contador. Ahora, con tu asistente de Dieloxia, cada pregunta de documentos, tarifas y fechas se responde al instante, desde la API oficial de WhatsApp. Y tú tienes el control en un clic. ¿Cuántos mensajes te llegan en un lunes? Te leo en comentarios.
