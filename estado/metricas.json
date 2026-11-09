@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T18:29:56+00:00",
+  "actualizado": "2026-11-09T23:09:47+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -1597,10 +1597,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/De-Tkz5Dy1a/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 1
+        "views": 7
       },
       "facebook": {
         "reacciones": 0,
@@ -1733,12 +1733,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfA4Y5-CtY9/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 376,
-        "ig_reels_video_view_total_time": 376
+        "views": 1,
+        "ig_reels_avg_watch_time": 1417,
+        "ig_reels_video_view_total_time": 2835
       },
       "facebook": {
         "reacciones": 0,
@@ -1873,10 +1873,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfDS59FD4xY/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 2
+        "views": 6
       },
       "facebook": {
         "reacciones": 0,
@@ -1989,10 +1989,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfPyylvl94T/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 1
       },
       "facebook": {
         "reacciones": 0,
@@ -2934,15 +2934,15 @@
       "instagram": {
         "id": "18121702180951979",
         "comments_count": 0,
-        "like_count": 0,
+        "like_count": 1,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DffIwobjFzK/",
-        "reach": 32,
-        "saved": 0,
+        "reach": 102,
+        "saved": 1,
         "shares": 0,
-        "views": 34,
-        "ig_reels_avg_watch_time": 3416,
-        "ig_reels_video_view_total_time": 102487
+        "views": 113,
+        "ig_reels_avg_watch_time": 5325,
+        "ig_reels_video_view_total_time": 553816
       },
       "facebook": {
         "reacciones": 0,
@@ -2983,10 +2983,126 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DffWfwEDw-2/",
+        "reach": 10,
+        "saved": 0,
+        "shares": 0,
+        "views": 9,
+        "ig_reels_avg_watch_time": 1504,
+        "ig_reels_video_view_total_time": 13542
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/951466954487762/"
+      }
+    },
+    "2026-11-08-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-08T14:30:00-06:00",
+      "tema": "Sí… yo contesto todos mis mensajes. Pero estás atendiendo a otro cliente 🙃",
+      "instagram": {
+        "id": "18130423273632090",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Dffnp-vE1_P/",
         "reach": 0,
         "saved": 0,
         "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122115992307506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-08-reel-buenfin-tres-listas": {
+      "tipo": "reel",
+      "fecha": "2026-11-08T16:00:00-06:00",
+      "tema": "Faltan 5 días para el Buen Fin: 3 cosas que debes dejar listas en tu WhatsApp 🛍️",
+      "instagram": {
+        "id": "17918953116497727",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Dffx-rnCmPB/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
         "views": 1,
+        "ig_reels_avg_watch_time": 861,
+        "ig_reels_video_view_total_time": 861
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1325292473011722/"
+      }
+    },
+    "2026-11-08-reel-mito-robot": {
+      "tipo": "reel",
+      "fecha": "2026-11-08T18:00:00-06:00",
+      "tema": "Mito: si usas un asistente en WhatsApp, tus clientes se van a dar cuenta 🤖",
+      "instagram": {
+        "id": "18118651942804992",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Dff_sgJEvg6/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 7,
+        "ig_reels_avg_watch_time": 8329,
+        "ig_reels_video_view_total_time": 49977
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1636531494824560/"
+      }
+    },
+    "2026-11-09-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-09T09:00:00-06:00",
+      "tema": "Tu primer mensaje de WhatsApp decide si el cliente se queda 💬",
+      "instagram": {
+        "id": "17941216332393710",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Dfhmy07lzW1/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122116235163506678"
+      }
+    },
+    "2026-11-09-reel-historia-laboratorio": {
+      "tipo": "reel",
+      "fecha": "2026-11-09T10:00:00-06:00",
+      "tema": "Son las 10 de la mañana y tu laboratorio clínico tiene la sala llena 🧪",
+      "instagram": {
+        "id": "17963770629250417",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfhtlenCq_o/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
         "ig_reels_avg_watch_time": 0,
         "ig_reels_video_view_total_time": 0
       },
@@ -2994,7 +3110,99 @@
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
-        "permalink": "/reel/951466954487762/"
+        "permalink": "/reel/1130335339985851/"
+      }
+    },
+    "2026-11-09-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-09T11:00:00-06:00",
+      "tema": "¿Cuántos mensajes se te quedaron sin contestar ayer? 📲",
+      "instagram": {
+        "id": "18094428158208334",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Dfh0bqDjzKD/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122116271913506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-09-reel-historia-contador": {
+      "tipo": "reel",
+      "fecha": "2026-11-09T12:00:00-06:00",
+      "tema": "Es lunes, 12 del día, y tu despacho contable no para 🧾",
+      "instagram": {
+        "id": "18349119499283836",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Dfh7X2QlOAD/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 392,
+        "ig_reels_video_view_total_time": 392
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2635502090230800/"
+      }
+    },
+    "2026-11-09-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-09T14:30:00-06:00",
+      "tema": "“Ahorita les contesto, nomás termino aquí” 🙃",
+      "instagram": {
+        "id": "18100540076558532",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfiMfGBmN-G/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122116318443506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-09-reel-buenfin-cuatro-respuestas": {
+      "tipo": "reel",
+      "fecha": "2026-11-09T16:00:00-06:00",
+      "tema": "Faltan 4 días para el Buen Fin: deja listas estas 4 respuestas en tu WhatsApp 🛍️",
+      "instagram": {
+        "id": "17871233739658090",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfiWw7YnT-M/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2246042859606868/"
       }
     }
   }
