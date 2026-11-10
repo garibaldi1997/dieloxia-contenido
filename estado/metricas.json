@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T23:09:47+00:00",
+  "actualizado": "2026-11-10T20:36:57+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -1781,10 +1781,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfCtOc1mFXd/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 4
+        "views": 7
       },
       "facebook": {
         "reacciones": 0,
@@ -2173,12 +2173,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfSe1WWCslh/",
-        "reach": 21,
+        "reach": 22,
         "saved": 0,
         "shares": 0,
-        "views": 22,
-        "ig_reels_avg_watch_time": 4283,
-        "ig_reels_video_view_total_time": 81385
+        "views": 25,
+        "ig_reels_avg_watch_time": 4232,
+        "ig_reels_video_view_total_time": 84642
       },
       "facebook": {
         "reacciones": 0,
@@ -2543,12 +2543,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfYDjzbDM57/",
-        "reach": 4,
+        "reach": 5,
         "saved": 0,
         "shares": 0,
-        "views": 4,
-        "ig_reels_avg_watch_time": 911,
-        "ig_reels_video_view_total_time": 3645
+        "views": 5,
+        "ig_reels_avg_watch_time": 811,
+        "ig_reels_video_view_total_time": 4056
       },
       "facebook": {
         "reacciones": 0,
@@ -2867,12 +2867,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfdNMxDGzwO/",
-        "reach": 7,
+        "reach": 8,
         "saved": 0,
         "shares": 0,
-        "views": 6,
-        "ig_reels_avg_watch_time": 1407,
-        "ig_reels_video_view_total_time": 8445
+        "views": 7,
+        "ig_reels_avg_watch_time": 1419,
+        "ig_reels_video_view_total_time": 9933
       },
       "facebook": {
         "reacciones": 0,
@@ -3077,10 +3077,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/Dfhmy07lzW1/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 2
       },
       "facebook": {
         "reacciones": 0,
@@ -3191,6 +3191,76 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfiWw7YnT-M/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 4,
+        "ig_reels_avg_watch_time": 2163,
+        "ig_reels_video_view_total_time": 8654
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2246042859606868/"
+      }
+    },
+    "2026-11-09-reel-tres-senales": {
+      "tipo": "reel",
+      "fecha": "2026-11-09T18:00:00-06:00",
+      "tema": "3 señales de que tu negocio ya necesita un asistente de WhatsApp 🚨",
+      "instagram": {
+        "id": "18109191860570158",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Dfikf6ZCLbw/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 937,
+        "ig_reels_video_view_total_time": 937
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1878213036926126/"
+      }
+    },
+    "2026-11-10-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-10T09:00:00-06:00",
+      "tema": "El cliente preguntó el precio y desapareció 👻",
+      "instagram": {
+        "id": "18205705072378612",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfkLmzjjybI/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 5
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122116573941506678"
+      }
+    },
+    "2026-11-10-reel-historia-taller": {
+      "tipo": "reel",
+      "fecha": "2026-11-10T10:00:00-06:00",
+      "tema": "Son las 10 de la mañana y tu taller tiene tres coches en el elevador 🔧",
+      "instagram": {
+        "id": "18033376121911120",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfkSYxLkvev/",
         "reach": 0,
         "saved": 0,
         "shares": 0,
@@ -3202,7 +3272,75 @@
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
-        "permalink": "/reel/2246042859606868/"
+        "permalink": "/reel/2000287084265126/"
+      }
+    },
+    "2026-11-10-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-10T11:00:00-06:00",
+      "tema": "Tu cliente no se fue por caro. Se fue porque nadie contestó 👀",
+      "instagram": {
+        "id": "17910228144399317",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfkZQepGxwh/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 3
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122116608951506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-10-reel-historia-gimnasio": {
+      "tipo": "reel",
+      "fecha": "2026-11-10T12:00:00-06:00",
+      "tema": "Es martes, 12 del día, y tu gimnasio tiene la sala llena 🏋️",
+      "instagram": {
+        "id": "18139096894777406",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfkgGrkD2Jh/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1722308816175826/"
+      }
+    },
+    "2026-11-10-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-10T14:30:00-06:00",
+      "tema": "Tú decides. Tu asistente de WhatsApp ayuda ✋",
+      "instagram": {
+        "id": "18129742513822596",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfkxQfagQK5/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122116658367506678&set=a.122093668107506678&type=3"
       }
     }
   }
