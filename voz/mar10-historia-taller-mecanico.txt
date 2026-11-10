@@ -1,0 +1,2 @@
+#voz es-MX-DaliaNeural +4%
+Son las 10 de la mañana y tu taller tiene tres coches en el elevador. Un cliente pregunta cuánto cuesta una afinación. Otro, si ya quedó su camioneta. Tú tienes las manos llenas de grasa. Cuando por fin ves el celular, hay veintisiete mensajes y dos clientes ya llevaron su coche a otro taller. Ahora, con tu asistente de Dieloxia, cada cotización y cada aviso de "ya está listo" sale al instante, desde la API oficial de WhatsApp. Y tú tienes el control en un clic. ¿Cuántos mensajes te llegan antes del mediodía? Te leo en comentarios.

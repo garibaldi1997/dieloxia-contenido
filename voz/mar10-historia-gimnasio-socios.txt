@@ -1,0 +1,2 @@
+#voz es-MX-JorgeNeural +4%
+Es martes, 12 del día, y tu gimnasio tiene la sala llena. Alguien pregunta cuánto cuesta la membresía. Otro, a qué hora es la clase de spinning. Tú estás corrigiendo a un socio en las pesas. Cuando sales, hay veintidós mensajes sin contestar y dos personas ya se inscribieron en otro gimnasio. Ahora, con tu asistente de Dieloxia, precios, horarios y clases se responden al instante, desde la API oficial de WhatsApp. Y tú tienes el control en un clic. Sígueme para más ideas de atención por WhatsApp para tu negocio.

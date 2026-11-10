@@ -1,0 +1,2 @@
+#voz es-MX-JorgeNeural +4%
+¿En cuánto tiempo contesta tu competencia? Piénsalo. Un cliente pregunta el precio en dos negocios a la vez. El primero contesta en un minuto. El segundo, en tres horas. Adivina con cuál se queda. No es el más barato: es el que respondió primero. Un asistente de Dieloxia contesta al instante lo repetitivo, desde la API oficial de WhatsApp, y tú entras con un clic cuando importa. Compártelo con alguien que atiende un negocio.
