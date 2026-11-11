@@ -1,0 +1,2 @@
+#voz es-MX-DaliaNeural +4%
+Son las 10 de la mañana y tu pastelería ya tiene catorce pedidos en WhatsApp. Una clienta quiere un tres leches para el sábado. Otra pregunta si hay de chocolate sin azúcar. Tú estás decorando, con las manos llenas de betún. Cuando por fin ves el celular, dos clientas ya encargaron su pastel en otro lado. Ahora, con tu asistente de Dieloxia, cada pregunta de sabores, precios y fechas se contesta al instante, desde la API oficial de WhatsApp. Y tú apruebas cada pedido con un clic. Guárdalo para tu próxima temporada de pedidos.

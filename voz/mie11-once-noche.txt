@@ -1,0 +1,2 @@
+#voz es-MX-JorgeNeural +4%
+Son las 11 de la noche. Tu negocio cerró hace cuatro horas. Pero tu cliente apenas tiene tiempo de preguntar. Escribe: ¿todavía tienen lugar para mañana? Nadie contesta. A las 11 y cuarto le escribe a tu competencia, y tu competencia sí contesta. No perdiste la venta en el día. La perdiste de noche. Un asistente de Dieloxia contesta de noche, aparta y agenda, desde la API oficial de WhatsApp. Y en la mañana tú revisas todo y decides con un clic. Sígueme para más ideas de atención por WhatsApp.
