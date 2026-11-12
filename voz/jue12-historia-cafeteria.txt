@@ -1,0 +1,2 @@
+#voz es-MX-JorgeNeural +4%
+Son las 12 del día y tu cafetería tiene fila hasta la puerta. En WhatsApp, una empresa quiere cotizar veinte desayunos para mañana. Otro cliente pregunta si tienen leche de avena. Tú estás en la barra, sacando capuchinos. Cuando por fin contestas, la empresa ya pidió en otro lado. Ahora, con tu asistente de Dieloxia, el menú, los precios y los pedidos para llevar se contestan al instante, desde la API oficial de WhatsApp. Y tú confirmas cada pedido grande con un clic. ¿Cuántos pedidos te llegan por WhatsApp en un día? Te leo en los comentarios.
