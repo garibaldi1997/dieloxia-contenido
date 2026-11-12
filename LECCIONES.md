@@ -148,3 +148,10 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - Métricas al 10/11: los reels con historia del 9 y 10/11 (laboratorio, contador, taller, gimnasio) quedaron en alcance 0; lo mejor de esos días fue el carrusel (alcance 2) y el reel "Faltan 4 días para el Buen Fin" (alcance 2). Hoy se probó un formato distinto en tendencia ("Expectativa vs. realidad") y se repitió la estructura del mejor reel histórico ("Mientras tú dormías", de noche) a las 18:00. Si siguen en 0, revisar si la cuenta está limitada (Estado de la cuenta en Instagram) antes de seguir con 4 reels diarios.
 - Mueblería y escenas nocturnas casi no tienen fotos de personas latinas libres en Unsplash: usa sala de exhibición + manos/persona de espaldas, y deja la foto con persona latina para otro reel del día.
 - Un script `sheet.sh` (7 cuadros: 0.5 s, cada 1/6 y final) en una sola tira basta para revisar cada reel con Read.
+
+## 2026-11-12 · Métricas y cuidados técnicos
+- `estado/metricas.json` y `aprendizajes.md` no se actualizan desde el 10/11 a las 14:36 (no hay datos del 11/11). Sin error de token en el archivo; revisar que la acción `metricas.yml` siga corriendo.
+- Hoy se movió un reel de historia a las 10:00 (zapatería) y otro a las 12:00 (cafetería), y se repitió el patrón nocturno del mejor reel ("Hoy a las 12 de la noche arranca el Buen Fin") a las 18:00.
+- En los guiones de voz escribe la pregunta tal cual ("¿Precio?"), nunca "signo de interrogación": Edge lo lee literal.
+- Los agentes de reel pueden agregar promesas que no están en el guion ("sin riesgo de bloqueo"): revisa todas las tarjetas de texto antes de publicar y usa frases verificables ("Conectado con Meta").
+- Mientras `pip install playwright` termina para `/usr/bin/python3` (tarda minutos), el carrusel y los posts se pueden renderizar ya con el Playwright de Node (`require('playwright')`).
