@@ -1270,5 +1270,93 @@
   "fecha": "2026-11-11",
   "unsplash": "HmssZtWo_f8",
   "fotografo": "noor vasquez photo"
+ },
+ {
+  "huella": "362c2c21727c160c",
+  "archivo": "botines.jpg",
+  "pieza": "2026-11-12-reel-historia-zapateria",
+  "fecha": "2026-11-12",
+  "unsplash": "Jy6TmgDMFpI",
+  "fotografo": "Gabriel Benois"
+ },
+ {
+  "huella": "b61b070707173171",
+  "archivo": "tienda.jpg",
+  "pieza": "2026-11-12-reel-historia-zapateria",
+  "fecha": "2026-11-12",
+  "unsplash": "hzBjCbryk0g",
+  "fotografo": "Gabriel Benois"
+ },
+ {
+  "huella": "747ebea1d07a2a86",
+  "archivo": "duena.jpg",
+  "pieza": "2026-11-12-reel-historia-zapateria",
+  "fecha": "2026-11-12",
+  "unsplash": "1FGF4yEfNsc",
+  "fotografo": "Javier Contreras"
+ },
+ {
+  "huella": "2f0e98bec6cefc6c",
+  "archivo": "fila.jpg",
+  "pieza": "2026-11-12-reel-historia-cafeteria",
+  "fecha": "2026-11-12",
+  "unsplash": "RCzmpngE9A8",
+  "fotografo": "Josh (jack_of_some_trades)"
+ },
+ {
+  "huella": "60f4b048e8b898da",
+  "archivo": "barra.jpg",
+  "pieza": "2026-11-12-reel-historia-cafeteria",
+  "fecha": "2026-11-12",
+  "unsplash": "jRPxc8VGqco",
+  "fotografo": "Nathan Dumlao"
+ },
+ {
+  "huella": "e5e6bdcb82c70719",
+  "archivo": "calle.jpg",
+  "pieza": "2026-11-12-reel-medianoche-buenfin",
+  "fecha": "2026-11-12",
+  "unsplash": "sQ5JUcgbdU4",
+  "fotografo": "Jennifermm"
+ },
+ {
+  "huella": "ad6de46a2fdd4d25",
+  "archivo": "cortina.jpg",
+  "pieza": "2026-11-12-reel-medianoche-buenfin",
+  "fecha": "2026-11-12",
+  "unsplash": "Ok0ZByRECjM",
+  "fotografo": "Mahdi Bafande"
+ },
+ {
+  "huella": "92326725818ba3d2",
+  "archivo": "manana.jpg",
+  "pieza": "2026-11-12-reel-medianoche-buenfin",
+  "fecha": "2026-11-12",
+  "unsplash": "-P4E59R092Q",
+  "fotografo": "Brunxs"
+ },
+ {
+  "huella": "637273616468434b",
+  "archivo": "foto_post1.jpg",
+  "pieza": "2026-11-12-post1",
+  "fecha": "2026-11-12",
+  "unsplash": "EOkN2pRjFsg",
+  "fotografo": "Ali Mkumbwa"
+ },
+ {
+  "huella": "f0a1c3f0f068e0a0",
+  "archivo": "tienda.jpg",
+  "pieza": "2026-11-12-reel-traductor-buenfin",
+  "fecha": "2026-11-12",
+  "unsplash": "ZilpYeIy6yA",
+  "fotografo": "Kaden Taylor"
+ },
+ {
+  "huella": "2fe4ede2a1e0e89e",
+  "archivo": "noche.jpg",
+  "pieza": "2026-11-12-reel-traductor-buenfin",
+  "fecha": "2026-11-12",
+  "unsplash": "9APAWJM0Cvg",
+  "fotografo": "Kaden Taylor"
  }
 ]
