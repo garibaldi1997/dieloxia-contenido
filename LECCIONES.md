@@ -155,3 +155,11 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - En los guiones de voz escribe la pregunta tal cual ("¿Precio?"), nunca "signo de interrogación": Edge lo lee literal.
 - Los agentes de reel pueden agregar promesas que no están en el guion ("sin riesgo de bloqueo"): revisa todas las tarjetas de texto antes de publicar y usa frases verificables ("Conectado con Meta").
 - Mientras `pip install playwright` termina para `/usr/bin/python3` (tarda minutos), el carrusel y los posts se pueden renderizar ya con el Playwright de Node (`require('playwright')`).
+
+## 2026-11-13 · Métricas y cuidados técnicos
+- `metricas.yml` corre a diario ~20:40 UTC, pero el 12/11 midió los posts el MISMO día (todos en 0) y la corrida del 11/11 se quedó en "queued": el "mejor post de ayer" se debe leer con los datos de hace 2 días. Último dato útil: 11/11 reel de pastelería 10:00 (alcance 13); peor, imagen 11:00 "¿Contestas el WhatsApp?" (0).
+- Hoy (viernes, primer día del Buen Fin) se repitió el patrón del mejor reel histórico (viernes 18:00, "Mientras tú dormías") con la historia nocturna de la estética a las 18:00, y los dos reels de historia en los picos 10:00 y 12:00 (Metricool: 10:00 = 6734, el más alto del viernes).
+- Guiones de ~45 s obligan a SPEED 1.55 y la voz se oye acelerada: escribe los guiones de reel en 220–240 palabras como máximo (≈35–38 s) para quedarse en SPEED 1.3.
+- Unsplash casi no devuelve dueños de negocio latinos con celular: sirvió "shop owner checking phone counter" (recorta el rótulo en inglés antes de usar la foto) y el post tipográfico de línea de tiempo (minuto 0 → 2 horas) salió sin foto.
+- El registro de fotos de varios agentes se hace al final desde la sesión principal escribiendo directo en `estado/fotos_usadas.json` con `fotos.huella` (así se aceptan 2–3 fotos del mismo fotógrafo de la misma pieza); comprobando antes que no choquen con registros de días anteriores.
+- LinkedIn sigue SIN token en el repo (`cuentas.json` solo tiene META_TOKEN_DIELOXIA): los `texto_linkedin` quedan listos en el calendario pero nadie los publica.
