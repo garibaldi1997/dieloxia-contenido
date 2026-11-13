@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-12T21:05:52+00:00",
+  "actualizado": "2026-11-13T20:38:55+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -2775,12 +2775,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfckCg0gLDq/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 1,
-        "ig_reels_avg_watch_time": 1043,
-        "ig_reels_video_view_total_time": 1043
+        "views": 3,
+        "ig_reels_avg_watch_time": 1326,
+        "ig_reels_video_view_total_time": 2653
       },
       "facebook": {
         "reacciones": 0,
@@ -3563,10 +3563,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfpVHjIm5j-/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 1
       },
       "facebook": {
         "reacciones": 0,
@@ -3585,12 +3585,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Dfpb64FlXjI/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 1,
+        "ig_reels_avg_watch_time": 330,
+        "ig_reels_video_view_total_time": 330
       },
       "facebook": {
         "reacciones": 0,
@@ -3631,12 +3631,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfpprSzleDb/",
-        "reach": 0,
+        "reach": 3,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 3,
+        "ig_reels_avg_watch_time": 1293,
+        "ig_reels_video_view_total_time": 3881
       },
       "facebook": {
         "reacciones": 0,
@@ -3665,6 +3665,146 @@
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "https://www.facebook.com/photo.php?fbid=122117273331506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-12-reel-traductor-buenfin": {
+      "tipo": "reel",
+      "fecha": "2026-11-12T16:00:00-06:00",
+      "tema": "Lo que tu cliente escribe en el Buen Fin… y lo que en realidad quiere decir 😅",
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/983490127743308/"
+      },
+      "instagram": {
+        "id": "18020135720953379",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfqG5bkkWTa/",
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "views": 3,
+        "ig_reels_avg_watch_time": 2201,
+        "ig_reels_video_view_total_time": 6603
+      }
+    },
+    "2026-11-12-reel-medianoche-buenfin": {
+      "tipo": "reel",
+      "fecha": "2026-11-12T18:00:00-06:00",
+      "tema": "Hoy a las 12 de la noche arranca el Buen Fin 🌙",
+      "instagram": {
+        "id": "18353469970266956",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfqS1-DCeiT/",
+        "reach": 14,
+        "saved": 0,
+        "shares": 0,
+        "views": 12,
+        "ig_reels_avg_watch_time": 1739,
+        "ig_reels_video_view_total_time": 20874
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1835914304218905/"
+      }
+    },
+    "2026-11-13-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-13T09:00:00-06:00",
+      "tema": "Las 6 preguntas que más te van a llegar hoy 🛍️ (con la respuesta lista para copiar)",
+      "instagram": {
+        "id": "18125396566934364",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Dfr5-r2k4XG/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122117510271506678"
+      }
+    },
+    "2026-11-13-reel-historia-jugueteria": {
+      "tipo": "reel",
+      "fecha": "2026-11-13T10:00:00-06:00",
+      "tema": "Es viernes, 10 de la mañana, primer día del Buen Fin, y tu juguetería ya tiene 30 mensajes",
+      "instagram": {
+        "id": "17957896536033295",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfsAtnljXiB/",
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "views": 3,
+        "ig_reels_avg_watch_time": 1394,
+        "ig_reels_video_view_total_time": 4182
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1157873470159287/"
+      }
+    },
+    "2026-11-13-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-13T11:00:00-06:00",
+      "tema": "Tu cliente ya preguntó. Alguien ya le contestó 🛍️",
+      "instagram": {
+        "id": "17896120785615822",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfsHkpEF1Ul/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122117534649506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-13-reel-historia-veterinaria": {
+      "tipo": "reel",
+      "fecha": "2026-11-13T12:00:00-06:00",
+      "tema": "Es viernes, 12 del día, y tu veterinaria tiene la sala de espera llena 🐾",
+      "instagram": {
+        "id": "18119438393088390",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfsOjODALs5/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1432995025703696/"
       }
     }
   }
