@@ -1,0 +1,2 @@
+#voz es-MX-DaliaNeural +4%
+Es viernes, 10 de la mañana, primer día del Buen Fin, y tu juguetería ya tiene treinta mensajes sin leer. Una mamá pregunta si todavía tienes la muñeca de la foto. Un papá quiere apartar una bicicleta para Navidad. Tú estás en caja, envolviendo regalos. Cuando por fin ves el celular, tres ya compraron en otra tienda. Ahora, con tu asistente de Dieloxia, cada pregunta de existencias, precios y apartados se contesta al instante, desde la API oficial de WhatsApp. Y tú tomas el control con un clic cuando quieras. Guárdalo para este Buen Fin.
