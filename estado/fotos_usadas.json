@@ -1454,5 +1454,101 @@
     "fecha": "2026-11-13",
     "unsplash": "hEY14e_tDgI",
     "fotografo": "Victor Puerta"
+  },
+  {
+    "huella": "86865696af65c64f",
+    "archivo": "barbacoa_a.jpg",
+    "pieza": "2026-11-14-reel-historia-taqueria",
+    "fecha": "2026-11-14",
+    "unsplash": "tuIV9MY2CV4",
+    "fotografo": "Daniel Lloyd Blunk-Fernández"
+  },
+  {
+    "huella": "2622697960c14b71",
+    "archivo": "barbacoa_b.jpg",
+    "pieza": "2026-11-14-reel-historia-taqueria",
+    "fecha": "2026-11-14",
+    "unsplash": "fhP75wVJ3WY",
+    "fotografo": "Daniel Lloyd Blunk-Fernández"
+  },
+  {
+    "huella": "76cecd4d37717b5c",
+    "archivo": "barbacoa_c.jpg",
+    "pieza": "2026-11-14-reel-historia-taqueria",
+    "fecha": "2026-11-14",
+    "unsplash": "14FSe2g8mhE",
+    "fotografo": "Daniel Lloyd Blunk-Fernández"
+  },
+  {
+    "huella": "fd3532310c4fb320",
+    "archivo": "ferreteria_a.jpg",
+    "pieza": "2026-11-14-reel-historia-ferreteria",
+    "fecha": "2026-11-14",
+    "unsplash": "exZ4m21YDXA",
+    "fotografo": "Juan Puyo"
+  },
+  {
+    "huella": "f3f3a7bdbc8ec6f6",
+    "archivo": "ferreteria_b.jpg",
+    "pieza": "2026-11-14-reel-historia-ferreteria",
+    "fecha": "2026-11-14",
+    "unsplash": "nab_idBlLtY",
+    "fotografo": "Guille B"
+  },
+  {
+    "huella": "96883b3b2eae5a6e",
+    "archivo": "ferreteria_c.jpg",
+    "pieza": "2026-11-14-reel-historia-ferreteria",
+    "fecha": "2026-11-14",
+    "unsplash": "Jy60hQjoFbc",
+    "fotografo": "Andrei Castanha"
+  },
+  {
+    "huella": "34923221676b7b12",
+    "archivo": "pizzeria_a.jpg",
+    "pieza": "2026-11-14-reel-historia-pizzeria",
+    "fecha": "2026-11-14",
+    "unsplash": "CURrIrok75o",
+    "fotografo": "Nahima Aparicio"
+  },
+  {
+    "huella": "d1e2e79161602622",
+    "archivo": "pizzeria_b.jpg",
+    "pieza": "2026-11-14-reel-historia-pizzeria",
+    "fecha": "2026-11-14",
+    "unsplash": "b9VzjShlHwY",
+    "fotografo": "Nahima Aparicio"
+  },
+  {
+    "huella": "8080e0e0c43468e8",
+    "archivo": "pizzeria_c.jpg",
+    "pieza": "2026-11-14-reel-historia-pizzeria",
+    "fecha": "2026-11-14",
+    "unsplash": "mAp0Exihhks",
+    "fotografo": "Nahima Aparicio"
+  },
+  {
+    "huella": "9993971b5b6f67e3",
+    "archivo": "festivo_a.jpg",
+    "pieza": "2026-11-14-reel-lunes-festivo",
+    "fecha": "2026-11-14",
+    "unsplash": "sbtfAbhbp3w",
+    "fotografo": "LinkedIn Sales Solutions"
+  },
+  {
+    "huella": "637bcee6cfdf4e9e",
+    "archivo": "festivo_b.jpg",
+    "pieza": "2026-11-14-reel-lunes-festivo",
+    "fecha": "2026-11-14",
+    "unsplash": "eUCBbB7qtB0",
+    "fotografo": "Peter Muniz"
+  },
+  {
+    "huella": "cc24b4f62c745432",
+    "archivo": "post_a.jpg",
+    "pieza": "2026-11-14-post2",
+    "fecha": "2026-11-14",
+    "unsplash": "SEDw7QockoU",
+    "fotografo": "Michael Krahn"
   }
 ]
