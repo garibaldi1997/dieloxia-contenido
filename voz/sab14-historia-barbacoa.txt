@@ -1,0 +1,2 @@
+#voz es-MX-DaliaNeural +4%
+Es sábado, 9 de la mañana, y tu barbacoa ya tiene fila. En WhatsApp te piden: medio kilo para llevar, ¿a qué hora sale el consomé?, ¿hacen envío a domicilio? Tú estás despachando tacos, con las manos ocupadas. Cuando por fin agarras el celular, ya son las once, y tres pedidos se fueron a otra barbacoa. Ahora, con tu asistente de Dieloxia, el menú, los precios y los pedidos se contestan al instante, desde la API oficial de WhatsApp. Tú solo confirmas y despachas, y tomas el control con un clic cuando quieras. Mándaselo a quien tiene una barbacoa.
