@@ -163,3 +163,9 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - Unsplash casi no devuelve dueños de negocio latinos con celular: sirvió "shop owner checking phone counter" (recorta el rótulo en inglés antes de usar la foto) y el post tipográfico de línea de tiempo (minuto 0 → 2 horas) salió sin foto.
 - El registro de fotos de varios agentes se hace al final desde la sesión principal escribiendo directo en `estado/fotos_usadas.json` con `fotos.huella` (así se aceptan 2–3 fotos del mismo fotógrafo de la misma pieza); comprobando antes que no choquen con registros de días anteriores.
 - LinkedIn sigue SIN token en el repo (`cuentas.json` solo tiene META_TOKEN_DIELOXIA): los `texto_linkedin` quedan listos en el calendario pero nadie los publica.
+
+## 2026-11-14 · Cuidados técnicos (plantilla de historia y fotos de comida)
+- Unsplash no tiene fotos de barbacoa (solo tacos al pastor): elige el giro DESPUÉS de ver qué fotos hay, o regenera la voz con el giro que sí tiene fotos (hoy barbacoa → taquería; la voz nueva tardó ~1 min).
+- Plantilla reutilizable de reel con historia: un `historia.js` genérico + `cfg.js` por reel (tiempos de la voz, fotos, notificaciones, lista de chats, chat y cierre) arma un reel en minutos con 7 efectos; los ganchos (`glassY`/`txtY` ≈ 960/1170) van abajo cuando la cara de la foto está arriba.
+- Fotos horizontales en reels: mueve el encuadre con `x0` (p. ej. 78) para que la cara no se pierda al recortar a vertical.
+- Cuatro renders en paralelo de ~29 s tardaron ~15 min. Un reel que se pasa de 30 s por décimas se recorta con `ffmpeg -t 29.95 -c copy`.
