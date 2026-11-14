@@ -1,0 +1,2 @@
+#voz es-MX-DaliaNeural +4%
+Es sábado, 2 de la tarde, y tu taquería ya tiene fila. En WhatsApp te piden: veinte de pastor para llevar, ¿tienen gringas?, ¿hacen envío a domicilio? Tú estás cortando el trompo, con las manos ocupadas. Cuando por fin agarras el celular, ya son las cuatro, y tres pedidos se fueron a otra taquería. Ahora, con tu asistente de Dieloxia, el menú, los precios y los pedidos se contestan al instante, desde la API oficial de WhatsApp. Tú solo confirmas y despachas, y tomas el control con un clic cuando quieras. Mándaselo a quien tiene una taquería.
