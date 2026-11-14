@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T20:38:55+00:00",
+  "actualizado": "2026-11-14T18:51:09+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -2335,12 +2335,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfVDTz8gSRF/",
-        "reach": 5,
+        "reach": 6,
         "saved": 0,
         "shares": 0,
-        "views": 7,
-        "ig_reels_avg_watch_time": 4027,
-        "ig_reels_video_view_total_time": 24165
+        "views": 9,
+        "ig_reels_avg_watch_time": 4494,
+        "ig_reels_video_view_total_time": 31464
       },
       "facebook": {
         "reacciones": 0,
@@ -3261,12 +3261,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfkSYxLkvev/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 1,
-        "ig_reels_avg_watch_time": 2890,
-        "ig_reels_video_view_total_time": 2890
+        "views": 2,
+        "ig_reels_avg_watch_time": 1997,
+        "ig_reels_video_view_total_time": 3994
       },
       "facebook": {
         "reacciones": 0,
@@ -3631,12 +3631,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfpprSzleDb/",
-        "reach": 3,
+        "reach": 4,
         "saved": 0,
         "shares": 0,
-        "views": 3,
-        "ig_reels_avg_watch_time": 1293,
-        "ig_reels_video_view_total_time": 3881
+        "views": 8,
+        "ig_reels_avg_watch_time": 7448,
+        "ig_reels_video_view_total_time": 29793
       },
       "facebook": {
         "reacciones": 0,
@@ -3655,10 +3655,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/Dfp-O8jD9Og/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 1
       },
       "facebook": {
         "reacciones": 0,
@@ -3701,12 +3701,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfqS1-DCeiT/",
-        "reach": 14,
+        "reach": 15,
         "saved": 0,
         "shares": 0,
-        "views": 12,
-        "ig_reels_avg_watch_time": 1739,
-        "ig_reels_video_view_total_time": 20874
+        "views": 13,
+        "ig_reels_avg_watch_time": 1731,
+        "ig_reels_video_view_total_time": 22510
       },
       "facebook": {
         "reacciones": 0,
@@ -3725,10 +3725,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/Dfr5-r2k4XG/",
-        "reach": 0,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 9
       },
       "facebook": {
         "reacciones": 0,
@@ -3747,12 +3747,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfsAtnljXiB/",
-        "reach": 3,
+        "reach": 4,
         "saved": 0,
         "shares": 0,
-        "views": 3,
-        "ig_reels_avg_watch_time": 1394,
-        "ig_reels_video_view_total_time": 4182
+        "views": 4,
+        "ig_reels_avg_watch_time": 1374,
+        "ig_reels_video_view_total_time": 5497
       },
       "facebook": {
         "reacciones": 0,
@@ -3793,18 +3793,180 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfsOjODALs5/",
-        "reach": 0,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 2,
+        "ig_reels_avg_watch_time": 818,
+        "ig_reels_video_view_total_time": 1636
       },
       "facebook": {
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "/reel/1432995025703696/"
+      }
+    },
+    "2026-11-13-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-13T15:00:00-06:00",
+      "tema": "Lo que pasa con un mensaje que no contestas hoy ⏱️",
+      "instagram": {
+        "id": "18118375097017593",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfsjCmmDCnv/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122117593515506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-13-reel-pantalla-dividida": {
+      "tipo": "reel",
+      "fecha": "2026-11-13T16:00:00-06:00",
+      "tema": "Mismo mensaje. Dos negocios. Un solo cliente 🛍️",
+      "instagram": {
+        "id": "18197031982394437",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Dfsp9G6mUTU/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 5,
+        "ig_reels_avg_watch_time": 1525,
+        "ig_reels_video_view_total_time": 7626
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1809338083614601/"
+      }
+    },
+    "2026-11-13-reel-historia-estetica": {
+      "tipo": "reel",
+      "fecha": "2026-11-13T18:00:00-06:00",
+      "tema": "Son las 7 de la noche y tu estética sigue con la última clienta en la silla 💇‍♀️",
+      "instagram": {
+        "id": "18389664595227983",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Dfs3pZjkk79/",
+        "reach": 30,
+        "saved": 0,
+        "shares": 0,
+        "views": 35,
+        "ig_reels_avg_watch_time": 6212,
+        "ig_reels_video_view_total_time": 186382
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1665096108334422/"
+      }
+    },
+    "2026-11-14-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-14T09:00:00-06:00",
+      "tema": "Te escribieron en el Buen Fin, preguntaron precio… y desaparecieron 👻",
+      "instagram": {
+        "id": "18129762292655585",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfuewE2l_b-/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122117800857506678"
+      }
+    },
+    "2026-11-14-reel-historia-taqueria": {
+      "tipo": "reel",
+      "fecha": "2026-11-14T10:00:00-06:00",
+      "tema": "Es sábado, 2 de la tarde, y tu taquería ya tiene fila 🌮",
+      "instagram": {
+        "id": "18361066357247762",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Dfulk4tj38B/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 3,
+        "ig_reels_avg_watch_time": 1098,
+        "ig_reels_video_view_total_time": 2197
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2126523961312791/"
+      }
+    },
+    "2026-11-14-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-14T11:00:00-06:00",
+      "tema": "¿Qué te escriben más en el Buen Fin? 🛍️",
+      "instagram": {
+        "id": "18111823205353534",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfusX93mAx2/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122117833785506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-14-reel-historia-ferreteria": {
+      "tipo": "reel",
+      "fecha": "2026-11-14T12:00:00-06:00",
+      "tema": "Es sábado, 12 del día, y tu ferretería está llena de gente arreglando su casa en el puente",
+      "instagram": {
+        "id": "18078955292719326",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfuzQwUDfs3/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 4,
+        "ig_reels_avg_watch_time": 18139,
+        "ig_reels_video_view_total_time": 18139
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2201410247457334/"
       }
     }
   }
