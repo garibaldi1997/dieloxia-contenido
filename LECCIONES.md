@@ -169,3 +169,8 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - Plantilla reutilizable de reel con historia: un `historia.js` genérico + `cfg.js` por reel (tiempos de la voz, fotos, notificaciones, lista de chats, chat y cierre) arma un reel en minutos con 7 efectos; los ganchos (`glassY`/`txtY` ≈ 960/1170) van abajo cuando la cara de la foto está arriba.
 - Fotos horizontales en reels: mueve el encuadre con `x0` (p. ej. 78) para que la cara no se pierda al recortar a vertical.
 - Cuatro renders en paralelo de ~29 s tardaron ~15 min. Un reel que se pasa de 30 s por décimas se recorta con `ffmpeg -t 29.95 -c copy`.
+
+## 2026-11-15 · Métricas y cuidados técnicos
+- Métricas al 14/11: lo que más alcanzó en la semana fueron los reels de la TARDE-NOCHE (estética viernes 18:00 = 30; "Hoy a las 12 de la noche arranca el Buen Fin" jueves 18:00 = 15). Los reels de historia de las 10:00 y 12:00 del 12–14/11 quedaron en 1–4, y las imágenes de las 11:00 en 0. Hoy: reel de historia nocturno a las 18:00, posts de imagen fuera de las 11:00 (13:00 y 20:00) y un formato en tendencia de polarización ("🚩 o 🟢") a las 16:00.
+- Guiones de ~110 palabras salieron de 41–44 s con Edge: escribe los guiones de reel en ~90–95 palabras (≈34–37 s → SPEED 1.2–1.25). Para regenerar, usa un nombre NUEVO (la acción solo genera los .mp3 que faltan) y borra el guion viejo.
+- `fotos.py revisar` rechazó 3 candidatas del post (Omar Lopez, Vitaly Gariev, Carlos de Almeida ya usados): busca en estado/fotos_usadas.json con `grep -i "<fotógrafo>"` antes de bajar la foto en grande.
