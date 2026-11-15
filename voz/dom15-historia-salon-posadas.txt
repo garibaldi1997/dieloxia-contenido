@@ -1,0 +1,2 @@
+#voz es-MX-JorgeNeural +4%
+Es domingo, 7 de la noche, y tu salón de eventos acaba de cerrar una fiesta. Mientras recoges mesas, llegan quince mensajes: ¿tienen fecha para la posada?, ¿cuánto cuesta para cien personas?, ¿incluye la comida? Cuando por fin contestas, ya es lunes, y cuatro empresas apartaron su posada en otro salón. Ahora, con tu asistente de Dieloxia, las fechas libres, los paquetes y las cotizaciones se contestan al instante, desde la API oficial de WhatsApp. Tú cierras tu evento, y tomas el control con un clic. Sígueme para más ideas para vender por WhatsApp.

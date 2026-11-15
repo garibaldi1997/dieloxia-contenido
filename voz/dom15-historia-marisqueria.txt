@@ -1,0 +1,2 @@
+#voz es-MX-JorgeNeural +4%
+Es domingo, 1 de la tarde, y tu marisquería está llena. Familias esperando mesa, y en el celular se acumulan mensajes: ¿tienen mesa para ocho?, ¿cuánto cuesta el aguachile?, ¿hacen pedidos para llevar? Tú estás sirviendo y cobrando. Cuando por fin contestas, ya son las cuatro, y dos familias comieron en otro lado. Ahora, con tu asistente de Dieloxia, el menú, las mesas y los pedidos se contestan al instante, desde la API oficial de WhatsApp. Tú atiendes, y tomas el control con un clic. Mándaselo a quien contesta el WhatsApp de tu restaurante.
