@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T18:51:09+00:00",
+  "actualizado": "2026-11-15T19:28:01+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -2591,10 +2591,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfZ4X7ZkXAp/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 1
+        "views": 3
       },
       "facebook": {
         "reacciones": 0,
@@ -3566,7 +3566,7 @@
         "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 1
+        "views": 4
       },
       "facebook": {
         "reacciones": 0,
@@ -3863,12 +3863,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Dfs3pZjkk79/",
-        "reach": 30,
+        "reach": 34,
         "saved": 0,
         "shares": 0,
-        "views": 35,
-        "ig_reels_avg_watch_time": 6212,
-        "ig_reels_video_view_total_time": 186382
+        "views": 39,
+        "ig_reels_avg_watch_time": 6398,
+        "ig_reels_video_view_total_time": 217555
       },
       "facebook": {
         "reacciones": 0,
@@ -3887,10 +3887,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfuewE2l_b-/",
-        "reach": 0,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 7
       },
       "facebook": {
         "reacciones": 0,
@@ -3909,12 +3909,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Dfulk4tj38B/",
-        "reach": 2,
+        "reach": 14,
         "saved": 0,
         "shares": 0,
-        "views": 3,
-        "ig_reels_avg_watch_time": 1098,
-        "ig_reels_video_view_total_time": 2197
+        "views": 17,
+        "ig_reels_avg_watch_time": 2464,
+        "ig_reels_video_view_total_time": 34504
       },
       "facebook": {
         "reacciones": 0,
@@ -3952,21 +3952,183 @@
       "instagram": {
         "id": "18078955292719326",
         "comments_count": 0,
-        "like_count": 0,
+        "like_count": 2,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfuzQwUDfs3/",
-        "reach": 1,
+        "reach": 33,
         "saved": 0,
         "shares": 0,
-        "views": 4,
-        "ig_reels_avg_watch_time": 18139,
-        "ig_reels_video_view_total_time": 18139
+        "views": 41,
+        "ig_reels_avg_watch_time": 13015,
+        "ig_reels_video_view_total_time": 416485
       },
       "facebook": {
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "/reel/2201410247457334/"
+      }
+    },
+    "2026-11-14-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-14T15:00:00-06:00",
+      "tema": "El cliente más fácil de venderle es el que ya te escribió 📲",
+      "instagram": {
+        "id": "18510797161099345",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfvH2K9j78K/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122117874957506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-14-reel-lunes-festivo": {
+      "tipo": "reel",
+      "fecha": "2026-11-14T16:00:00-06:00",
+      "tema": "¿Tu negocio cierra el lunes festivo? Tus clientes no 🗓️",
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1027297703731808/"
+      },
+      "instagram": {
+        "id": "17878220793636077",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfvQfjLivlX/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 941,
+        "ig_reels_video_view_total_time": 941
+      }
+    },
+    "2026-11-14-reel-historia-pizzeria": {
+      "tipo": "reel",
+      "fecha": "2026-11-14T18:00:00-06:00",
+      "tema": "Es sábado, 8 de la noche, y tu pizzería no deja de sonar 🍕",
+      "instagram": {
+        "id": "18122443265471907",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfvcdQ5DiXu/",
+        "reach": 19,
+        "saved": 0,
+        "shares": 0,
+        "views": 23,
+        "ig_reels_avg_watch_time": 4091,
+        "ig_reels_video_view_total_time": 85929
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1106091988724993/"
+      }
+    },
+    "2026-11-15-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-15T09:00:00-06:00",
+      "tema": "¿Tu WhatsApp ya está listo para diciembre? 🎄",
+      "instagram": {
+        "id": "18126484187305227",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfxDjVmlDC1/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122118115587506678"
+      }
+    },
+    "2026-11-15-reel-historia-panaderia": {
+      "tipo": "reel",
+      "fecha": "2026-11-15T10:00:00-06:00",
+      "tema": "Es domingo, 10 de la mañana, y tu panadería ya tiene fila 🥖",
+      "instagram": {
+        "id": "18126653134713868",
+        "comments_count": 0,
+        "like_count": 1,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfxKZZaAVZV/",
+        "reach": 13,
+        "saved": 0,
+        "shares": 0,
+        "views": 17,
+        "ig_reels_avg_watch_time": 4251,
+        "ig_reels_video_view_total_time": 59523
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/940624005649456/"
+      }
+    },
+    "2026-11-15-reel-historia-marisqueria": {
+      "tipo": "reel",
+      "fecha": "2026-11-15T12:00:00-06:00",
+      "tema": "Es domingo, 1 de la tarde, y tu marisquería está llena 🦐",
+      "instagram": {
+        "id": "18015716318988952",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfxYHUiD61I/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1141898241890596/"
+      }
+    },
+    "2026-11-15-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-15T13:00:00-06:00",
+      "tema": "¿Quién contesta tu WhatsApp mientras atiendes el mostrador? 💐",
+      "instagram": {
+        "id": "17995822959023547",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Dfxe6p_CWN9/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122118173835506678&set=a.122093668107506678&type=3"
       }
     }
   }
