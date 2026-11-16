@@ -7,3 +7,6 @@
 5. Render final: el mismo comando sin tiempos → `<carpeta>/reel.mp4` (máx. 15 MB).
 
 Estructura: dolor con reloj en pantalla → notificaciones/caos → consecuencia → rebobinar ⏪ → "Ahora, con tu asistente de Dieloxia" → producto resolviendo → final feliz → cierre con logo al centro. Nunca logo arriba. Difumina nombres reales en uniformes o gafetes.
+
+## Plantilla genérica (desde 16/11/2026)
+Un reel con historia en minutos: copia `efectos.js`, `rlib.js`, `historia.js` y `reel_generico.html` (como `reel.html`) a una carpeta, agrega `cfg.js` (ver `ejemplo_cfg.js`: horas, gancho, fotos `a/b/c.jpg`, palabras ancla de la voz, notificaciones, lista de chats, chat y cierre) y las fotos. Música: `python3 bed_auto.py <carpeta> voz/<nombre> <velocidad> palabra1,palabra2,… <palabra_rebobinado>`. Render: `make_reel.py` como arriba. Usa 7 efectos (glassType, uiWorld, phone, digitalZoom, zoomThrough, frameBreak + subtítulos).

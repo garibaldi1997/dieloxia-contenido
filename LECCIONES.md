@@ -174,3 +174,10 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - Métricas al 14/11: lo que más alcanzó en la semana fueron los reels de la TARDE-NOCHE (estética viernes 18:00 = 30; "Hoy a las 12 de la noche arranca el Buen Fin" jueves 18:00 = 15). Los reels de historia de las 10:00 y 12:00 del 12–14/11 quedaron en 1–4, y las imágenes de las 11:00 en 0. Hoy: reel de historia nocturno a las 18:00, posts de imagen fuera de las 11:00 (13:00 y 20:00) y un formato en tendencia de polarización ("🚩 o 🟢") a las 16:00.
 - Guiones de ~110 palabras salieron de 41–44 s con Edge: escribe los guiones de reel en ~90–95 palabras (≈34–37 s → SPEED 1.2–1.25). Para regenerar, usa un nombre NUEVO (la acción solo genera los .mp3 que faltan) y borra el guion viejo.
 - `fotos.py revisar` rechazó 3 candidatas del post (Omar Lopez, Vitaly Gariev, Carlos de Almeida ya usados): busca en estado/fotos_usadas.json con `grep -i "<fotógrafo>"` antes de bajar la foto en grande.
+
+## 2026-11-16 · Reporte semanal y cuidados técnicos
+- Semana 9–14/11 (Instagram): reels 24 piezas = 160 de alcance y 193 vistas; carruseles 6 = 9; imágenes 12 = 6. 0 guardados y 0 compartidos en todo. Seguidores: 5 (+0 en la semana).
+- Voz: los reels con voz de hombre (Jorge) promediaron 4.5 s de visualización y 103 de alcance en 11 reels; los de mujer (Dalia) 1.5 s y 57 en 13. Se sigue alternando (regla del dueño), pero los reels de los picos (12:00 y 18:00) van con Jorge.
+- Lo mejor de la semana: historias de tienda/servicio a las 12:00 y 18:00 con hora + giro + problema (ferretería 33, estética 34, pizzería 19). Lo peor: imágenes de las 11:00 (0). Se dejan las imágenes en 14:00 y 20:00.
+- Plantilla genérica de reel con historia ya en el repo: `plantillas/reel_historia/historia.js` + `cfg.js` (ver README ahí). Con ella los 3 reels de historia se arman en minutos; lo lento es el render (4 en paralelo ≈ 30 min).
+- `estado/fotos_usadas.json` va con `indent=2`; si lo reescribes con `indent=1` (como `fotos.py usar`) el diff cambia todo el archivo.
