@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T19:28:01+00:00",
+  "actualizado": "2026-11-16T23:01:59+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -3793,12 +3793,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfsOjODALs5/",
-        "reach": 2,
+        "reach": 3,
         "saved": 0,
         "shares": 0,
-        "views": 2,
-        "ig_reels_avg_watch_time": 818,
-        "ig_reels_video_view_total_time": 1636
+        "views": 3,
+        "ig_reels_avg_watch_time": 1736,
+        "ig_reels_video_view_total_time": 5210
       },
       "facebook": {
         "reacciones": 0,
@@ -4025,12 +4025,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfvcdQ5DiXu/",
-        "reach": 19,
+        "reach": 21,
         "saved": 0,
         "shares": 0,
-        "views": 23,
-        "ig_reels_avg_watch_time": 4091,
-        "ig_reels_video_view_total_time": 85929
+        "views": 25,
+        "ig_reels_avg_watch_time": 3926,
+        "ig_reels_video_view_total_time": 90305
       },
       "facebook": {
         "reacciones": 0,
@@ -4071,12 +4071,12 @@
         "like_count": 1,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfxKZZaAVZV/",
-        "reach": 13,
+        "reach": 39,
         "saved": 0,
         "shares": 0,
-        "views": 17,
-        "ig_reels_avg_watch_time": 4251,
-        "ig_reels_video_view_total_time": 59523
+        "views": 43,
+        "ig_reels_avg_watch_time": 2521,
+        "ig_reels_video_view_total_time": 103380
       },
       "facebook": {
         "reacciones": 0,
@@ -4095,12 +4095,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfxYHUiD61I/",
-        "reach": 0,
+        "reach": 13,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 12,
+        "ig_reels_avg_watch_time": 1592,
+        "ig_reels_video_view_total_time": 19109
       },
       "facebook": {
         "reacciones": 0,
@@ -4119,6 +4119,168 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/Dfxe6p_CWN9/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122118173835506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-15-reel-banderas": {
+      "tipo": "reel",
+      "fecha": "2026-11-15T16:00:00-06:00",
+      "tema": "🚩 o 🟢 en el WhatsApp de tu negocio",
+      "instagram": {
+        "id": "18438891817199390",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfxzhxKGdPh/",
+        "reach": 11,
+        "saved": 0,
+        "shares": 0,
+        "views": 12,
+        "ig_reels_avg_watch_time": 2682,
+        "ig_reels_video_view_total_time": 32187
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1405203124731119/"
+      }
+    },
+    "2026-11-15-reel-historia-salon": {
+      "tipo": "reel",
+      "fecha": "2026-11-15T18:00:00-06:00",
+      "tema": "Es domingo, 7 de la noche, y te llegan 15 mensajes 🎄",
+      "instagram": {
+        "id": "18116814050027953",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfyBRYzgky9/",
+        "reach": 4,
+        "saved": 0,
+        "shares": 0,
+        "views": 4,
+        "ig_reels_avg_watch_time": 1270,
+        "ig_reels_video_view_total_time": 5081
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1165818239295359/"
+      }
+    },
+    "2026-11-15-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-15T20:00:00-06:00",
+      "tema": "¿Qué le contestas a quien te pregunta “¿cuánto cuesta?” 💬",
+      "instagram": {
+        "id": "18037034195854550",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfyPBOSk9_K/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122118252315506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-16-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-16T09:00:00-06:00",
+      "tema": "Te escriben “está muy caro”. ¿Qué contestas? 💬",
+      "instagram": {
+        "id": "17944812981380101",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DfzoX5EF6A0/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122118447267506678"
+      }
+    },
+    "2026-11-16-reel-historia-boutique": {
+      "tipo": "reel",
+      "fecha": "2026-11-16T10:00:00-06:00",
+      "tema": "Es lunes festivo, 10 de la mañana, y tu boutique abrió con el Buen Fin 👗",
+      "instagram": {
+        "id": "18121487885048405",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DfzvKjogS-O/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1838518494110590/"
+      }
+    },
+    "2026-11-16-reel-historia-celulares": {
+      "tipo": "reel",
+      "fecha": "2026-11-16T12:00:00-06:00",
+      "tema": "Son las 12 del día y tu tienda de celulares no para 📱",
+      "instagram": {
+        "id": "18067487114534142",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Dfz-yZFjlko/",
+        "reach": 9,
+        "saved": 0,
+        "shares": 0,
+        "views": 10,
+        "ig_reels_avg_watch_time": 3435,
+        "ig_reels_video_view_total_time": 30918
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1891135041900060/"
+      }
+    },
+    "2026-11-16-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-16T14:00:00-06:00",
+      "tema": "¿Y si no fue el precio, sino la hora en que contestaste? ⏱️",
+      "instagram": {
+        "id": "18121791371053121",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Df0KmtyCRic/",
         "reach": 0,
         "saved": 0,
         "shares": 0,
@@ -4128,7 +4290,31 @@
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
-        "permalink": "https://www.facebook.com/photo.php?fbid=122118173835506678&set=a.122093668107506678&type=3"
+        "permalink": "https://www.facebook.com/photo.php?fbid=122118504861506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-16-reel-ultimo-dia-buenfin": {
+      "tipo": "reel",
+      "fecha": "2026-11-16T16:00:00-06:00",
+      "tema": "Mañana termina el Buen Fin… y todavía puedes vender por WhatsApp ⏳",
+      "instagram": {
+        "id": "18042943040902748",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df0YcFzDS-l/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1493183019397338/"
       }
     }
   }
