@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16T23:01:59+00:00",
+  "actualizado": "2026-11-17T21:54:48+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -2915,10 +2915,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DffB8RqD_Ug/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 7
       },
       "facebook": {
         "reacciones": 0,
@@ -4257,12 +4257,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Dfz-yZFjlko/",
-        "reach": 9,
+        "reach": 18,
         "saved": 0,
         "shares": 0,
-        "views": 10,
-        "ig_reels_avg_watch_time": 3435,
-        "ig_reels_video_view_total_time": 30918
+        "views": 19,
+        "ig_reels_avg_watch_time": 2943,
+        "ig_reels_video_view_total_time": 52979
       },
       "facebook": {
         "reacciones": 0,
@@ -4303,18 +4303,156 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Df0YcFzDS-l/",
-        "reach": 0,
+        "reach": 39,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 45,
+        "ig_reels_avg_watch_time": 2008,
+        "ig_reels_video_view_total_time": 82356
       },
       "facebook": {
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "/reel/1493183019397338/"
+      }
+    },
+    "2026-11-16-reel-historia-inmobiliaria": {
+      "tipo": "reel",
+      "fecha": "2026-11-16T18:00:00-06:00",
+      "tema": "Son las 8 de la noche y tu inmobiliaria ya cerró 🏠",
+      "instagram": {
+        "id": "18132563338692925",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df0mE7NCdV7/",
+        "reach": 5,
+        "saved": 0,
+        "shares": 0,
+        "views": 14,
+        "ig_reels_avg_watch_time": 2985,
+        "ig_reels_video_view_total_time": 41794
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1473822404920492/"
+      }
+    },
+    "2026-11-16-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-16T20:00:00-06:00",
+      "tema": "¿Ya vas a cerrar? Antes, 5 minutos en tu WhatsApp 🌙",
+      "instagram": {
+        "id": "17968303932204039",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Df0zymGCVNI/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122118568419506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-17-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-17T09:00:00-06:00",
+      "tema": "¿Cuántas ventas se te quedaron en “visto” este Buen Fin? 👀",
+      "instagram": {
+        "id": "17931725046429952",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Df2NI9yDu8B/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122118726735506678"
+      }
+    },
+    "2026-11-17-reel-historia-barberia": {
+      "tipo": "reel",
+      "fecha": "2026-11-17T10:00:00-06:00",
+      "tema": "Es martes, 10 de la mañana, y tu barbería ya tiene fila 💈",
+      "instagram": {
+        "id": "18148129846563978",
+        "comments_count": 0,
+        "like_count": 1,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df2T8xvCaYm/",
+        "reach": 82,
+        "saved": 0,
+        "shares": 0,
+        "views": 100,
+        "ig_reels_avg_watch_time": 7677,
+        "ig_reels_video_view_total_time": 652596
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1447669323546556/"
+      }
+    },
+    "2026-11-17-reel-historia-carniceria": {
+      "tipo": "reel",
+      "fecha": "2026-11-17T12:00:00-06:00",
+      "tema": "Es martes, 12 del día, y tu carnicería tiene fila hasta la puerta 🥩",
+      "instagram": {
+        "id": "18056905190592120",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df2hu0siTYo/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 3,
+        "ig_reels_avg_watch_time": 2697,
+        "ig_reels_video_view_total_time": 10789
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1673939907472417/"
+      }
+    },
+    "2026-11-17-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-17T14:00:00-06:00",
+      "tema": "¿De verdad perdiste esa venta por el precio? 🤔",
+      "instagram": {
+        "id": "18099132557440635",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Df2vZeXDUZj/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122118808143506678&set=a.122093668107506678&type=3"
       }
     }
   }
