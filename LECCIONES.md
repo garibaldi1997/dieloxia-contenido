@@ -181,3 +181,10 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - Lo mejor de la semana: historias de tienda/servicio a las 12:00 y 18:00 con hora + giro + problema (ferretería 33, estética 34, pizzería 19). Lo peor: imágenes de las 11:00 (0). Se dejan las imágenes en 14:00 y 20:00.
 - Plantilla genérica de reel con historia ya en el repo: `plantillas/reel_historia/historia.js` + `cfg.js` (ver README ahí). Con ella los 3 reels de historia se arman en minutos; lo lento es el render (4 en paralelo ≈ 30 min).
 - `estado/fotos_usadas.json` va con `indent=2`; si lo reescribes con `indent=1` (como `fotos.py usar`) el diff cambia todo el archivo.
+
+## 2026-11-17 · Métricas y cuidados técnicos
+- Métricas al 16/11: el mejor reciente fue el reel de historia de la panadería del domingo a las 10:00 (alcance 39) y la ferretería del sábado a las 12:00 (33). Los posts de imagen y los carruseles siguen en 0–2. Del 16/11 solo hay datos del mismo día (celulares 12:00 = 9). Seguidores: 5, sin cambio.
+- El Buen Fin 2026 va del 13 al 17/11, así que hoy es el último día. Antes de escribir "hoy/mañana termina", revisa las fechas oficiales del año.
+- Fotos de "dueña o dueño de tienda con celular": casi todos los fotógrafos buenos ya salieron en los últimos 30 días (Matthew Jackson, Reza Madani, Vitaly Gariev, Michael Krahn, Omar Lopez, Brooke Cagle…). Busca por giro concreto (barbería, carnicería, fisioterapia) en lugar de "shop owner". Para reels de tips, elige las fotos antes de escribir el guion.
+- El reel de tips (sin historia) de hoy dejó solo 2 de 8 escenas con foto. En los reels de tips pon una foto difuminada de fondo también en las escenas del celular, para cumplir la regla de fotos visibles en buena parte del video.
+- Un agente dejó vistas previas (`2.jpg`…) en la raíz del repo: antes de cada commit revisa `git status --short` y sube solo `AAAA-MM-DD/`, `calendario.json`, `estado/` y `voz/`.
