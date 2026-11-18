@@ -188,3 +188,10 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - Fotos de "dueña o dueño de tienda con celular": casi todos los fotógrafos buenos ya salieron en los últimos 30 días (Matthew Jackson, Reza Madani, Vitaly Gariev, Michael Krahn, Omar Lopez, Brooke Cagle…). Busca por giro concreto (barbería, carnicería, fisioterapia) en lugar de "shop owner". Para reels de tips, elige las fotos antes de escribir el guion.
 - El reel de tips (sin historia) de hoy dejó solo 2 de 8 escenas con foto. En los reels de tips pon una foto difuminada de fondo también en las escenas del celular, para cumplir la regla de fotos visibles en buena parte del video.
 - Un agente dejó vistas previas (`2.jpg`…) en la raíz del repo: antes de cada commit revisa `git status --short` y sube solo `AAAA-MM-DD/`, `calendario.json`, `estado/` y `voz/`.
+
+## 2026-11-18 · Métricas y cuidados técnicos
+- Métricas al 17/11: el mejor reel reciente fue la barbería del martes a las 10:00 (alcance 82, 100 vistas, voz Dalia); la carnicería de las 12:00 quedó en 2 y los posts/carrusel en 0. Seguidores: 5, sin cambio. Hoy se repitió el patrón exacto del ganador (día + hora + giro + fila en el primer segundo, 10:00, CTA de comentarios) con el autolavado.
+- Guiones de ~100 palabras salieron de 38–40 s con Edge y obligaron a SPEED 1.3–1.36: para quedarse en SPEED ≤1.25 escribe 85–90 palabras.
+- En la plantilla `historia.js`, las tarjetas `ok1/ok2` ("Fecha apartada", "Respondido") tapan las burbujas del chat: tres agentes las movieron arriba del celular (y≈270–385). Conviene corregirlas en la plantilla del repo.
+- Sesiones de posadas (Wonderhunt) traen niños en primer plano: usa solo las fotos sin menores o difumina el fondo completo.
+- Formato en tendencia de la semana: "2026 is the new 2016" (nostalgia con filtros rosados). Se adaptó como "2016 vs. 2026 en el WhatsApp de tu negocio".
