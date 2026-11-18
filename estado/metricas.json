@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T21:54:48+00:00",
+  "actualizado": "2026-11-18T21:35:43+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -2659,7 +2659,7 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DfaM6-vDVSz/",
-        "reach": 3,
+        "reach": 4,
         "saved": 0,
         "shares": 0,
         "views": 5,
@@ -3585,12 +3585,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Dfpb64FlXjI/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 1,
-        "ig_reels_avg_watch_time": 330,
-        "ig_reels_video_view_total_time": 330
+        "views": 2,
+        "ig_reels_avg_watch_time": 922,
+        "ig_reels_video_view_total_time": 1844
       },
       "facebook": {
         "reacciones": 0,
@@ -4303,12 +4303,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Df0YcFzDS-l/",
-        "reach": 39,
+        "reach": 40,
         "saved": 0,
         "shares": 0,
-        "views": 45,
-        "ig_reels_avg_watch_time": 2008,
-        "ig_reels_video_view_total_time": 82356
+        "views": 46,
+        "ig_reels_avg_watch_time": 2061,
+        "ig_reels_video_view_total_time": 86580
       },
       "facebook": {
         "reacciones": 0,
@@ -4373,10 +4373,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/Df2NI9yDu8B/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0
+        "views": 6
       },
       "facebook": {
         "reacciones": 0,
@@ -4395,12 +4395,12 @@
         "like_count": 1,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Df2T8xvCaYm/",
-        "reach": 82,
+        "reach": 100,
         "saved": 0,
         "shares": 0,
-        "views": 100,
-        "ig_reels_avg_watch_time": 7677,
-        "ig_reels_video_view_total_time": 652596
+        "views": 114,
+        "ig_reels_avg_watch_time": 6871,
+        "ig_reels_video_view_total_time": 714640
       },
       "facebook": {
         "reacciones": 0,
@@ -4419,12 +4419,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Df2hu0siTYo/",
-        "reach": 2,
+        "reach": 5,
         "saved": 0,
         "shares": 0,
-        "views": 3,
-        "ig_reels_avg_watch_time": 2697,
-        "ig_reels_video_view_total_time": 10789
+        "views": 6,
+        "ig_reels_avg_watch_time": 5739,
+        "ig_reels_video_view_total_time": 40177
       },
       "facebook": {
         "reacciones": 0,
@@ -4453,6 +4453,168 @@
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "https://www.facebook.com/photo.php?fbid=122118808143506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-17-reel-buenfin-seguimiento": {
+      "tipo": "reel",
+      "fecha": "2026-11-17T16:00:00-06:00",
+      "tema": "Hoy termina el Buen Fin… ¿y los que preguntaron precio y no compraron? 🛍️",
+      "instagram": {
+        "id": "18111670172199628",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df29NBpHFLk/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 2,
+        "ig_reels_avg_watch_time": 3675,
+        "ig_reels_video_view_total_time": 7351
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1339955881510747/"
+      }
+    },
+    "2026-11-17-reel-historia-fisioterapia": {
+      "tipo": "reel",
+      "fecha": "2026-11-17T18:00:00-06:00",
+      "tema": "Son las 9 de la noche y tu consultorio de fisioterapia ya cerró 🌙",
+      "instagram": {
+        "id": "17928283110200918",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df3K710Ci1R/",
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "views": 4,
+        "ig_reels_avg_watch_time": 23272,
+        "ig_reels_video_view_total_time": 69818
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1823720258879078/"
+      }
+    },
+    "2026-11-17-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-17T20:00:00-06:00",
+      "tema": "¿Tu negocio contesta el WhatsApp? Seguro que sí ✅",
+      "instagram": {
+        "id": "17999640360103612",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Df3Yqo5l4iw/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122118866265506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-18-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-18T09:00:00-06:00",
+      "tema": "¿Cuántas veces vas a escribir “sí abrimos el 24” este diciembre? 🎁",
+      "instagram": {
+        "id": "17957718993315047",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Df4yAH4l8iP/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 4
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122119015701506678"
+      }
+    },
+    "2026-11-18-reel-historia-autolavado": {
+      "tipo": "reel",
+      "fecha": "2026-11-18T10:00:00-06:00",
+      "tema": "Es miércoles, 10 de la mañana, y tu autolavado ya tiene fila 🚗",
+      "instagram": {
+        "id": "18110076818575830",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df44xYsAmkm/",
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "views": 4,
+        "ig_reels_avg_watch_time": 11118,
+        "ig_reels_video_view_total_time": 33356
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1455743252654720/"
+      }
+    },
+    "2026-11-18-reel-historia-banquetes": {
+      "tipo": "reel",
+      "fecha": "2026-11-18T12:00:00-06:00",
+      "tema": "Son las 12 del día y a tu negocio de banquetes le llueven pedidos de posadas 🎉",
+      "instagram": {
+        "id": "17880949929567940",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df5GkiBFC77/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1669919838251676/"
+      }
+    },
+    "2026-11-18-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-18T14:00:00-06:00",
+      "tema": "¿Y si tus manos se quedan en tu negocio… y tu WhatsApp también queda en buenas manos? 🙌",
+      "instagram": {
+        "id": "18121945063981780",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Df5UNiADZXx/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122119065909506678&set=a.122093668107506678&type=3"
       }
     }
   }
