@@ -195,3 +195,11 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - En la plantilla `historia.js`, las tarjetas `ok1/ok2` ("Fecha apartada", "Respondido") tapan las burbujas del chat: tres agentes las movieron arriba del celular (y≈270–385). Conviene corregirlas en la plantilla del repo.
 - Sesiones de posadas (Wonderhunt) traen niños en primer plano: usa solo las fotos sin menores o difumina el fondo completo.
 - Formato en tendencia de la semana: "2026 is the new 2016" (nostalgia con filtros rosados). Se adaptó como "2016 vs. 2026 en el WhatsApp de tu negocio".
+
+## 2026-11-19 · Métricas y cuidados técnicos
+- Métricas al 18/11: el mejor de la semana sigue siendo la barbería del martes 10:00 (alcance 100, 114 vistas, Dalia) y el reel del Buen Fin del lunes 16:00 (40). El 18/11 solo tiene datos del mismo día (autolavado 10:00 = 3; banquetes 12:00 = 0). Imágenes de las 14:00 y 20:00 siguen en 0 → hoy las imágenes van a las 13:00 y 15:00. Seguidores: 5, sin cambio.
+- Hoy se repitió el patrón del ganador ("Es jueves, 10 de la mañana, y tu florería ya está llena de nochebuenas", Dalia, CTA de comentarios) y se probó el formato en tendencia "Cosas que simplemente tienen sentido" (lista de 5) a las 16:00.
+- La plantilla `historia.js` ya trae las tarjetas ok1/ok2 arriba del celular (y=270 y 385): los 3 agentes de hoy tuvieron que moverlas a mano.
+- Guiones de 96–103 palabras con Edge = 35–39 s → SPEED 1.2–1.3 y renders de 30.2–30.4 s. Recortar con `-c copy` deja 30.03 s; re-codifica con `-t 29.9` o escribe 85–90 palabras.
+- Flujo eficiente: empujar los 4 guiones primero, lanzar 4 agentes con un BRIEF común en el scratchpad (fotógrafos de 30 días en un .txt + `fotos_hoy.txt` compartido) y hacer carrusel/posts mientras renderizan; publicar cada pieza en cuanto está lista (commits parciales a main). Todo listo en ~25 min.
+- Floristas latinas con rostro visible casi no hay libres en Unsplash: se usaron nochebuenas en primer plano + florista de espaldas/manos.

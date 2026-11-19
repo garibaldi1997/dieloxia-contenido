@@ -24,7 +24,7 @@ montar(v => {
   if (v > tA + .2 && v < tT + .2) { h += foto(v, tA + .2, tT + .2, P[C.f3 || C.f1], { dim: .7, blur: 8, z0: 1.15, z1: 1.25 });
     const d = (tT - tA) / (C.chat.items.length + 1);
     h += FX.phone(v, tA + .2, tT + .2, s => chat(s, C.chat.nombre, C.chat.items.map((it, i) => Object.assign({ t: tA + .5 + i * d }, it)), '⚡ Asistente'), { y: 500 });
-    h += FX.uiWorld(v, tA + .5 + d * 1.5, tT + .2, [{ x: 560, y: 1000, w: 400, html: `<div style="margin:-24px -28px;padding:24px 28px;background:#12332f;border-radius:30px;font-size:30px;font-weight:800">✅ ${C.ok1}</div>` }, { x: 70, y: 1150, w: 420, html: `<div style="margin:-24px -28px;padding:24px 28px;background:#12332f;border-radius:30px;font-size:30px;font-weight:800">⚡ ${C.ok2}</div>` }]); }
+    h += FX.uiWorld(v, tA + .5 + d * 1.5, tT + .2, [{ x: 560, y: 270, w: 380, html: `<div style="margin:-24px -28px;padding:24px 28px;background:#12332f;border-radius:30px;font-size:30px;font-weight:800">✅ ${C.ok1}</div>` }, { x: 70, y: 385, w: 420, html: `<div style="margin:-24px -28px;padding:24px 28px;background:#12332f;border-radius:30px;font-size:30px;font-weight:800">⚡ ${C.ok2}</div>` }]); }
   // 5 · el dueño sigue con lo suyo + control humano
   if (v > tT && v < tF + .2) h += foto(v, tT, tF + .2, P[C.f4 || C.f2], Object.assign({ dim: .45 }, C.f4o || {})) + chip(v, tT, tF + .2, C.hora3)
     + FX.uiWorld(v, tT + .5, tF + .2, [{ x: 140, y: 1020, w: 800, html: `<div style="display:flex;gap:20px;align-items:center"><div style="font-size:54px">🖐️</div><div><div style="font-size:36px;font-weight:900">Tomar el control</div><div style="font-size:28px;color:#dfeee9">Pasas al chat humano en 1 clic</div></div></div>` }]);
