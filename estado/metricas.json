@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T21:35:43+00:00",
+  "actualizado": "2026-11-19T21:49:21+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -4554,15 +4554,15 @@
       "instagram": {
         "id": "18110076818575830",
         "comments_count": 0,
-        "like_count": 0,
+        "like_count": 1,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Df44xYsAmkm/",
-        "reach": 3,
+        "reach": 7,
         "saved": 0,
         "shares": 0,
-        "views": 4,
-        "ig_reels_avg_watch_time": 11118,
-        "ig_reels_video_view_total_time": 33356
+        "views": 8,
+        "ig_reels_avg_watch_time": 6725,
+        "ig_reels_video_view_total_time": 53801
       },
       "facebook": {
         "reacciones": 0,
@@ -4581,12 +4581,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Df5GkiBFC77/",
-        "reach": 0,
+        "reach": 9,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 10,
+        "ig_reels_avg_watch_time": 3015,
+        "ig_reels_video_view_total_time": 27137
       },
       "facebook": {
         "reacciones": 0,
@@ -4615,6 +4615,190 @@
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "https://www.facebook.com/photo.php?fbid=122119065909506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-18-reel-2016-vs-2026": {
+      "tipo": "reel",
+      "fecha": "2026-11-18T16:00:00-06:00",
+      "tema": "Dicen que 2026 es el nuevo 2016… pero no en el WhatsApp de tu negocio 📱",
+      "instagram": {
+        "id": "18118513849837678",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df5h9aWAKkp/",
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "views": 3,
+        "ig_reels_avg_watch_time": 2459,
+        "ig_reels_video_view_total_time": 7378
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/4780573185504355/"
+      }
+    },
+    "2026-11-18-reel-historia-spa": {
+      "tipo": "reel",
+      "fecha": "2026-11-18T18:00:00-06:00",
+      "tema": "Son las 7 de la noche y en tu spa estás dando el último masaje del día 💆",
+      "instagram": {
+        "id": "18458282005126069",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df5vrZ1lVbS/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 8900,
+        "ig_reels_video_view_total_time": 8900
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2026409018044656/"
+      }
+    },
+    "2026-11-18-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-18T20:00:00-06:00",
+      "tema": "¿Cuántas casillas del bingo llevas esta semana? 🎄",
+      "instagram": {
+        "id": "18164043868507524",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Df59aQpiVZu/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122119116351506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-19-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-19T09:00:00-06:00",
+      "tema": "¿Ya sabes qué días de diciembre se te va a llenar el WhatsApp? 📅",
+      "instagram": {
+        "id": "18141399919556871",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Df7WxZXIMQ5/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122119262175506678"
+      }
+    },
+    "2026-11-19-reel-historia-floreria": {
+      "tipo": "reel",
+      "fecha": "2026-11-19T10:00:00-06:00",
+      "tema": "Es jueves, 10 de la mañana, y tu florería ya está llena de nochebuenas 🌺",
+      "instagram": {
+        "id": "17980739013154333",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df7dp8dkWU_/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1023702784093835/"
+      }
+    },
+    "2026-11-19-reel-historia-taller": {
+      "tipo": "reel",
+      "fecha": "2026-11-19T12:00:00-06:00",
+      "tema": "Son las 12 del día y en tu taller hay tres coches esperando 🔧",
+      "instagram": {
+        "id": "17883232332543219",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df7rX75iDbF/",
+        "reach": 33,
+        "saved": 0,
+        "shares": 0,
+        "views": 36,
+        "ig_reels_avg_watch_time": 4489,
+        "ig_reels_video_view_total_time": 148141
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1784201322663615/"
+      }
+    },
+    "2026-11-19-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-19T13:00:00-06:00",
+      "tema": "¿Qué dice tu WhatsApp cuando no estás? 🌙",
+      "instagram": {
+        "id": "18120928204807408",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Df7yJzVF0b1/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122119321647506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-19-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-19T15:00:00-06:00",
+      "tema": "¿Cuántas veces al día dices “ahorita te contesto”? 🧵",
+      "instagram": {
+        "id": "18133971940869448",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Df7_47sl_1F/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122119338471506678&set=a.122093668107506678&type=3"
       }
     }
   }
