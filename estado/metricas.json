@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T21:49:21+00:00",
+  "actualizado": "2026-11-20T21:32:35+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -2429,10 +2429,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfXTmm-mA81/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 4
+        "views": 5
       },
       "facebook": {
         "reacciones": 0,
@@ -3563,10 +3563,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfpVHjIm5j-/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 4
+        "views": 7
       },
       "facebook": {
         "reacciones": 0,
@@ -4211,10 +4211,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/DfzoX5EF6A0/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 2
+        "views": 4
       },
       "facebook": {
         "reacciones": 0,
@@ -4535,10 +4535,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/Df4yAH4l8iP/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 4
+        "views": 6
       },
       "facebook": {
         "reacciones": 0,
@@ -4651,12 +4651,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Df5vrZ1lVbS/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 1,
-        "ig_reels_avg_watch_time": 8900,
-        "ig_reels_video_view_total_time": 8900
+        "views": 3,
+        "ig_reels_avg_watch_time": 5260,
+        "ig_reels_video_view_total_time": 10521
       },
       "facebook": {
         "reacciones": 0,
@@ -4719,12 +4719,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Df7dp8dkWU_/",
-        "reach": 0,
+        "reach": 14,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 14,
+        "ig_reels_avg_watch_time": 2247,
+        "ig_reels_video_view_total_time": 29216
       },
       "facebook": {
         "reacciones": 0,
@@ -4743,12 +4743,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/Df7rX75iDbF/",
-        "reach": 33,
+        "reach": 103,
         "saved": 0,
         "shares": 0,
-        "views": 36,
-        "ig_reels_avg_watch_time": 4489,
-        "ig_reels_video_view_total_time": 148141
+        "views": 116,
+        "ig_reels_avg_watch_time": 7174,
+        "ig_reels_video_view_total_time": 746194
       },
       "facebook": {
         "reacciones": 0,
@@ -4799,6 +4799,146 @@
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "https://www.facebook.com/photo.php?fbid=122119338471506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-19-reel-cosas-que-tienen-sentido": {
+      "tipo": "reel",
+      "fecha": "2026-11-19T16:00:00-06:00",
+      "tema": "Cosas que simplemente tienen sentido en un negocio ✅",
+      "instagram": {
+        "id": "18406665343204045",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df8GwcakiaZ/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 4,
+        "ig_reels_avg_watch_time": 11415,
+        "ig_reels_video_view_total_time": 34246
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1904052157705517/"
+      }
+    },
+    "2026-11-19-reel-historia-hotel": {
+      "tipo": "reel",
+      "fecha": "2026-11-19T18:00:00-06:00",
+      "tema": "Son las 11 de la noche y en tu hotel ya apagaste la recepción 🌙",
+      "instagram": {
+        "id": "17913697902592111",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df8Ug_GAvZm/",
+        "reach": 4,
+        "saved": 0,
+        "shares": 0,
+        "views": 6,
+        "ig_reels_avg_watch_time": 850,
+        "ig_reels_video_view_total_time": 5100
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/4315945662030082/"
+      }
+    },
+    "2026-11-20-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-20T09:00:00-06:00",
+      "tema": "¿Te apartan pedidos por WhatsApp… y luego no llegan? 📦",
+      "instagram": {
+        "id": "18143148316623982",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Df97oGFFwdG/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122119528713506678"
+      }
+    },
+    "2026-11-20-reel-historia-unas": {
+      "tipo": "reel",
+      "fecha": "2026-11-20T10:00:00-06:00",
+      "tema": "Es viernes, 10 de la mañana, y tu salón de uñas ya está lleno 💅",
+      "instagram": {
+        "id": "18020266397977485",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df-Cafomd-O/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1770096334065505/"
+      }
+    },
+    "2026-11-20-reel-historia-dental": {
+      "tipo": "reel",
+      "fecha": "2026-11-20T12:00:00-06:00",
+      "tema": "Es viernes, 12 del día, y tu consultorio dental tiene la sala de espera llena 🦷",
+      "instagram": {
+        "id": "18003590910002037",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/Df-QJ8SAO0s/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1010941314712777/"
+      }
+    },
+    "2026-11-20-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-20T14:00:00-06:00",
+      "tema": "¿A qué hora te llega el último mensaje del día? 🌙",
+      "instagram": {
+        "id": "18159028957521489",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/Df-d0lCDcns/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122119589613506678&set=a.122093668107506678&type=3"
       }
     }
   }
