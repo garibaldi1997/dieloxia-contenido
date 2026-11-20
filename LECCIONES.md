@@ -203,3 +203,9 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - Guiones de 96–103 palabras con Edge = 35–39 s → SPEED 1.2–1.3 y renders de 30.2–30.4 s. Recortar con `-c copy` deja 30.03 s; re-codifica con `-t 29.9` o escribe 85–90 palabras.
 - Flujo eficiente: empujar los 4 guiones primero, lanzar 4 agentes con un BRIEF común en el scratchpad (fotógrafos de 30 días en un .txt + `fotos_hoy.txt` compartido) y hacer carrusel/posts mientras renderizan; publicar cada pieza en cuanto está lista (commits parciales a main). Todo listo en ~25 min.
 - Floristas latinas con rostro visible casi no hay libres en Unsplash: se usaron nochebuenas en primer plano + florista de espaldas/manos.
+
+## 2026-11-20 · Métricas y cuidados técnicos
+- Métricas al 19/11: el mejor reciente fue el taller del jueves a las 12:00 (alcance 33, Jorge); la florería de las 10:00 quedó en 0 y los dos posts (13:00 y 15:00) y el carrusel en 0. El 18/11: banquetes 12:00 = 9; spa 18:00 = 1. Seguidores: 5, sin cambio. Hoy: historias en 10:00 (uñas, Dalia), 12:00 (dental, Jorge) y 18:00 (gimnasio, Jorge); cuenta regresiva del aguinaldo a las 16:00 (patrón del reel del Buen Fin, 40); imágenes en 14:00 y 19:00 (franja sin probar).
+- Fecha ancla para diciembre: el aguinaldo se paga a más tardar el 20 de diciembre (art. 87 LFT); el 20/11 faltan 30 días exactos. Sirve para cuentas regresivas.
+- La rutina arrancó a las 6:50 CDMX (el reloj del contenedor está en UTC): hay margen para programar el carrusel a las 9:00. Todo quedó listo en ~35 min con 4 agentes en paralelo; guiones de 88–93 palabras quedaron en SPEED 1.25–1.32.
+- Para tapar textos de fondo en una foto, un `backdrop-filter` con `mask-image` en degradado se ve natural; los rectángulos de desenfoque con borde duro se notan. Cuida no desenfocar el celular de la persona.
