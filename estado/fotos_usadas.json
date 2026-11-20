@@ -2070,5 +2070,29 @@
     "fecha": "2026-11-20",
     "unsplash": "gg_-NM9d_uw",
     "fotografo": "Alireza heidarpour"
+  },
+  {
+    "huella": "3cec9cd93916c9c8",
+    "archivo": "a.jpg",
+    "pieza": "2026-11-20-reel-historia-unas",
+    "fecha": "2026-11-20",
+    "unsplash": "zRkla85Xe2o",
+    "fotografo": "Pablo Escobar"
+  },
+  {
+    "huella": "0485939b83c3ce68",
+    "archivo": "b.jpg",
+    "pieza": "2026-11-20-reel-historia-unas",
+    "fecha": "2026-11-20",
+    "unsplash": "JgTUQoe9haU",
+    "fotografo": "Pablo Escobar"
+  },
+  {
+    "huella": "61e380c87c783236",
+    "archivo": "c.jpg",
+    "pieza": "2026-11-20-reel-historia-unas",
+    "fecha": "2026-11-20",
+    "unsplash": "vyhWLx5uNek",
+    "fotografo": "FlyD"
   }
 ]
