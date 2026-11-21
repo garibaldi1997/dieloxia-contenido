@@ -209,3 +209,9 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - Fecha ancla para diciembre: el aguinaldo se paga a más tardar el 20 de diciembre (art. 87 LFT); el 20/11 faltan 30 días exactos. Sirve para cuentas regresivas.
 - La rutina arrancó a las 6:50 CDMX (el reloj del contenedor está en UTC): hay margen para programar el carrusel a las 9:00. Todo quedó listo en ~35 min con 4 agentes en paralelo; guiones de 88–93 palabras quedaron en SPEED 1.25–1.32.
 - Para tapar textos de fondo en una foto, un `backdrop-filter` con `mask-image` en degradado se ve natural; los rectángulos de desenfoque con borde duro se notan. Cuida no desenfocar el celular de la persona.
+
+## 2026-11-21 · Métricas y cuidados técnicos
+- Métricas al 20/11: el mejor del 19/11 fue el taller de las 12:00 (alcance 103, 116 vistas, 7.2 s de visualización promedio, Jorge); florería 10:00 = 14, hotel 18:00 = 4, "Cosas que tienen sentido" 16:00 = 2. Del 20/11 solo hay datos del mismo día (todo en 0). Carruseles e imágenes siguen en 0. Seguidores: 5, sin cambio. Hoy: el reel del pico de las 12:00 va con Jorge (estética canina) y repite "día + hora + giro + problema"; carrusel con tema nuevo (pedir reseñas por WhatsApp) e imágenes a las 11:00 y 14:00.
+- Un agente dejó legible el rótulo de una tienda ("LORDMAUL") con solo velo oscuro: el velo no basta. Revisa cada foto de fondo con un recorte ampliado al 100 % y difumina rótulos con blur ≥ 30 px o sácalos del encuadre.
+- Un guion tipo lista de 85 palabras con varias preguntas salió de 40 s con Edge (las preguntas y los dos puntos alargan las pausas) y necesitó SPEED 1.38: para listas escribe 70–75 palabras.
+- Flujo de hoy: 4 guiones a main → 4 agentes con BRIEF común → carrusel y posts mientras renderizan → cada pieza a main en cuanto está lista (`add_reel.sh`). Todo programado en ~35 min.
