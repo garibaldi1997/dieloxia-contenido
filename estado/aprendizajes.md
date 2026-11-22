@@ -1,8 +1,8 @@
 # Aprendizajes automáticos
-_Actualizado: 21/11/2026 14:20 CDMX · 210 posts con más de 24 h (historias excluidas)._
+_Actualizado: 22/11/2026 14:35 CDMX · 218 posts con más de 24 h (historias excluidas)._
 
 ## Seguidores
-- **dieloxia** (2026-11-21): Instagram 5 (+3 desde 2026-10-15), Facebook 0 (+0)
+- **dieloxia** (2026-11-22): Instagram 5 (+3 desde 2026-10-15), Facebook 0 (+0)
 
 ## Mejores 3 (repetir el patrón: formato, tipo de gancho, hora)
 - **Mientras tú dormías, tu asistente no 🌙** · reel · viernes 18:00 · alcance 126, vistas 136, guardados 1, compartidos 0, comentarios 0
@@ -10,31 +10,31 @@ _Actualizado: 21/11/2026 14:20 CDMX · 210 posts con más de 24 h (historias exc
 - **Son las 12 del día y en tu taller hay tres coches esperando 🔧** · reel · jueves 12:00 · alcance 103, vistas 116, guardados 0, compartidos 0, comentarios 0
 
 ## Peores 3 (no repetir ese gancho/formato/hora tal cual)
-- **¿Cuántas veces al día dices “ahorita te contesto”? 🧵** · imagen · jueves 15:00 · alcance 0, puntaje 0
-- **¿Te apartan pedidos por WhatsApp… y luego no llegan? 📦** · carrusel · viernes 9:00 · alcance 0, puntaje 0
-- **¿A qué hora te llega el último mensaje del día? 🌙** · imagen · viernes 14:00 · alcance 0, puntaje 0
+- **Tus clientes contentos no dejan reseña… porque nadie se la pide ⭐** · carrusel · sábado 9:00 · alcance 0, puntaje 0
+- **¿Cuántos pendientes de tu WhatsApp siguen sin palomita? 📝** · imagen · sábado 11:00 · alcance 0, puntaje 0
+- **¿Cuántas veces al día te preguntan “¿dónde están?” 📍** · imagen · sábado 14:00 · alcance 0, puntaje 0
 
 ### Por formato
 | | posts | alcance prom. | puntaje prom. |
 |---|---|---|---|
-| reel | 112 | 13 | 0.2 |
-| carrusel | 31 | 1 | 0.0 |
-| imagen | 67 | 1 | 0.0 |
+| reel | 116 | 14 | 0.2 |
+| carrusel | 32 | 1 | 0.0 |
+| imagen | 70 | 1 | 0.0 |
 
 ### Por horario
 | | posts | alcance prom. | puntaje prom. |
 |---|---|---|---|
-| mediodía (12–15) | 63 | 8 | 0.0 |
-| mañana (6–11) | 84 | 8 | 0.2 |
-| tarde (16–19) | 58 | 7 | 0.2 |
+| tarde (16–19) | 61 | 8 | 0.1 |
+| mediodía (12–15) | 65 | 8 | 0.0 |
+| mañana (6–11) | 87 | 8 | 0.2 |
 | noche (20–5) | 5 | 1 | 0.0 |
 
 ### Por día
 | | posts | alcance prom. | puntaje prom. |
 |---|---|---|---|
-| sábado | 21 | 12 | 0.1 |
+| viernes | 35 | 11 | 0.3 |
+| sábado | 26 | 11 | 0.1 |
 | domingo | 23 | 10 | 0.3 |
-| viernes | 32 | 10 | 0.3 |
 | jueves | 29 | 8 | 0.1 |
 | lunes | 35 | 6 | 0.1 |
 | martes | 35 | 5 | 0.0 |
@@ -42,6 +42,6 @@ _Actualizado: 21/11/2026 14:20 CDMX · 210 posts con más de 24 h (historias exc
 
 ## Reglas para el siguiente post
 1. Formato con más alcance hasta hoy: **reel**. Dale más espacio en el calendario.
-2. Horario con más alcance: **mediodía (12–15)**. Programa ahí lo más importante.
+2. Horario con más alcance: **tarde (16–19)**. Programa ahí lo más importante.
 3. Reescribe con un gancho DISTINTO los temas de los 3 peores; repite la estructura de los 3 mejores con otro tema.
 4. Si un post tiene alcance pero 0 guardados/compartidos, el gancho funciona pero falta valor: agrega plantilla, checklist o dato útil.
