@@ -215,3 +215,9 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - Un agente dejó legible el rótulo de una tienda ("LORDMAUL") con solo velo oscuro: el velo no basta. Revisa cada foto de fondo con un recorte ampliado al 100 % y difumina rótulos con blur ≥ 30 px o sácalos del encuadre.
 - Un guion tipo lista de 85 palabras con varias preguntas salió de 40 s con Edge (las preguntas y los dos puntos alargan las pausas) y necesitó SPEED 1.38: para listas escribe 70–75 palabras.
 - Flujo de hoy: 4 guiones a main → 4 agentes con BRIEF común → carrusel y posts mientras renderizan → cada pieza a main en cuanto está lista (`add_reel.sh`). Todo programado en ~35 min.
+
+## 2026-11-22 · Métricas y cuidados técnicos
+- Métricas al 21/11: el 20/11 ganaron los reels de historia de los extremos del día: gimnasio viernes 18:00 "Es viernes, 9 de la noche, y tu gimnasio ya cerró" (alcance 96, Jorge) y uñas 10:00 (82, 94 vistas, 1 compartido, Dalia). Dental 12:00 = 10; el reel de cuenta regresiva del aguinaldo (16:00) = 0; posts y carrusel = 0. Del 21/11 solo hay datos del mismo día (óptica 10:00 = 3). Seguidores: 5, sin cambio.
+- Hoy (domingo): historias en 10:00 (pastelería, Dalia), 12:00 (cafetería, Jorge) y 18:00 nocturna (academia de inglés, Jorge, patrón "ya cerró"); el 16:00 se probó el formato "POV" en lugar de la cuenta regresiva que quedó en 0. Carrusel guardable de 5 etiquetas de WhatsApp Business (recurso útil: comenta ETIQUETAS) y posts en 14:00 (editorial con foto) y 20:00 (antes/después tipográfico).
+- Playwright de `/usr/bin/python3` busca `chromium_headless_shell-1255` y no existe: lanza siempre con `executable_path='/opt/pw-browsers/chromium'`.
+- `fotos.py revisar` rechazó la foto de R.D. Smith (ya usada el 17/11 en el reel del Buen Fin): las búsquedas "Latina small business owner phone" devuelven casi siempre fotógrafos ya usados. Funcionó buscar por escena ("metal shutter shop") en lugar de por persona.
