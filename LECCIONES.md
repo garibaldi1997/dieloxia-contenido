@@ -221,3 +221,11 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - Hoy (domingo): historias en 10:00 (pastelería, Dalia), 12:00 (cafetería, Jorge) y 18:00 nocturna (academia de inglés, Jorge, patrón "ya cerró"); el 16:00 se probó el formato "POV" en lugar de la cuenta regresiva que quedó en 0. Carrusel guardable de 5 etiquetas de WhatsApp Business (recurso útil: comenta ETIQUETAS) y posts en 14:00 (editorial con foto) y 20:00 (antes/después tipográfico).
 - Playwright de `/usr/bin/python3` busca `chromium_headless_shell-1255` y no existe: lanza siempre con `executable_path='/opt/pw-browsers/chromium'`.
 - `fotos.py revisar` rechazó la foto de R.D. Smith (ya usada el 17/11 en el reel del Buen Fin): las búsquedas "Latina small business owner phone" devuelven casi siempre fotógrafos ya usados. Funcionó buscar por escena ("metal shutter shop") en lugar de por persona.
+
+## 2026-11-23 · Reporte semanal (16–22/11) y cuidados técnicos
+- Semana 16–22/11 (Instagram): reels 26 piezas = 583 de alcance y 682 vistas (3.6× la semana anterior, 160); carruseles 7 = 6; imágenes 13 = 1. Guardados 0 y 1 compartido (uñas). Seguidores: 5 (+0 en la semana, +0 en 2 semanas).
+- Reels por hora: 10:00 promedia 33 de alcance (barbería 100, uñas 82), 12:00 = 23 (taller 103), 18:00 = 23 (gimnasio 96, sushi 29) y 16:00 = 10 (solo el Buen Fin pasó de 11). Los formatos sin historia de las 16:00 casi no alcanzan: si la semana siguiente siguen bajo 10, cambiar el 16:00 por un cuarto reel con historia.
+- Voz: Dalia 13 reels = 286 de alcance y 6.1 s de visualización promedio (la sube el reel de uñas, 37.8 s); Jorge 13 reels = 297 y 5.1 s. Ya no hay diferencia clara entre voces: se mantiene la alternancia.
+- CTA: los 4 mejores reels cerraron con comentarios ("¿…? Te leo") o compartir ("Mándaselo a…"); el recurso útil (comenta PALABRA) en carruseles no generó comentarios. Hoy: carrusel a las 8:00 (prueba de hora; el de las 9:00 quedó en 0 cinco días seguidos).
+- Black Friday 2026 en México: viernes 27/11 (Cyber Monday 30/11). Hoy se usó como tema del carrusel y del reel de las 16:00.
+- Un agente dejó vistas previas (`2.jpg`…`5.jpg`) otra vez en la raíz del repo: súbelas nunca; usa `git add` con rutas explícitas.
