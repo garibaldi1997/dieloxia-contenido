@@ -229,3 +229,9 @@ Garibaldi: "variable los videos para todo tipo de negocio".
 - CTA: los 4 mejores reels cerraron con comentarios ("¿…? Te leo") o compartir ("Mándaselo a…"); el recurso útil (comenta PALABRA) en carruseles no generó comentarios. Hoy: carrusel a las 8:00 (prueba de hora; el de las 9:00 quedó en 0 cinco días seguidos).
 - Black Friday 2026 en México: viernes 27/11 (Cyber Monday 30/11). Hoy se usó como tema del carrusel y del reel de las 16:00.
 - Un agente dejó vistas previas (`2.jpg`…`5.jpg`) otra vez en la raíz del repo: súbelas nunca; usa `git add` con rutas explícitas.
+
+## 2026-11-24 · Métricas y cuidados técnicos
+- Métricas al 23/11: lo último completo es del 21/11 (sushi sábado 18:00 = 36, óptica 10:00 = 21) y del 22/11 (pastelería 10:00 = 10; cafetería, POV y academia ≤ 3). Del 23/11 solo hay datos del mismo día (imprenta 12:00 = 1, lo demás 0). El alcance de los reels viene bajando desde el 22/11 y los reels sin historia de las 16:00 siguieron bajo 10 (POV 2, Black Friday 0): se aplicó la regla del 23/11 y hoy los 4 reels son con historia (el de la tarde a las 16:30, Metricool martes 17:00 > 16:00).
+- Para refrescar los ganchos se usaron giros nunca usados (estudio de fotografía, farmacia, agencia de viajes) y una variante del mejor reel histórico a las 18:00: "Mientras tú cenabas, cinco negocios le escribieron a tu despacho contable".
+- La plantilla `historia.js` deja el último subtítulo de la voz debajo del cierre y repite el CTA o "dieloxia punto com": el agente de farmacia lo ocultó en su copia (subtítulos apagados durante el cierre). Conviene llevar ese cambio a la plantilla del repo.
+- Foto de dueña latina con delantal en su negocio: "woman owner bakery apron phone" (página 2) devolvió una libre (Centre for Ageing Better). Recorta rótulos en inglés (neón "Bread") fuera del encuadre.
