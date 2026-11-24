@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-22T20:29:00+00:00",
+  "actualizado": "2026-11-24T01:13:04+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -5159,12 +5159,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DgBeFtwDvk3/",
-        "reach": 29,
+        "reach": 36,
         "saved": 0,
         "shares": 0,
-        "views": 33,
-        "ig_reels_avg_watch_time": 4139,
-        "ig_reels_video_view_total_time": 120059
+        "views": 40,
+        "ig_reels_avg_watch_time": 4274,
+        "ig_reels_video_view_total_time": 153866
       },
       "facebook": {
         "reacciones": 0,
@@ -5205,12 +5205,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DgDL-WNj2V7/",
-        "reach": 4,
+        "reach": 10,
         "saved": 0,
         "shares": 0,
-        "views": 9,
-        "ig_reels_avg_watch_time": 3902,
-        "ig_reels_video_view_total_time": 31221
+        "views": 16,
+        "ig_reels_avg_watch_time": 2906,
+        "ig_reels_video_view_total_time": 43603
       },
       "facebook": {
         "reacciones": 0,
@@ -5229,12 +5229,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DgDZtBPjw4H/",
-        "reach": 0,
+        "reach": 3,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 3,
+        "ig_reels_avg_watch_time": 3802,
+        "ig_reels_video_view_total_time": 11406
       },
       "facebook": {
         "reacciones": 0,
@@ -5263,6 +5263,216 @@
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "https://www.facebook.com/photo.php?fbid=122120163063506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-22-reel-pov-domingo": {
+      "tipo": "reel",
+      "fecha": "2026-11-22T16:00:00-06:00",
+      "tema": "POV: es domingo y dijiste que hoy NO ibas a trabajar 😅",
+      "instagram": {
+        "id": "18191834197417458",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgD1KXglKKt/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 3,
+        "ig_reels_avg_watch_time": 770,
+        "ig_reels_video_view_total_time": 2310
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1808891463697915/"
+      }
+    },
+    "2026-11-22-reel-historia-academia": {
+      "tipo": "reel",
+      "fecha": "2026-11-22T18:00:00-06:00",
+      "tema": "Es domingo, 9 de la noche, y tu academia de inglés ya cerró 🌙",
+      "instagram": {
+        "id": "18452996344132570",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgEC5KHEcvV/",
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "views": 6,
+        "ig_reels_avg_watch_time": 11160,
+        "ig_reels_video_view_total_time": 55803
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1636084148316767/"
+      }
+    },
+    "2026-11-22-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-22T20:00:00-06:00",
+      "tema": "¿Con cuántos mensajes sin leer vas a empezar mañana? 📲",
+      "instagram": {
+        "id": "17982619587133092",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgEQniEiU9Y/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122120212959506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-23-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-23T08:00:00-06:00",
+      "tema": "Esta semana te van a preguntar “¿tienen Black Friday?” 🛍️",
+      "instagram": {
+        "id": "18418394434082885",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgFjIA_F4Td/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122120372847506678"
+      }
+    },
+    "2026-11-23-reel-historia-lavanderia": {
+      "tipo": "reel",
+      "fecha": "2026-11-23T10:00:00-06:00",
+      "tema": "Es lunes, 10 de la mañana, y tu lavandería tiene bolsas hasta el techo 🧺",
+      "instagram": {
+        "id": "18164887570507218",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgFwxq6EVNr/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2580369892430474/"
+      }
+    },
+    "2026-11-23-reel-historia-imprenta": {
+      "tipo": "reel",
+      "fecha": "2026-11-23T12:00:00-06:00",
+      "tema": "Es lunes, 12 del día, y tu imprenta tiene 20 pedidos de posadas 🖨️",
+      "instagram": {
+        "id": "18080090981448088",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgF-gmCgAAQ/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2,
+        "ig_reels_avg_watch_time": 3702,
+        "ig_reels_video_view_total_time": 3702
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2566506780525003/"
+      }
+    },
+    "2026-11-23-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-23T15:00:00-06:00",
+      "tema": "¿Y si la inteligencia artificial le contesta a tu cliente algo que no debe? 🤔",
+      "instagram": {
+        "id": "17909753196671474",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgGTGTCjTUA/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122120441937506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-23-reel-black-friday": {
+      "tipo": "reel",
+      "fecha": "2026-11-23T16:00:00-06:00",
+      "tema": "Este viernes es Black Friday 🛍️ ¿Tu WhatsApp está listo?",
+      "instagram": {
+        "id": "18110132591271645",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgGaCJhnIPY/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2297597924370535/"
+      }
+    },
+    "2026-11-23-reel-historia-joyeria": {
+      "tipo": "reel",
+      "fecha": "2026-11-23T18:00:00-06:00",
+      "tema": "Son las 9 de la noche y tu joyería ya cerró 🌙",
+      "instagram": {
+        "id": "18206070679377284",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgGns2UFMpI/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 1201,
+        "ig_reels_video_view_total_time": 1201
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1147542211331204/"
       }
     }
   }
