@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T01:13:04+00:00",
+  "actualizado": "2026-11-24T23:18:37+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -5394,9 +5394,9 @@
         "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 2,
-        "ig_reels_avg_watch_time": 3702,
-        "ig_reels_video_view_total_time": 3702
+        "views": 3,
+        "ig_reels_avg_watch_time": 4240,
+        "ig_reels_video_view_total_time": 8480
       },
       "facebook": {
         "reacciones": 0,
@@ -5437,12 +5437,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DgGaCJhnIPY/",
-        "reach": 0,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 3,
+        "ig_reels_avg_watch_time": 2006,
+        "ig_reels_video_view_total_time": 6020
       },
       "facebook": {
         "reacciones": 0,
@@ -5458,21 +5458,159 @@
       "instagram": {
         "id": "18206070679377284",
         "comments_count": 0,
-        "like_count": 0,
+        "like_count": 3,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DgGns2UFMpI/",
-        "reach": 0,
+        "reach": 48,
         "saved": 0,
         "shares": 0,
-        "views": 1,
-        "ig_reels_avg_watch_time": 1201,
-        "ig_reels_video_view_total_time": 1201
+        "views": 56,
+        "ig_reels_avg_watch_time": 8284,
+        "ig_reels_video_view_total_time": 405937
       },
       "facebook": {
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "/reel/1147542211331204/"
+      }
+    },
+    "2026-11-23-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-23T20:00:00-06:00",
+      "tema": "Sí… pero 😅",
+      "instagram": {
+        "id": "18134854681872152",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgG1bQdDLH_/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122120489133506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-24-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-24T09:00:00-06:00",
+      "tema": "¿Cuántas veces al día te preguntan “¿qué tienen?” 🛍️",
+      "instagram": {
+        "id": "18157133428535336",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgIO3I5k2H_/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122120626293506678"
+      }
+    },
+    "2026-11-24-reel-historia-fotografia": {
+      "tipo": "reel",
+      "fecha": "2026-11-24T10:00:00-06:00",
+      "tema": "Es martes, 10 de la mañana, y tu estudio ya tiene 15 mensajes pidiendo sesión de Navidad 📸",
+      "instagram": {
+        "id": "17874429948648464",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgIVm1uFLOe/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1152819257602114/"
+      }
+    },
+    "2026-11-24-reel-historia-farmacia": {
+      "tipo": "reel",
+      "fecha": "2026-11-24T12:00:00-06:00",
+      "tema": "Son las 12 del día y tu farmacia tiene fila hasta la puerta 💊",
+      "instagram": {
+        "id": "18158301919538895",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgIjfWvAGeu/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1120870730787472/"
+      }
+    },
+    "2026-11-24-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-24T13:00:00-06:00",
+      "tema": "¿Cuántas veces contestaste hoy “¿a qué hora abren?” 🕘",
+      "instagram": {
+        "id": "17905658175372410",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgIqLrrDk-d/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122120671659506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-24-reel-historia-agencia-viajes": {
+      "tipo": "reel",
+      "fecha": "2026-11-24T16:30:00-06:00",
+      "tema": "Son las 4 de la tarde y tu agencia de viajes tiene 20 mensajes preguntando por diciembre ✈",
+      "instagram": {
+        "id": "18347479900279263",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgJCRzWD9A5/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1145611367964257/"
       }
     }
   }
