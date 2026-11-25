@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T23:18:37+00:00",
+  "actualizado": "2026-11-25T22:45:11+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -5461,12 +5461,12 @@
         "like_count": 3,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DgGns2UFMpI/",
-        "reach": 48,
+        "reach": 62,
         "saved": 0,
         "shares": 0,
-        "views": 56,
-        "ig_reels_avg_watch_time": 8284,
-        "ig_reels_video_view_total_time": 405937
+        "views": 72,
+        "ig_reels_avg_watch_time": 9728,
+        "ig_reels_video_view_total_time": 632341
       },
       "facebook": {
         "reacciones": 0,
@@ -5529,12 +5529,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DgIVm1uFLOe/",
-        "reach": 0,
+        "reach": 3,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 2,
+        "ig_reels_avg_watch_time": 1136,
+        "ig_reels_video_view_total_time": 2273
       },
       "facebook": {
         "reacciones": 0,
@@ -5553,12 +5553,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DgIjfWvAGeu/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 1,
+        "ig_reels_avg_watch_time": 138,
+        "ig_reels_video_view_total_time": 138
       },
       "facebook": {
         "reacciones": 0,
@@ -5599,7 +5599,7 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DgJCRzWD9A5/",
-        "reach": 0,
+        "reach": 1,
         "saved": 0,
         "shares": 0,
         "views": 0,
@@ -5611,6 +5611,168 @@
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "/reel/1145611367964257/"
+      }
+    },
+    "2026-11-24-reel-historia-despacho-contable": {
+      "tipo": "reel",
+      "fecha": "2026-11-24T18:00:00-06:00",
+      "tema": "Mientras tú cenabas, cinco negocios le escribieron a tu despacho contable 🌙",
+      "instagram": {
+        "id": "18360316060173802",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgJMg5FjfNz/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 790,
+        "ig_reels_video_view_total_time": 790
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1126956556791427/"
+      }
+    },
+    "2026-11-24-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-24T19:00:00-06:00",
+      "tema": "¿Cuál de estas preguntas te llega más veces al día? 🤔",
+      "instagram": {
+        "id": "18027159287712253",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgJTXwqCYd5/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122120731245506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-25-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-25T08:30:00-06:00",
+      "tema": "Diciembre llega en 6 días. ¿Tu WhatsApp está listo? ✅",
+      "instagram": {
+        "id": "18111142628270682",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgKwK79jluE/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122120870361506678"
+      }
+    },
+    "2026-11-25-reel-historia-boutique": {
+      "tipo": "reel",
+      "fecha": "2026-11-25T10:00:00-06:00",
+      "tema": "Es miércoles, 10 de la mañana, y tu boutique ya tiene 30 mensajes preguntando por el Black",
+      "instagram": {
+        "id": "18158323873516036",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgK99q7Cd_j/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 2,
+        "ig_reels_avg_watch_time": 31995,
+        "ig_reels_video_view_total_time": 31995
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2117203788933797/"
+      }
+    },
+    "2026-11-25-reel-historia-taqueria": {
+      "tipo": "reel",
+      "fecha": "2026-11-25T12:00:00-06:00",
+      "tema": "Son las 12 del día y tu taquería ya tiene 20 pedidos por WhatsApp 🌮",
+      "instagram": {
+        "id": "18112150925220151",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgLIQ8UTxx0/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2155108281762407/"
+      }
+    },
+    "2026-11-25-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-25T14:00:00-06:00",
+      "tema": "Antes te preguntaban en el mostrador. Hoy te preguntan por WhatsApp 📲",
+      "instagram": {
+        "id": "18137426272664532",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgLV3FZDa2z/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122120935893506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-25-reel-historia-veterinaria": {
+      "tipo": "reel",
+      "fecha": "2026-11-25T16:30:00-06:00",
+      "tema": "Son las 5 de la tarde y en tu veterinaria hay tres perritos en la sala de espera 🐶",
+      "instagram": {
+        "id": "17975451234241244",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgLnDKQhjNd/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1155213656910803/"
       }
     }
   }
