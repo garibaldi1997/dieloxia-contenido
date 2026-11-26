@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25T22:45:11+00:00",
+  "actualizado": "2026-11-26T22:34:28+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -4675,10 +4675,10 @@
         "like_count": 0,
         "media_product_type": "FEED",
         "permalink": "https://www.instagram.com/p/Df59aQpiVZu/",
-        "reach": 1,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 1
+        "views": 3
       },
       "facebook": {
         "reacciones": 0,
@@ -5715,12 +5715,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DgLIQ8UTxx0/",
-        "reach": 0,
+        "reach": 22,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 27,
+        "ig_reels_avg_watch_time": 8587,
+        "ig_reels_video_view_total_time": 188925
       },
       "facebook": {
         "reacciones": 0,
@@ -5761,6 +5761,98 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DgLnDKQhjNd/",
+        "reach": 5,
+        "saved": 0,
+        "shares": 0,
+        "views": 5,
+        "ig_reels_avg_watch_time": 1406,
+        "ig_reels_video_view_total_time": 7032
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1155213656910803/"
+      }
+    },
+    "2026-11-25-reel-historia-regalos": {
+      "tipo": "reel",
+      "fecha": "2026-11-25T18:00:00-06:00",
+      "tema": "Son las 9 de la noche y tu tienda de regalos ya cerró 🎁 Pero tu WhatsApp no.",
+      "instagram": {
+        "id": "17917539447488379",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgLxUo_NmvA/",
+        "reach": 5,
+        "saved": 0,
+        "shares": 0,
+        "views": 4,
+        "ig_reels_avg_watch_time": 4771,
+        "ig_reels_video_view_total_time": 19085
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1172980489012523/"
+      }
+    },
+    "2026-11-25-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-25T19:30:00-06:00",
+      "tema": "¿Ya tienes listos tus mensajes para el Black Friday? 🛍️",
+      "instagram": {
+        "id": "18141018529692950",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgL7pxHk4gE/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122120974977506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-26-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-26T08:45:00-06:00",
+      "tema": "¿Usas los estados de WhatsApp de tu negocio? 📲",
+      "instagram": {
+        "id": "18116543228026475",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgNWhF0FtKR/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122121113109506678"
+      }
+    },
+    "2026-11-26-reel-historia-yoga": {
+      "tipo": "reel",
+      "fecha": "2026-11-26T10:00:00-06:00",
+      "tema": "Es jueves, 10 de la mañana, y tu estudio de yoga ya tiene 18 mensajes sin leer 🧘",
+      "instagram": {
+        "id": "18133204798930574",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgNfCf9MvPG/",
         "reach": 0,
         "saved": 0,
         "shares": 0,
@@ -5772,7 +5864,99 @@
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
-        "permalink": "/reel/1155213656910803/"
+        "permalink": "/reel/2206479059997294/"
+      }
+    },
+    "2026-11-26-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-26T11:00:00-06:00",
+      "tema": "Así se va a ver tu celular mañana a las 10 🛍️",
+      "instagram": {
+        "id": "18185076169430262",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgNl5CGnZ9-/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122121134721506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-26-reel-historia-electronica": {
+      "tipo": "reel",
+      "fecha": "2026-11-26T12:00:00-06:00",
+      "tema": "Son las 12 del día, mañana es Black Friday, y tu tienda de electrónica ya tiene 40 mensaje",
+      "instagram": {
+        "id": "17970068070218014",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgNsx01hye2/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1171112605252158/"
+      }
+    },
+    "2026-11-26-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-26T14:30:00-06:00",
+      "tema": "¿Contestar rápido significa vivir pegado al celular? 🤔",
+      "instagram": {
+        "id": "18248546464315502",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgN96zvjNRK/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122121169275506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-26-reel-historia-bicicletas": {
+      "tipo": "reel",
+      "fecha": "2026-11-26T16:30:00-06:00",
+      "tema": "Son las 5 de la tarde y en tu taller de bicicletas hay tres bicis esperando y 15 mensajes ",
+      "instagram": {
+        "id": "18133984915747330",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgOLqg_Sdv_/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0,
+        "ig_reels_avg_watch_time": 0,
+        "ig_reels_video_view_total_time": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/29212045058464971/"
       }
     }
   }
