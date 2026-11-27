@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T22:34:28+00:00",
+  "actualizado": "2026-11-27T22:19:22+00:00",
   "publicaciones": {
     "2026-10-16-prueba-post": {
       "tipo": "imagen",
@@ -5785,12 +5785,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DgLxUo_NmvA/",
-        "reach": 5,
+        "reach": 6,
         "saved": 0,
         "shares": 0,
-        "views": 4,
-        "ig_reels_avg_watch_time": 4771,
-        "ig_reels_video_view_total_time": 19085
+        "views": 5,
+        "ig_reels_avg_watch_time": 4113,
+        "ig_reels_video_view_total_time": 20567
       },
       "facebook": {
         "reacciones": 0,
@@ -5853,12 +5853,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DgNfCf9MvPG/",
-        "reach": 0,
+        "reach": 2,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 1,
+        "ig_reels_avg_watch_time": 1983,
+        "ig_reels_video_view_total_time": 3966
       },
       "facebook": {
         "reacciones": 0,
@@ -5899,12 +5899,12 @@
         "like_count": 0,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DgNsx01hye2/",
-        "reach": 0,
+        "reach": 4,
         "saved": 0,
         "shares": 0,
-        "views": 1,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 3,
+        "ig_reels_avg_watch_time": 3055,
+        "ig_reels_video_view_total_time": 9166
       },
       "facebook": {
         "reacciones": 0,
@@ -5942,21 +5942,159 @@
       "instagram": {
         "id": "18133984915747330",
         "comments_count": 0,
-        "like_count": 0,
+        "like_count": 1,
         "media_product_type": "REELS",
         "permalink": "https://www.instagram.com/reel/DgOLqg_Sdv_/",
-        "reach": 0,
+        "reach": 108,
         "saved": 0,
         "shares": 0,
-        "views": 0,
-        "ig_reels_avg_watch_time": 0,
-        "ig_reels_video_view_total_time": 0
+        "views": 124,
+        "ig_reels_avg_watch_time": 8667,
+        "ig_reels_video_view_total_time": 936103
       },
       "facebook": {
         "reacciones": 0,
         "comentarios": 0,
         "compartidos": 0,
         "permalink": "/reel/29212045058464971/"
+      }
+    },
+    "2026-11-26-reel-historia-maquillaje": {
+      "tipo": "reel",
+      "fecha": "2026-11-26T18:00:00-06:00",
+      "tema": "Son las 9 de la noche y tu estudio de maquillaje ya cerró 💄 Pero tu WhatsApp sigue sonando",
+      "instagram": {
+        "id": "17972613629962960",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgOV-DyRN2k/",
+        "reach": 2,
+        "saved": 0,
+        "shares": 0,
+        "views": 2,
+        "ig_reels_avg_watch_time": 7271,
+        "ig_reels_video_view_total_time": 14542
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2412869272886430/"
+      }
+    },
+    "2026-11-27-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-11-27T08:15:00-06:00",
+      "tema": "Un cliente te escribe molesto por WhatsApp. ¿Qué le contestas? 😬",
+      "instagram": {
+        "id": "18065838602563150",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgP37UHI3iF/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/122104850127506678/posts/122121330495506678"
+      }
+    },
+    "2026-11-27-reel-historia-tatuajes": {
+      "tipo": "reel",
+      "fecha": "2026-11-27T10:00:00-06:00",
+      "tema": "Es viernes, Black Friday, 10 de la mañana, y tu estudio de tatuajes ya tiene 25 mensajes s",
+      "instagram": {
+        "id": "18163253263509814",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgQD25XBHHg/",
+        "reach": 3,
+        "saved": 0,
+        "shares": 0,
+        "views": 2,
+        "ig_reels_avg_watch_time": 826,
+        "ig_reels_video_view_total_time": 1652
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/1152989477462954/"
+      }
+    },
+    "2026-11-27-reel-historia-tamaleria": {
+      "tipo": "reel",
+      "fecha": "2026-11-27T12:00:00-06:00",
+      "tema": "Son las 12 del día y tu tamalería ya tiene 30 pedidos para posadas 🫔",
+      "instagram": {
+        "id": "18122487611045693",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "REELS",
+        "permalink": "https://www.instagram.com/reel/DgQRlYthliv/",
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "views": 1,
+        "ig_reels_avg_watch_time": 1770,
+        "ig_reels_video_view_total_time": 1770
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "/reel/2654327251697211/"
+      }
+    },
+    "2026-11-27-post1": {
+      "tipo": "imagen",
+      "fecha": "2026-11-27T13:30:00-06:00",
+      "tema": "Faltan 5 semanas para 2027. ¿Qué propósito tiene tu negocio? ✍️",
+      "instagram": {
+        "id": "18104782934649043",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgQb5QvlARm/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122121403101506678&set=a.122093668107506678&type=3"
+      }
+    },
+    "2026-11-27-post2": {
+      "tipo": "imagen",
+      "fecha": "2026-11-27T15:00:00-06:00",
+      "tema": "¿Qué respuesta prefiere tu cliente: A o B? 🤔",
+      "instagram": {
+        "id": "17968959141230561",
+        "comments_count": 0,
+        "like_count": 0,
+        "media_product_type": "FEED",
+        "permalink": "https://www.instagram.com/p/DgQmMdNEiBH/",
+        "reach": 0,
+        "saved": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "facebook": {
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0,
+        "permalink": "https://www.facebook.com/photo.php?fbid=122121414651506678&set=a.122093668107506678&type=3"
       }
     }
   }
